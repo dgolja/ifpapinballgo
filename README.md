@@ -12,3 +12,7 @@ The official spec (v2.1) has several issues. The most notable ones are:
 - Missing or misspelled fields.
 
 I reached out to the IFPA to see if some of these issues can be fixed. Once they are resolved, I will update the client library.
+
+## Backwards compatibility guarantee
+
+Whatever is committed to main should work, and I will try to keep changes backwards compatible. However, at this stage the Go client is still under development and even if it's mostly working there is still some work to do. For example, some dates are still returned as strings, which I plan to fix. Hopefully some other bugs found during development will also be fixed by the IFPA team, which means the client will change accordingly.
