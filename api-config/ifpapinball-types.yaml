@@ -1,0 +1,10 @@
+package: client
+generate:
+  models: true
+output-options:
+  skip-prune: true
+output: client/types.gen.go
+compatibility:
+  old-aliasing: true
+  old-merge-schemas: true
+  disable-flatten-additional-properties: true
