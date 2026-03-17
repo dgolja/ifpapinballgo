@@ -73,6 +73,11 @@ get-ifpa-api: ## Retrieve IFPA Pinball API definition and store it to $(IFPA_OPE
 ifpa-api-json-to-yaml: get-ifpa-api $(TOOLS_BIN)/yq ## This converts the IFPA Official Pinball API spec from JSON to YAML
 	$(TOOLS_BIN)/yq -p json -o yaml $(IFPA_OPENAPI_JSON) > $(IFPA_OPENAPI_YAML)
 
+.PHONY: test
+test: ## Run all tests
+	@echo "Running tests..."
+	go test -v -race -cover ./client ./types
+
 .PHONY: clean
 clean: ## Removes the /.bin directory.
 	rm -rf $(TOOLS_BIN)

@@ -1,0 +1,221 @@
+{
+  "player": [
+    {
+      "player_id": "13",
+      "first_name": "Mats",
+      "last_name": "Runsten",
+      "initials": "MCR",
+      "excluded_flag": "false",
+      "age": "",
+      "city": "Stockholm",
+      "stateprov": "Sto",
+      "country_name": "Sweden",
+      "country_code": "SE",
+      "ifpa_registered": "true",
+      "womens_flag": "false",
+      "virtual_player_flag": "false",
+      "profile_photo": "https://www.ifpapinball.com/images/profiles/players/13.jpg",
+      "matchplay_events": {
+        "id": "164",
+        "rating": "1672",
+        "rank": "1142"
+      },
+      "twitch_username": "mcr_47",
+      "pinside_username": "",
+      "player_stats": {
+        "system": {
+          "open": {
+            "current_rank": "218",
+            "last_month_rank": "271",
+            "last_year_rank": "299",
+            "highest_rank": "1",
+            "highest_rank_date": "2008-03-01",
+            "pro_rank": "209",
+            "current_points": "687.5200",
+            "all_time_points": "7886.53",
+            "active_points": "1084.2000",
+            "inactive_points": "6802.3300",
+            "best_finish": "1",
+            "best_finish_count": "118",
+            "average_finish": "10",
+            "average_finish_last_year": "18",
+            "total_events_all_time": "572",
+            "total_active_events": "41",
+            "total_events_away": "87",
+            "total_wins_last_3_years": "8",
+            "top_3_last_3_years": "14",
+            "top_10_last_3_years": "22",
+            "ratings_rank": "289",
+            "ratings_value": "1731.88",
+            "efficiency_rank": "682",
+            "efficiency_value": "36.860"
+          }
+        },
+        "years_active": "32"
+      }
+    },
+    {
+      "player_id": "44334",
+      "first_name": "Dejan",
+      "last_name": "Golja",
+      "initials": "DGO",
+      "excluded_flag": "false",
+      "age": 46,
+      "city": "",
+      "stateprov": "NSW",
+      "country_name": "Australia",
+      "country_code": "AU",
+      "ifpa_registered": "true",
+      "womens_flag": "false",
+      "virtual_player_flag": "false",
+      "profile_photo": "",
+      "matchplay_events": {
+        "id": "3581",
+        "rating": "1547",
+        "rank": "8780"
+      },
+      "twitch_username": null,
+      "pinside_username": null,
+      "player_stats": {
+        "system": {
+          "open": {
+            "current_rank": "5618",
+            "last_month_rank": "6061",
+            "last_year_rank": "5389",
+            "highest_rank": "2045",
+            "highest_rank_date": "2017-12-01",
+            "pro_rank": "",
+            "current_points": "41.7425",
+            "all_time_points": "124.05",
+            "active_points": "58.3900",
+            "inactive_points": "65.6600",
+            "best_finish": "2",
+            "best_finish_count": "6",
+            "average_finish": "19",
+            "average_finish_last_year": "13",
+            "total_events_all_time": "95",
+            "total_active_events": "18",
+            "total_events_away": "24",
+            "total_wins_last_3_years": "0",
+            "top_3_last_3_years": "0",
+            "top_10_last_3_years": "6",
+            "ratings_rank": "3581",
+            "ratings_value": "1457.86",
+            "efficiency_rank": "10310",
+            "efficiency_value": "8.080"
+          }
+        },
+        "years_active": "9"
+      },
+      "series": [
+        {
+          "series_code": "ACS",
+          "region_code": "NSW",
+          "region_name": "New South Wales",
+          "year": "2023",
+          "total_points": "8.15",
+          "series_rank": "54",
+          "system": "open"
+        },
+        {
+          "series_code": "ACS",
+          "region_code": "NSW",
+          "region_name": "New South Wales",
+          "year": "2025",
+          "total_points": "11.67",
+          "series_rank": "113",
+          "system": "open"
+        },
+        {
+          "series_code": "ACS",
+          "region_code": "NSW",
+          "region_name": "New South Wales",
+          "year": "2026",
+          "total_points": "6.26",
+          "series_rank": "45",
+          "system": "open"
+        }
+      ]
+    },
+    {
+      "player_id": "83231",
+      "first_name": "Katja",
+      "last_name": "Rižner",
+      "initials": "CAT",
+      "excluded_flag": "false",
+      "age": "",
+      "city": "Koper",
+      "stateprov": "Kop",
+      "country_name": "Slovenia",
+      "country_code": "SI",
+      "ifpa_registered": "true",
+      "womens_flag": "true",
+      "virtual_player_flag": "false",
+      "profile_photo": "",
+      "matchplay_events": {
+        "id": "19045",
+        "rating": "1446",
+        "rank": "15015"
+      },
+      "twitch_username": null,
+      "pinside_username": null,
+      "player_stats": {
+        "system": {
+          "open": {
+            "current_rank": "4266",
+            "last_month_rank": "4243",
+            "last_year_rank": "4748",
+            "highest_rank": "3214",
+            "highest_rank_date": "2022-10-01",
+            "pro_rank": "",
+            "current_points": "61.8900",
+            "all_time_points": "145.04",
+            "active_points": "121.6100",
+            "inactive_points": "23.4400",
+            "best_finish": "4",
+            "best_finish_count": "2",
+            "average_finish": "56",
+            "average_finish_last_year": "73",
+            "total_events_all_time": "94",
+            "total_active_events": "73",
+            "total_events_away": "55",
+            "total_wins_last_3_years": "0",
+            "top_3_last_3_years": "0",
+            "top_10_last_3_years": "15",
+            "ratings_rank": "31292",
+            "ratings_value": "1186.59",
+            "efficiency_rank": "32767",
+            "efficiency_value": "2.560"
+          },
+          "womens": {
+            "current_rank": "2502",
+            "last_month_rank": "2501",
+            "last_year_rank": "3354",
+            "highest_rank": "1588",
+            "highest_rank_date": "2023-06-01",
+            "pro_rank": "",
+            "current_points": "2.72",
+            "all_time_points": "3.20",
+            "active_points": "121.6000",
+            "inactive_points": "23.4400",
+            "best_finish": "11",
+            "best_finish_count": "1",
+            "average_finish": "13",
+            "average_finish_last_year": "14",
+            "total_events_all_time": "3",
+            "total_active_events": "3",
+            "total_events_away": "3",
+            "total_wins_last_3_years": "0",
+            "top_3_last_3_years": "0",
+            "top_10_last_3_years": "0",
+            "ratings_rank": "31292",
+            "ratings_value": "1186.59",
+            "efficiency_rank": "2948",
+            "efficiency_value": "6.630"
+          }
+        },
+        "years_active": "4"
+      }
+    }
+  ]
+}

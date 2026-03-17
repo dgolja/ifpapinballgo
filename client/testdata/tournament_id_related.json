@@ -1,0 +1,144 @@
+{
+  "tournament": [
+    {
+      "tournament_id": "105255",
+      "tournament_name": "Brisbane Masters",
+      "tournament_type": "Tournament",
+      "event_name": "Main Tournament",
+      "event_start_date": "2026-06-20",
+      "event_end_date": "2026-06-21",
+      "ranking_system": "MAIN",
+      "winner": ""
+    },
+    {
+      "tournament_id": "105256",
+      "tournament_name": "Brisbane Masters",
+      "tournament_type": "Tournament",
+      "event_name": "Womens Division",
+      "event_start_date": "2026-06-19",
+      "event_end_date": "2026-06-19",
+      "ranking_system": "WOMEN",
+      "winner": ""
+    },
+    {
+      "tournament_id": "73485",
+      "tournament_name": "Brisbane Masters",
+      "tournament_type": "Tournament",
+      "event_name": "Main Tournament",
+      "event_start_date": "2024-07-20",
+      "event_end_date": "2024-07-21",
+      "ranking_system": "MAIN",
+      "winner": {
+        "player_id": "1605",
+        "name": "Escher Lefkoff",
+        "country_name": "Australia",
+        "country_code": "AU"
+      }
+    },
+    {
+      "tournament_id": "59495",
+      "tournament_name": "Brisbane Masters",
+      "tournament_type": "Tournament",
+      "event_name": "Main Tournament",
+      "event_start_date": "2023-07-22",
+      "event_end_date": "2023-07-23",
+      "ranking_system": "MAIN",
+      "winner": {
+        "player_id": "1605",
+        "name": "Escher Lefkoff",
+        "country_name": "Australia",
+        "country_code": "AU"
+      }
+    },
+    {
+      "tournament_id": "48386",
+      "tournament_name": "Brisbane Masters",
+      "tournament_type": "Tournament",
+      "event_name": "Main Tournament",
+      "event_start_date": "2022-07-23",
+      "event_end_date": "2022-07-24",
+      "ranking_system": "MAIN",
+      "winner": {
+        "player_id": "166",
+        "name": "Steven Bowden",
+        "country_name": "United States",
+        "country_code": "US"
+      }
+    },
+    {
+      "tournament_id": "32054",
+      "tournament_name": "Brisbane Masters",
+      "tournament_type": "Tournament",
+      "event_name": "Main Tournament",
+      "event_start_date": "2019-08-17",
+      "event_end_date": "2019-08-18",
+      "ranking_system": "MAIN",
+      "winner": {
+        "player_id": "14499",
+        "name": "Colin Urban",
+        "country_name": "United States",
+        "country_code": "US"
+      }
+    },
+    {
+      "tournament_id": "25890",
+      "tournament_name": "Brisbane Masters",
+      "tournament_type": "Tournament",
+      "event_name": "Main Tournament",
+      "event_start_date": "2018-07-21",
+      "event_end_date": "2018-07-22",
+      "ranking_system": "MAIN",
+      "winner": {
+        "player_id": "15769",
+        "name": "Peter Watt",
+        "country_name": "Australia",
+        "country_code": "AU"
+      }
+    },
+    {
+      "tournament_id": "17639",
+      "tournament_name": "Brisbane Masters",
+      "tournament_type": "Tournament",
+      "event_name": "Main Tournament",
+      "event_start_date": "2017-07-22",
+      "event_end_date": "2017-07-23",
+      "ranking_system": "MAIN",
+      "winner": {
+        "player_id": "14495",
+        "name": "Robert Macauley",
+        "country_name": "Australia",
+        "country_code": "AU"
+      }
+    },
+    {
+      "tournament_id": "14085",
+      "tournament_name": "Brisbane Masters",
+      "tournament_type": "Tournament",
+      "event_name": "Main Tournament",
+      "event_start_date": "2016-07-30",
+      "event_end_date": "2016-07-31",
+      "ranking_system": "MAIN",
+      "winner": {
+        "player_id": "19853",
+        "name": "Paul Jones AUS",
+        "country_name": "Australia",
+        "country_code": "AU"
+      }
+    },
+    {
+      "tournament_id": "10383",
+      "tournament_name": "Brisbane Masters",
+      "tournament_type": "Tournament",
+      "event_name": "Main Tournament",
+      "event_start_date": "2015-08-22",
+      "event_end_date": "2015-08-23",
+      "ranking_system": "MAIN",
+      "winner": {
+        "player_id": "15769",
+        "name": "Peter Watt",
+        "country_name": "Australia",
+        "country_code": "AU"
+      }
+    }
+  ]
+}

@@ -1,0 +1,91 @@
+{
+  "series_code": "ACS",
+  "year": 2024,
+  "championship_prize_fund": 2825.4,
+  "overall_results": [
+    {
+      "region_code": "ACT",
+      "region_name": "Australian Capital Territory",
+      "player_count": "268",
+      "unique_player_count": "64",
+      "tournament_count": "14",
+      "current_leader": {
+        "player_id": "14456",
+        "player_name": "Curtis Sahariv"
+      },
+      "prize_fund": 174.20000000000002
+    },
+    {
+      "region_code": "NSW",
+      "region_name": "New South Wales",
+      "player_count": "1905",
+      "unique_player_count": "336",
+      "tournament_count": "71",
+      "current_leader": {
+        "player_id": "19853",
+        "player_name": "Paul Jones AUS"
+      },
+      "prize_fund": 1238.25
+    },
+    {
+      "region_code": "QLD",
+      "region_name": "Queensland",
+      "player_count": "5553",
+      "unique_player_count": "883",
+      "tournament_count": "200",
+      "current_leader": {
+        "player_id": "16976",
+        "player_name": "Jason Lambert AUS"
+      },
+      "prize_fund": 3609.4500000000003
+    },
+    {
+      "region_code": "SA",
+      "region_name": "South Australia",
+      "player_count": "2949",
+      "unique_player_count": "292",
+      "tournament_count": "175",
+      "current_leader": {
+        "player_id": "25126",
+        "player_name": "Lou Martire"
+      },
+      "prize_fund": 1916.8500000000001
+    },
+    {
+      "region_code": "Tas",
+      "region_name": "Tasmania",
+      "player_count": "368",
+      "unique_player_count": "70",
+      "tournament_count": "24",
+      "current_leader": {
+        "player_id": "107103",
+        "player_name": "Joshua Hesketh"
+      },
+      "prize_fund": 239.20000000000002
+    },
+    {
+      "region_code": "Vic",
+      "region_name": "Victoria",
+      "player_count": "1727",
+      "unique_player_count": "321",
+      "tournament_count": "81",
+      "current_leader": {
+        "player_id": "30772",
+        "player_name": "Matthew Owen"
+      },
+      "prize_fund": 1122.55
+    },
+    {
+      "region_code": "WA",
+      "region_name": "Western Australia",
+      "player_count": "1357",
+      "unique_player_count": "246",
+      "tournament_count": "61",
+      "current_leader": {
+        "player_id": "75252",
+        "player_name": "Anthony Cirillo"
+      },
+      "prize_fund": 882.0500000000001
+    }
+  ]
+}

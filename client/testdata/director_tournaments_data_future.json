@@ -1,0 +1,81 @@
+{
+  "director_id": "3478",
+  "tournament_count": 5,
+  "tournaments": [
+    {
+      "tournament_id": "105469",
+      "tournament_name": "Flipper Fellowship Thursday Group Matchplay",
+      "event_name": "Main Tournament",
+      "ranking_system": "MAIN",
+      "city": "Arncliffe",
+      "stateprov_code": "NSW",
+      "stateprov": "NSW",
+      "country_code": "AU",
+      "country_name": "Australia",
+      "event_start_date": "2026-03-05",
+      "event_end_date": "2026-03-05",
+      "qualifying_format": "Matchplay Qualifying",
+      "finals_format": "Double Elimination"
+    },
+    {
+      "tournament_id": "105472",
+      "tournament_name": "Flipper Fellowship Thursday Max Matchplay",
+      "event_name": "Main Tournament",
+      "ranking_system": "MAIN",
+      "city": "Arncliffe",
+      "stateprov_code": "NSW",
+      "stateprov": "NSW",
+      "country_code": "AU",
+      "country_name": "Australia",
+      "event_start_date": "2026-03-12",
+      "event_end_date": "2026-03-12",
+      "qualifying_format": "Max Matchplay Qualifying",
+      "finals_format": "Match Play"
+    },
+    {
+      "tournament_id": "104732",
+      "tournament_name": "Flipper Fellowship ACS Warm-up Group Matchplay",
+      "event_name": "Main Tournament",
+      "ranking_system": "MAIN",
+      "city": "Arncliffe",
+      "stateprov_code": "NSW",
+      "stateprov": "NSW",
+      "country_code": "AU",
+      "country_name": "Australia",
+      "event_start_date": "2026-03-18",
+      "event_end_date": "2026-03-18",
+      "qualifying_format": "Matchplay Qualifying",
+      "finals_format": "Match Play"
+    },
+    {
+      "tournament_id": "105465",
+      "tournament_name": "Flipper Fellowship Flip Frenzy",
+      "event_name": "Main Tournament",
+      "ranking_system": "MAIN",
+      "city": "Arncliffe",
+      "stateprov_code": "NSW",
+      "stateprov": "NSW",
+      "country_code": "AU",
+      "country_name": "Australia",
+      "event_start_date": "2026-03-26",
+      "event_end_date": "2026-03-26",
+      "qualifying_format": "Flip Frenzy",
+      "finals_format": "Double Elimination"
+    },
+    {
+      "tournament_id": "112100",
+      "tournament_name": "Flipper Fellowship Group Matchplay",
+      "event_name": "Main Tournament",
+      "ranking_system": "MAIN",
+      "city": "Arncliffe",
+      "stateprov_code": "NSW",
+      "stateprov": "NSW",
+      "country_code": "AU",
+      "country_name": "Australia",
+      "event_start_date": "2026-04-01",
+      "event_end_date": "2026-04-01",
+      "qualifying_format": "Matchplay Qualifying",
+      "finals_format": "Double Elimination"
+    }
+  ]
+}

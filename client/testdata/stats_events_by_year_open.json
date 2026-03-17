@@ -1,0 +1,76 @@
+{
+  "type": "Events Per Year",
+  "rank_type": "OPEN",
+  "stats": [
+    {
+      "year": "2026",
+      "country_count": "1",
+      "tournament_count": "113",
+      "player_count": "2950",
+      "stats_rank": 1
+    },
+    {
+      "year": "2025",
+      "country_count": "1",
+      "tournament_count": "721",
+      "player_count": "17294",
+      "stats_rank": 2
+    },
+    {
+      "year": "2024",
+      "country_count": "1",
+      "tournament_count": "626",
+      "player_count": "14127",
+      "stats_rank": 3
+    },
+    {
+      "year": "2023",
+      "country_count": "1",
+      "tournament_count": "477",
+      "player_count": "11660",
+      "stats_rank": 4
+    },
+    {
+      "year": "2022",
+      "country_count": "1",
+      "tournament_count": "411",
+      "player_count": "9760",
+      "stats_rank": 5
+    },
+    {
+      "year": "2021",
+      "country_count": "1",
+      "tournament_count": "117",
+      "player_count": "2635",
+      "stats_rank": 6
+    },
+    {
+      "year": "2020",
+      "country_count": "1",
+      "tournament_count": "68",
+      "player_count": "1677",
+      "stats_rank": 7
+    },
+    {
+      "year": "2019",
+      "country_count": "1",
+      "tournament_count": "405",
+      "player_count": "10763",
+      "stats_rank": 8
+    },
+    {
+      "year": "2018",
+      "country_count": "1",
+      "tournament_count": "367",
+      "player_count": "8894",
+      "stats_rank": 9
+    },
+    {
+      "year": "2017",
+      "country_count": "1",
+      "tournament_count": "355",
+      "player_count": "7950",
+      "stats_rank": 10
+    }
+  ]
+}

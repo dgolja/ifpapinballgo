@@ -1,0 +1,52 @@
+{
+  "player_id": 83231,
+  "total_competitors": 5,
+  "system": "MAIN",
+  "pvp": [
+    {
+      "player_id": "39336",
+      "first_name": "Andrej",
+      "last_name": "Rižner",
+      "win_count": "9",
+      "loss_count": "66",
+      "tie_count": "5",
+      "current_rank": "827"
+    },
+    {
+      "player_id": "40790",
+      "first_name": "Vid",
+      "last_name": "Kuklec",
+      "win_count": "3",
+      "loss_count": "67",
+      "tie_count": "2",
+      "current_rank": "214"
+    },
+    {
+      "player_id": "41245",
+      "first_name": "Mirko",
+      "last_name": "Bogic",
+      "win_count": "19",
+      "loss_count": "44",
+      "tie_count": "5",
+      "current_rank": "2122"
+    },
+    {
+      "player_id": "38378",
+      "first_name": "Andrej",
+      "last_name": "Demsar",
+      "win_count": "13",
+      "loss_count": "49",
+      "tie_count": "3",
+      "current_rank": "1086"
+    },
+    {
+      "player_id": "54656",
+      "first_name": "Zana",
+      "last_name": "Hrastovsek",
+      "win_count": "10",
+      "loss_count": "44",
+      "tie_count": "7",
+      "current_rank": "1334"
+    }
+  ]
+}

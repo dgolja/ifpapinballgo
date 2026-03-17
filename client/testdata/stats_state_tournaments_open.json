@@ -1,0 +1,97 @@
+{
+  "type": "Tournaments by State (North America)",
+  "rank_type": "OPEN",
+  "stats": [
+    {
+      "stateprov": "WA",
+      "tournament_count": "5869",
+      "total_points_all": "238908.2800",
+      "total_points_tournament_value": "40236.6600",
+      "stats_rank": 1
+    },
+    {
+      "stateprov": "MI",
+      "tournament_count": "3606",
+      "total_points_all": "128388.7900",
+      "total_points_tournament_value": "30681.8000",
+      "stats_rank": 2
+    },
+    {
+      "stateprov": "CA",
+      "tournament_count": "3560",
+      "total_points_all": "315599.0100",
+      "total_points_tournament_value": "41957.4200",
+      "stats_rank": 3
+    },
+    {
+      "stateprov": "TX",
+      "tournament_count": "3247",
+      "total_points_all": "173941.0100",
+      "total_points_tournament_value": "33447.2200",
+      "stats_rank": 4
+    },
+    {
+      "stateprov": "OH",
+      "tournament_count": "3161",
+      "total_points_all": "230586.6600",
+      "total_points_tournament_value": "39944.8100",
+      "stats_rank": 5
+    },
+    {
+      "stateprov": "PA",
+      "tournament_count": "2449",
+      "total_points_all": "299029.3900",
+      "total_points_tournament_value": "31005.4600",
+      "stats_rank": 6
+    },
+    {
+      "stateprov": "OR",
+      "tournament_count": "2436",
+      "total_points_all": "87826.1400",
+      "total_points_tournament_value": "19537.6000",
+      "stats_rank": 7
+    },
+    {
+      "stateprov": "NC",
+      "tournament_count": "2351",
+      "total_points_all": "50503.8000",
+      "total_points_tournament_value": "13471.1100",
+      "stats_rank": 8
+    },
+    {
+      "stateprov": "WI",
+      "tournament_count": "2278",
+      "total_points_all": "262123.6200",
+      "total_points_tournament_value": "34323.8600",
+      "stats_rank": 9
+    },
+    {
+      "stateprov": "IN",
+      "tournament_count": "2006",
+      "total_points_all": "84664.9400",
+      "total_points_tournament_value": "19616.3300",
+      "stats_rank": 10
+    },
+    {
+      "stateprov": "NY",
+      "tournament_count": "1980",
+      "total_points_all": "96400.9500",
+      "total_points_tournament_value": "18913.8800",
+      "stats_rank": 11
+    },
+    {
+      "stateprov": "MN",
+      "tournament_count": "1919",
+      "total_points_all": "61522.3200",
+      "total_points_tournament_value": "15064.6700",
+      "stats_rank": 12
+    },
+    {
+      "stateprov": "CO",
+      "tournament_count": "1914",
+      "total_points_all": "81704.1400",
+      "total_points_tournament_value": "16433.4700",
+      "stats_rank": 13
+    }
+  ]
+}

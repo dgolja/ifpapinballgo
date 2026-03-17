@@ -1,0 +1,35 @@
+{
+  "name": "Andrew Gliatis",
+  "profile_photo": "https://www.ifpapinball.com/images/profiles/director/3478.jpg",
+  "default_tournament_photo": "https://www.ifpapinball.com/images/ifpa_gray.jpg",
+  "director_id": "3478",
+  "player_id": "90228",
+  "city": "",
+  "stateprov": "",
+  "country_name": "Australia",
+  "country_code": "AU",
+  "country_id": "7",
+  "twitch_username": "",
+  "stats": {
+    "tournament_count": "52",
+    "unique_location_count": "2",
+    "women_tournament_count": "0",
+    "league_count": "0",
+    "highest_value": "36.92",
+    "average_value": "13.30",
+    "total_player_count": "1200",
+    "unique_player_count": "152",
+    "first_time_player_count": "56",
+    "repeat_player_count": "35",
+    "largest_event_count": "44",
+    "single_format_count": "1",
+    "multiple_format_count": "100",
+    "unknown_format_count": "0",
+    "formats": [
+      {
+        "name": "Single Elimination",
+        "count": "1"
+      }
+    ]
+  }
+}

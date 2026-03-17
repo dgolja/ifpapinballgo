@@ -1,0 +1,3979 @@
+{
+  "series_code": "WNACSO",
+  "region_code": "IL",
+  "year": 2025,
+  "submitted_tournaments": [
+    {
+      "tournament_id": "106024",
+      "event_end_date": "2025-12-31",
+      "tournament_name": "Wrigley South New Years Eve Strikes",
+      "event_name": "Main Tournament",
+      "wppr_points": "0.0000",
+      "player_count": "10",
+      "winner": {
+        "player_id": "0",
+        "name": " "
+      }
+    },
+    {
+      "tournament_id": "102890",
+      "event_end_date": "2025-12-28",
+      "tournament_name": "ORD Last Sunday Matchplay",
+      "event_name": "Main Tournament",
+      "wppr_points": "0.0000",
+      "player_count": "6",
+      "winner": {
+        "player_id": "0",
+        "name": " "
+      }
+    },
+    {
+      "tournament_id": "90296",
+      "event_end_date": "2025-12-26",
+      "tournament_name": "Atomic Pinball Stern Army Last Friday Strikeout",
+      "event_name": "Main Tournament",
+      "wppr_points": "0.0000",
+      "player_count": "3",
+      "winner": {
+        "player_id": "0",
+        "name": " "
+      }
+    },
+    {
+      "tournament_id": "106396",
+      "event_end_date": "2025-12-19",
+      "tournament_name": "Punk Rock Pinball HQ Monthly Tourney",
+      "event_name": "Main Tournament",
+      "wppr_points": "0.0000",
+      "player_count": "10",
+      "winner": {
+        "player_id": "0",
+        "name": " "
+      }
+    },
+    {
+      "tournament_id": "103759",
+      "event_end_date": "2025-12-18",
+      "tournament_name": "Evil Horse Brewing Monthly Tournament",
+      "event_name": "Main Tournament",
+      "wppr_points": "0.0000",
+      "player_count": "4",
+      "winner": {
+        "player_id": "0",
+        "name": " "
+      }
+    },
+    {
+      "tournament_id": "103092",
+      "event_end_date": "2025-12-18",
+      "tournament_name": "Stern Army- 3rd Thursdays @ Louie's Tap House",
+      "event_name": "Main Tournament",
+      "wppr_points": "0.0000",
+      "player_count": "1",
+      "winner": {
+        "player_id": "0",
+        "name": " "
+      }
+    },
+    {
+      "tournament_id": "94862",
+      "event_end_date": "2025-12-18",
+      "tournament_name": "Stern Army 3rd Thursdays @ Chicago Billiard Cafe",
+      "event_name": "Main Tournament",
+      "wppr_points": "0.0000",
+      "player_count": "7",
+      "winner": {
+        "player_id": "0",
+        "name": " "
+      }
+    },
+    {
+      "tournament_id": "97559",
+      "event_end_date": "2025-12-17",
+      "tournament_name": "Stern Army - Sew Hop'd Tournament",
+      "event_name": "Main Tournament",
+      "wppr_points": "3.8100",
+      "player_count": "2",
+      "winner": {
+        "player_id": "83667",
+        "name": "Lily Pizza"
+      }
+    },
+    {
+      "tournament_id": "104487",
+      "event_end_date": "2025-12-17",
+      "tournament_name": "2 Brothers Tap 12/17/25",
+      "event_name": "Main Tournament",
+      "wppr_points": "0.0000",
+      "player_count": "2",
+      "winner": {
+        "player_id": "0",
+        "name": " "
+      }
+    },
+    {
+      "tournament_id": "103756",
+      "event_end_date": "2025-12-15",
+      "tournament_name": "SweetSpot Monthly Tournament",
+      "event_name": "Main Tournament",
+      "wppr_points": "0.0000",
+      "player_count": "2",
+      "winner": {
+        "player_id": "0",
+        "name": " "
+      }
+    },
+    {
+      "tournament_id": "103572",
+      "event_end_date": "2025-12-14",
+      "tournament_name": "Winter Bash 2025 - Year End Pinball Tournament",
+      "event_name": "Main Tournament",
+      "wppr_points": "0.0000",
+      "player_count": "12",
+      "winner": {
+        "player_id": "0",
+        "name": " "
+      }
+    },
+    {
+      "tournament_id": "104764",
+      "event_end_date": "2025-12-14",
+      "tournament_name": "Pour Bros Bloomington Monthly - Stern Army Event",
+      "event_name": "Main Tournament",
+      "wppr_points": "5.3000",
+      "player_count": "7",
+      "winner": {
+        "player_id": "83667",
+        "name": "Lily Pizza"
+      }
+    },
+    {
+      "tournament_id": "104149",
+      "event_end_date": "2025-12-13",
+      "tournament_name": "Silverball Saterdays- Fair Strikes at Global Brew",
+      "event_name": "Main Tournament",
+      "wppr_points": "0.0000",
+      "player_count": "1",
+      "winner": {
+        "player_id": "0",
+        "name": " "
+      }
+    },
+    {
+      "tournament_id": "101994",
+      "event_end_date": "2025-12-10",
+      "tournament_name": "Triptych Brewing Monthly Tournament",
+      "event_name": "Main Tournament",
+      "wppr_points": "0.0000",
+      "player_count": "1",
+      "winner": {
+        "player_id": "0",
+        "name": " "
+      }
+    },
+    {
+      "tournament_id": "99806",
+      "event_end_date": "2025-12-10",
+      "tournament_name": "Stern Army - Lucky Strike Algonquin Tournament",
+      "event_name": "Main Tournament",
+      "wppr_points": "0.0000",
+      "player_count": "3",
+      "winner": {
+        "player_id": "0",
+        "name": " "
+      }
+    },
+    {
+      "tournament_id": "104486",
+      "event_end_date": "2025-12-10",
+      "tournament_name": "Rec House 12/10/25",
+      "event_name": "Main Tournament",
+      "wppr_points": "1.0100",
+      "player_count": "1",
+      "winner": {
+        "player_id": "104005",
+        "name": "Jamie Pangborn"
+      }
+    },
+    {
+      "tournament_id": "104539",
+      "event_end_date": "2025-12-09",
+      "tournament_name": "Kristof's Monthly Silverball Tournament",
+      "event_name": "Main Tournament",
+      "wppr_points": "0.0000",
+      "player_count": "4",
+      "winner": {
+        "player_id": "0",
+        "name": " "
+      }
+    },
+    {
+      "tournament_id": "97478",
+      "event_end_date": "2025-12-07",
+      "tournament_name": "First Sunday Afternoon Strikes Series @ CBC",
+      "event_name": "Main Tournament",
+      "wppr_points": "2.7400",
+      "player_count": "5",
+      "winner": {
+        "player_id": "84190",
+        "name": "Natalie Natalie"
+      }
+    },
+    {
+      "tournament_id": "103571",
+      "event_end_date": "2025-12-03",
+      "tournament_name": "Pollyanna Pinball 12/3/25",
+      "event_name": "Main Tournament",
+      "wppr_points": "0.0000",
+      "player_count": "2",
+      "winner": {
+        "player_id": "0",
+        "name": " "
+      }
+    },
+    {
+      "tournament_id": "103362",
+      "event_end_date": "2025-12-03",
+      "tournament_name": "Crafted 1979 Monthly Tournament",
+      "event_name": "Main Tournament",
+      "wppr_points": "0.0000",
+      "player_count": "3",
+      "winner": {
+        "player_id": "0",
+        "name": " "
+      }
+    },
+    {
+      "tournament_id": "98284",
+      "event_end_date": "2025-12-02",
+      "tournament_name": "Pinball Super League: Stern Army Enterrium Monthly",
+      "event_name": "Main Tournament",
+      "wppr_points": "0.0000",
+      "player_count": "3",
+      "winner": {
+        "player_id": "0",
+        "name": " "
+      }
+    },
+    {
+      "tournament_id": "102889",
+      "event_end_date": "2025-11-30",
+      "tournament_name": "ORD Last Sunday Matchplay",
+      "event_name": "Main Tournament",
+      "wppr_points": "0.0000",
+      "player_count": "3",
+      "winner": {
+        "player_id": "0",
+        "name": " "
+      }
+    },
+    {
+      "tournament_id": "90295",
+      "event_end_date": "2025-11-28",
+      "tournament_name": "Atomic Pinball Stern Army Last Friday Strikeout",
+      "event_name": "Main Tournament",
+      "wppr_points": "0.0000",
+      "player_count": "4",
+      "winner": {
+        "player_id": "0",
+        "name": " "
+      }
+    },
+    {
+      "tournament_id": "104485",
+      "event_end_date": "2025-11-26",
+      "tournament_name": "Rec House 11/26/25",
+      "event_name": "Main Tournament",
+      "wppr_points": "0.0000",
+      "player_count": "1",
+      "winner": {
+        "player_id": "0",
+        "name": " "
+      }
+    },
+    {
+      "tournament_id": "104803",
+      "event_end_date": "2025-11-25",
+      "tournament_name": "PSL Flip Back: A Charity Tourney to Benefit PADS",
+      "event_name": "Main Tournament",
+      "wppr_points": "0.0000",
+      "player_count": "10",
+      "winner": {
+        "player_id": "0",
+        "name": " "
+      }
+    },
+    {
+      "tournament_id": "105224",
+      "event_end_date": "2025-11-23",
+      "tournament_name": "PGC Golf Race",
+      "event_name": "Pin-Golf",
+      "wppr_points": "0.0000",
+      "player_count": "2",
+      "winner": {
+        "player_id": "0",
+        "name": " "
+      }
+    },
+    {
+      "tournament_id": "105887",
+      "event_end_date": "2025-11-22",
+      "tournament_name": "Punk Rock Pinball HQ Opening Party",
+      "event_name": "Main Tournament",
+      "wppr_points": "0.0000",
+      "player_count": "9",
+      "winner": {
+        "player_id": "0",
+        "name": " "
+      }
+    },
+    {
+      "tournament_id": "103757",
+      "event_end_date": "2025-11-20",
+      "tournament_name": "Evil Horse Brewing Monthly Tournament",
+      "event_name": "Main Tournament",
+      "wppr_points": "0.0000",
+      "player_count": "1",
+      "winner": {
+        "player_id": "0",
+        "name": " "
+      }
+    },
+    {
+      "tournament_id": "103491",
+      "event_end_date": "2025-11-19",
+      "tournament_name": "Two Brothers Tap House 11/19/25",
+      "event_name": "Main Tournament",
+      "wppr_points": "0.0000",
+      "player_count": "2",
+      "winner": {
+        "player_id": "0",
+        "name": " "
+      }
+    },
+    {
+      "tournament_id": "100118",
+      "event_end_date": "2025-11-19",
+      "tournament_name": "Atomic Pinball Arcade Fall League 2025",
+      "event_name": "League",
+      "wppr_points": "0.0000",
+      "player_count": "1",
+      "winner": {
+        "player_id": "0",
+        "name": " "
+      }
+    },
+    {
+      "tournament_id": "103755",
+      "event_end_date": "2025-11-17",
+      "tournament_name": "SweetSpot Monthly Tournament",
+      "event_name": "Main Tournament",
+      "wppr_points": "0.0000",
+      "player_count": "3",
+      "winner": {
+        "player_id": "0",
+        "name": " "
+      }
+    },
+    {
+      "tournament_id": "95332",
+      "event_end_date": "2025-11-16",
+      "tournament_name": "Spooky Pinball League",
+      "event_name": "League",
+      "wppr_points": "0.0000",
+      "player_count": "2",
+      "winner": {
+        "player_id": "0",
+        "name": " "
+      }
+    },
+    {
+      "tournament_id": "88175",
+      "event_end_date": "2025-11-16",
+      "tournament_name": "Stern Army Third Sunday @ Reserve Artisan Ales",
+      "event_name": "Main Tournament",
+      "wppr_points": "0.0000",
+      "player_count": "1",
+      "winner": {
+        "player_id": "0",
+        "name": " "
+      }
+    },
+    {
+      "tournament_id": "98949",
+      "event_end_date": "2025-11-13",
+      "tournament_name": "EEP Season 5",
+      "event_name": "League",
+      "wppr_points": "0.0000",
+      "player_count": "7",
+      "winner": {
+        "player_id": "0",
+        "name": " "
+      }
+    },
+    {
+      "tournament_id": "84834",
+      "event_end_date": "2025-11-13",
+      "tournament_name": "Stern Army - Logan Arcade Monthly Tournament",
+      "event_name": "Main Tournament",
+      "wppr_points": "3.7300",
+      "player_count": "3",
+      "winner": {
+        "player_id": "53105",
+        "name": "Jane Verwys"
+      }
+    },
+    {
+      "tournament_id": "99805",
+      "event_end_date": "2025-11-12",
+      "tournament_name": "Stern Army - Lucky Strike Algonquin Tournament",
+      "event_name": "Main Tournament",
+      "wppr_points": "0.0000",
+      "player_count": "1",
+      "winner": {
+        "player_id": "0",
+        "name": " "
+      }
+    },
+    {
+      "tournament_id": "103996",
+      "event_end_date": "2025-11-12",
+      "tournament_name": "Rec House Pinball 11/12/25",
+      "event_name": "Main Tournament",
+      "wppr_points": "0.0000",
+      "player_count": "2",
+      "winner": {
+        "player_id": "0",
+        "name": " "
+      }
+    },
+    {
+      "tournament_id": "101993",
+      "event_end_date": "2025-11-12",
+      "tournament_name": "Triptych Brewing Monthly Tournament",
+      "event_name": "Main Tournament",
+      "wppr_points": "0.0000",
+      "player_count": "2",
+      "winner": {
+        "player_id": "0",
+        "name": " "
+      }
+    },
+    {
+      "tournament_id": "103809",
+      "event_end_date": "2025-11-11",
+      "tournament_name": "Stern Army Attack From MAWs XXXI",
+      "event_name": "Launch Party",
+      "wppr_points": "7.9800",
+      "player_count": "5",
+      "winner": {
+        "player_id": "100304",
+        "name": "Emily Gross IA"
+      }
+    },
+    {
+      "tournament_id": "103775",
+      "event_end_date": "2025-11-11",
+      "tournament_name": "Kristof's Monthly Silverball : Star Wars Launch",
+      "event_name": "Main Tournament",
+      "wppr_points": "0.0000",
+      "player_count": "2",
+      "winner": {
+        "player_id": "0",
+        "name": " "
+      }
+    },
+    {
+      "tournament_id": "104252",
+      "event_end_date": "2025-11-08",
+      "tournament_name": "Silverball Saterdays at Global Brew St Charles",
+      "event_name": "Main Tournament",
+      "wppr_points": "5.7900",
+      "player_count": "4",
+      "winner": {
+        "player_id": "129325",
+        "name": "Kayla Bivens "
+      }
+    },
+    {
+      "tournament_id": "104585",
+      "event_end_date": "2025-11-07",
+      "tournament_name": "Bloomington Ale House PINBALL KICKOFF PARTY",
+      "event_name": "Main Tournament",
+      "wppr_points": "0.0000",
+      "player_count": "5",
+      "winner": {
+        "player_id": "0",
+        "name": " "
+      }
+    },
+    {
+      "tournament_id": "104332",
+      "event_end_date": "2025-11-06",
+      "tournament_name": "Star Wars Fall of the Empire Launch Party GB",
+      "event_name": "Launch Party",
+      "wppr_points": "0.0000",
+      "player_count": "2",
+      "winner": {
+        "player_id": "0",
+        "name": " "
+      }
+    },
+    {
+      "tournament_id": "103488",
+      "event_end_date": "2025-11-05",
+      "tournament_name": "Pollyanna Pinball 11/5/25",
+      "event_name": "Main Tournament",
+      "wppr_points": "0.0000",
+      "player_count": "2",
+      "winner": {
+        "player_id": "0",
+        "name": " "
+      }
+    },
+    {
+      "tournament_id": "103361",
+      "event_end_date": "2025-11-05",
+      "tournament_name": "Crafted 1979 Monthly Tournament",
+      "event_name": "Main Tournament",
+      "wppr_points": "0.0000",
+      "player_count": "2",
+      "winner": {
+        "player_id": "0",
+        "name": " "
+      }
+    },
+    {
+      "tournament_id": "98283",
+      "event_end_date": "2025-11-04",
+      "tournament_name": "Pinball Super League: Stern Army Enterrium Monthly",
+      "event_name": "Main Tournament",
+      "wppr_points": "0.0000",
+      "player_count": "9",
+      "winner": {
+        "player_id": "0",
+        "name": " "
+      }
+    },
+    {
+      "tournament_id": "97477",
+      "event_end_date": "2025-11-02",
+      "tournament_name": "First Sunday Afternoon Strikes Series @ CBC",
+      "event_name": "Main Tournament",
+      "wppr_points": "0.0000",
+      "player_count": "2",
+      "winner": {
+        "player_id": "0",
+        "name": " "
+      }
+    },
+    {
+      "tournament_id": "103720",
+      "event_end_date": "2025-11-02",
+      "tournament_name": "Stern Army- Star Wars Launch  @ Louie's Tap House",
+      "event_name": "Launch Party",
+      "wppr_points": "0.0000",
+      "player_count": "2",
+      "winner": {
+        "player_id": "0",
+        "name": " "
+      }
+    },
+    {
+      "tournament_id": "103719",
+      "event_end_date": "2025-11-02",
+      "tournament_name": "Stern Army- Louie's Silverball Sunday Monthly",
+      "event_name": "Main Tournament",
+      "wppr_points": "0.0000",
+      "player_count": "1",
+      "winner": {
+        "player_id": "0",
+        "name": " "
+      }
+    },
+    {
+      "tournament_id": "104002",
+      "event_end_date": "2025-11-01",
+      "tournament_name": "Hickory Creek Brewing Monthly Tournament",
+      "event_name": "Main Tournament",
+      "wppr_points": "0.0000",
+      "player_count": "1",
+      "winner": {
+        "player_id": "0",
+        "name": " "
+      }
+    },
+    {
+      "tournament_id": "103697",
+      "event_end_date": "2025-10-31",
+      "tournament_name": "Halloween Bash @ CBC",
+      "event_name": "Main Tournament",
+      "wppr_points": "0.0000",
+      "player_count": "19",
+      "winner": {
+        "player_id": "0",
+        "name": " "
+      }
+    },
+    {
+      "tournament_id": "90294",
+      "event_end_date": "2025-10-31",
+      "tournament_name": "Atomic Pinball Stern Army Last Friday Strikeout",
+      "event_name": "Main Tournament",
+      "wppr_points": "0.0000",
+      "player_count": "2",
+      "winner": {
+        "player_id": "0",
+        "name": " "
+      }
+    },
+    {
+      "tournament_id": "104541",
+      "event_end_date": "2025-10-31",
+      "tournament_name": "Hippie's Haven Halloween Strikeout",
+      "event_name": "Main Tournament",
+      "wppr_points": "0.0000",
+      "player_count": "4",
+      "winner": {
+        "player_id": "0",
+        "name": " "
+      }
+    },
+    {
+      "tournament_id": "103644",
+      "event_end_date": "2025-10-30",
+      "tournament_name": "Devil's Night- Stern Army Pinball @ Yetee Station",
+      "event_name": "Main Tournament",
+      "wppr_points": "0.0000",
+      "player_count": "1",
+      "winner": {
+        "player_id": "0",
+        "name": " "
+      }
+    },
+    {
+      "tournament_id": "103758",
+      "event_end_date": "2025-10-30",
+      "tournament_name": "Evil Horse Brewing Monthly Tournament",
+      "event_name": "Main Tournament",
+      "wppr_points": "0.0000",
+      "player_count": "1",
+      "winner": {
+        "player_id": "0",
+        "name": " "
+      }
+    },
+    {
+      "tournament_id": "97558",
+      "event_end_date": "2025-10-29",
+      "tournament_name": "Stern Army - Sew Hop'd Tournament",
+      "event_name": "Main Tournament",
+      "wppr_points": "0.0000",
+      "player_count": "2",
+      "winner": {
+        "player_id": "0",
+        "name": " "
+      }
+    },
+    {
+      "tournament_id": "102888",
+      "event_end_date": "2025-10-26",
+      "tournament_name": "ORD Last Sunday Matchplay",
+      "event_name": "Main Tournament",
+      "wppr_points": "0.0000",
+      "player_count": "1",
+      "winner": {
+        "player_id": "0",
+        "name": " "
+      }
+    },
+    {
+      "tournament_id": "103438",
+      "event_end_date": "2025-10-25",
+      "tournament_name": "Wrigley South House Party Dbl Header #2",
+      "event_name": "Main Tournament",
+      "wppr_points": "0.0000",
+      "player_count": "5",
+      "winner": {
+        "player_id": "0",
+        "name": " "
+      }
+    },
+    {
+      "tournament_id": "103773",
+      "event_end_date": "2025-10-25",
+      "tournament_name": "Wrigley South House Party Dbl Header #1",
+      "event_name": "Main Tournament",
+      "wppr_points": "0.0000",
+      "player_count": "4",
+      "winner": {
+        "player_id": "0",
+        "name": " "
+      }
+    },
+    {
+      "tournament_id": "103156",
+      "event_end_date": "2025-10-24",
+      "tournament_name": "Atomic Pinball Fall Of The Empire Launch Party",
+      "event_name": "Launch Party",
+      "wppr_points": "0.0000",
+      "player_count": "3",
+      "winner": {
+        "player_id": "0",
+        "name": " "
+      }
+    },
+    {
+      "tournament_id": "103363",
+      "event_end_date": "2025-10-23",
+      "tournament_name": "Crafted 1979 Monthly Tournament",
+      "event_name": "Main Tournament",
+      "wppr_points": "0.0000",
+      "player_count": "4",
+      "winner": {
+        "player_id": "0",
+        "name": " "
+      }
+    },
+    {
+      "tournament_id": "101445",
+      "event_end_date": "2025-10-21",
+      "tournament_name": "Kristof's Monthly Silverball Tournament",
+      "event_name": "Main Tournament",
+      "wppr_points": "3.6100",
+      "player_count": "4",
+      "winner": {
+        "player_id": "131255",
+        "name": "Kat Davis "
+      }
+    },
+    {
+      "tournament_id": "103190",
+      "event_end_date": "2025-10-19",
+      "tournament_name": "Expo flipOUT! Classics",
+      "event_name": "Classics",
+      "wppr_points": "0.0000",
+      "player_count": "42",
+      "winner": {
+        "player_id": "0",
+        "name": " "
+      }
+    },
+    {
+      "tournament_id": "102755",
+      "event_end_date": "2025-10-18",
+      "tournament_name": "Freedom to Play Pinball 3.0",
+      "event_name": "Main Tournament",
+      "wppr_points": "0.0000",
+      "player_count": "20",
+      "winner": {
+        "player_id": "0",
+        "name": " "
+      }
+    },
+    {
+      "tournament_id": "103189",
+      "event_end_date": "2025-10-18",
+      "tournament_name": "Expo flipOUT! Main Big Bracket",
+      "event_name": "Main Tournament",
+      "wppr_points": "0.0000",
+      "player_count": "44",
+      "winner": {
+        "player_id": "0",
+        "name": " "
+      }
+    },
+    {
+      "tournament_id": "103075",
+      "event_end_date": "2025-10-15",
+      "tournament_name": "Two Brothers Tap 10/15/25",
+      "event_name": "Main Tournament",
+      "wppr_points": "0.0000",
+      "player_count": "2",
+      "winner": {
+        "player_id": "0",
+        "name": " "
+      }
+    },
+    {
+      "tournament_id": "104232",
+      "event_end_date": "2025-10-15",
+      "tournament_name": "Stern Pro Circuit Final",
+      "event_name": "Main Tournament",
+      "wppr_points": "0.0000",
+      "player_count": "1",
+      "winner": {
+        "player_id": "0",
+        "name": " "
+      }
+    },
+    {
+      "tournament_id": "102886",
+      "event_end_date": "2025-10-14",
+      "tournament_name": "Enterrium & PSL: Pre Expo Flip Out 2025",
+      "event_name": "Main Tournament",
+      "wppr_points": "0.0000",
+      "player_count": "18",
+      "winner": {
+        "player_id": "0",
+        "name": " "
+      }
+    },
+    {
+      "tournament_id": "102956",
+      "event_end_date": "2025-10-13",
+      "tournament_name": "SweetSpot Monthly Tournament",
+      "event_name": "Main Tournament",
+      "wppr_points": "0.0000",
+      "player_count": "2",
+      "winner": {
+        "player_id": "0",
+        "name": " "
+      }
+    },
+    {
+      "tournament_id": "99061",
+      "event_end_date": "2025-10-12",
+      "tournament_name": "Travelling Sunday Best Pinball League",
+      "event_name": "League",
+      "wppr_points": "0.0000",
+      "player_count": "12",
+      "winner": {
+        "player_id": "0",
+        "name": " "
+      }
+    },
+    {
+      "tournament_id": "100492",
+      "event_end_date": "2025-10-11",
+      "tournament_name": "Silverball Saturdays at Global Brew",
+      "event_name": "Main Tournament",
+      "wppr_points": "0.0000",
+      "player_count": "2",
+      "winner": {
+        "player_id": "0",
+        "name": " "
+      }
+    },
+    {
+      "tournament_id": "84833",
+      "event_end_date": "2025-10-09",
+      "tournament_name": "Stern Army - Logan Arcade Monthly Tournament",
+      "event_name": "Main Tournament",
+      "wppr_points": "0.0000",
+      "player_count": "6",
+      "winner": {
+        "player_id": "0",
+        "name": " "
+      }
+    },
+    {
+      "tournament_id": "99804",
+      "event_end_date": "2025-10-08",
+      "tournament_name": "Stern Army - Lucky Strike Algonquin Tournament",
+      "event_name": "Main Tournament",
+      "wppr_points": "0.0000",
+      "player_count": "1",
+      "winner": {
+        "player_id": "0",
+        "name": " "
+      }
+    },
+    {
+      "tournament_id": "98282",
+      "event_end_date": "2025-10-07",
+      "tournament_name": "Pinball Super League: Stern Army Enterrium Monthly",
+      "event_name": "Main Tournament",
+      "wppr_points": "0.0000",
+      "player_count": "8",
+      "winner": {
+        "player_id": "0",
+        "name": " "
+      }
+    },
+    {
+      "tournament_id": "102097",
+      "event_end_date": "2025-10-07",
+      "tournament_name": "Stern Army Attack From MAWs 30th Edition",
+      "event_name": "Main Tournament",
+      "wppr_points": "0.0000",
+      "player_count": "3",
+      "winner": {
+        "player_id": "0",
+        "name": " "
+      }
+    },
+    {
+      "tournament_id": "101274",
+      "event_end_date": "2025-10-05",
+      "tournament_name": "Project Pinball Double Flippin' #2- 3 Strike KO",
+      "event_name": "Main Tournament",
+      "wppr_points": "0.0000",
+      "player_count": "6",
+      "winner": {
+        "player_id": "0",
+        "name": " "
+      }
+    },
+    {
+      "tournament_id": "97476",
+      "event_end_date": "2025-10-05",
+      "tournament_name": "First Sunday Afternoon Strikes Series @ CBC",
+      "event_name": "Main Tournament",
+      "wppr_points": "0.0000",
+      "player_count": "6",
+      "winner": {
+        "player_id": "0",
+        "name": " "
+      }
+    },
+    {
+      "tournament_id": "101275",
+      "event_end_date": "2025-10-05",
+      "tournament_name": "Project Pinball Double Flippin' #1- 4 Round MP",
+      "event_name": "Main Tournament",
+      "wppr_points": "0.0000",
+      "player_count": "9",
+      "winner": {
+        "player_id": "0",
+        "name": " "
+      }
+    },
+    {
+      "tournament_id": "102513",
+      "event_end_date": "2025-10-04",
+      "tournament_name": "Hickory Creek Brewing Monthly Tournament",
+      "event_name": "Main Tournament",
+      "wppr_points": "0.0000",
+      "player_count": "1",
+      "winner": {
+        "player_id": "0",
+        "name": " "
+      }
+    },
+    {
+      "tournament_id": "103153",
+      "event_end_date": "2025-10-02",
+      "tournament_name": "October Stern Army @ Mikerphone Brewing",
+      "event_name": "Main Tournament",
+      "wppr_points": "0.0000",
+      "player_count": "7",
+      "winner": {
+        "player_id": "0",
+        "name": " "
+      }
+    },
+    {
+      "tournament_id": "101992",
+      "event_end_date": "2025-10-01",
+      "tournament_name": "Triptych Brewing Monthly Tournament",
+      "event_name": "Main Tournament",
+      "wppr_points": "0.0000",
+      "player_count": "5",
+      "winner": {
+        "player_id": "0",
+        "name": " "
+      }
+    },
+    {
+      "tournament_id": "103124",
+      "event_end_date": "2025-10-01",
+      "tournament_name": "Pollyanna Pinball 10/1/25",
+      "event_name": "Main Tournament",
+      "wppr_points": "0.0000",
+      "player_count": "2",
+      "winner": {
+        "player_id": "0",
+        "name": " "
+      }
+    },
+    {
+      "tournament_id": "102887",
+      "event_end_date": "2025-09-28",
+      "tournament_name": "ORD Last Sunday Matchplay",
+      "event_name": "Main Tournament",
+      "wppr_points": "0.0000",
+      "player_count": "2",
+      "winner": {
+        "player_id": "0",
+        "name": " "
+      }
+    },
+    {
+      "tournament_id": "90293",
+      "event_end_date": "2025-09-26",
+      "tournament_name": "Atomic Pinball Stern Army Last Friday Strikeout",
+      "event_name": "Main Tournament",
+      "wppr_points": "0.0000",
+      "player_count": "1",
+      "winner": {
+        "player_id": "0",
+        "name": " "
+      }
+    },
+    {
+      "tournament_id": "99279",
+      "event_end_date": "2025-09-25",
+      "tournament_name": "Evil Horse Brewing Monthly Tournament",
+      "event_name": "Main Tournament",
+      "wppr_points": "0.0000",
+      "player_count": "1",
+      "winner": {
+        "player_id": "0",
+        "name": " "
+      }
+    },
+    {
+      "tournament_id": "97557",
+      "event_end_date": "2025-09-24",
+      "tournament_name": "Stern Army - Sew Hop'd Tournament",
+      "event_name": "Main Tournament",
+      "wppr_points": "0.0000",
+      "player_count": "2",
+      "winner": {
+        "player_id": "0",
+        "name": " "
+      }
+    },
+    {
+      "tournament_id": "102756",
+      "event_end_date": "2025-09-21",
+      "tournament_name": "PGC Match Play Monthly",
+      "event_name": "Main Tournament",
+      "wppr_points": "0.0000",
+      "player_count": "2",
+      "winner": {
+        "player_id": "0",
+        "name": " "
+      }
+    },
+    {
+      "tournament_id": "99144",
+      "event_end_date": "2025-09-19",
+      "tournament_name": "Pinball Haven Peoria league 2025-2",
+      "event_name": "League",
+      "wppr_points": "0.0000",
+      "player_count": "6",
+      "winner": {
+        "player_id": "0",
+        "name": " "
+      }
+    },
+    {
+      "tournament_id": "94859",
+      "event_end_date": "2025-09-18",
+      "tournament_name": "Stern Army 3rd Thursdays @ Chicago Billiard Cafe",
+      "event_name": "Main Tournament",
+      "wppr_points": "5.2300",
+      "player_count": "8",
+      "winner": {
+        "player_id": "36308",
+        "name": "Rachel Karlic"
+      }
+    },
+    {
+      "tournament_id": "100824",
+      "event_end_date": "2025-09-17",
+      "tournament_name": "Two Brothers Tap House",
+      "event_name": "Main Tournament",
+      "wppr_points": "0.0000",
+      "player_count": "3",
+      "winner": {
+        "player_id": "0",
+        "name": " "
+      }
+    },
+    {
+      "tournament_id": "99285",
+      "event_end_date": "2025-09-15",
+      "tournament_name": "SweetSpot Monthly Tournament",
+      "event_name": "Main Tournament",
+      "wppr_points": "0.0000",
+      "player_count": "1",
+      "winner": {
+        "player_id": "0",
+        "name": " "
+      }
+    },
+    {
+      "tournament_id": "100318",
+      "event_end_date": "2025-09-13",
+      "tournament_name": "Silverball Saturdays at Global Brew -Fair Strikes",
+      "event_name": "Main Tournament",
+      "wppr_points": "0.0000",
+      "player_count": "4",
+      "winner": {
+        "player_id": "0",
+        "name": " "
+      }
+    },
+    {
+      "tournament_id": "101030",
+      "event_end_date": "2025-09-12",
+      "tournament_name": "Silverball Madness 2025",
+      "event_name": "Main Tournament",
+      "wppr_points": "0.0000",
+      "player_count": "1",
+      "winner": {
+        "player_id": "0",
+        "name": " "
+      }
+    },
+    {
+      "tournament_id": "88166",
+      "event_end_date": "2025-09-12",
+      "tournament_name": "Stern Army NOT First Friday @ PBH - Peoria",
+      "event_name": "Main Tournament",
+      "wppr_points": "0.0000",
+      "player_count": "6",
+      "winner": {
+        "player_id": "0",
+        "name": " "
+      }
+    },
+    {
+      "tournament_id": "84832",
+      "event_end_date": "2025-09-12",
+      "tournament_name": "Super7 x Stern Pinball Godzilla Championship",
+      "event_name": "Main Tournament",
+      "wppr_points": "0.0000",
+      "player_count": "5",
+      "winner": {
+        "player_id": "0",
+        "name": " "
+      }
+    },
+    {
+      "tournament_id": "99803",
+      "event_end_date": "2025-09-10",
+      "tournament_name": "Stern Army - Lucky Strike Algonquin Tournament",
+      "event_name": "Main Tournament",
+      "wppr_points": "0.0000",
+      "player_count": "1",
+      "winner": {
+        "player_id": "0",
+        "name": " "
+      }
+    },
+    {
+      "tournament_id": "99855",
+      "event_end_date": "2025-09-09",
+      "tournament_name": "Kristof's Monthly Silverball Tournament",
+      "event_name": "Main Tournament",
+      "wppr_points": "0.0000",
+      "player_count": "5",
+      "winner": {
+        "player_id": "0",
+        "name": " "
+      }
+    },
+    {
+      "tournament_id": "101238",
+      "event_end_date": "2025-09-09",
+      "tournament_name": "Stern Army Attack From MAWs XXIX",
+      "event_name": "Main Tournament",
+      "wppr_points": "0.0000",
+      "player_count": "1",
+      "winner": {
+        "player_id": "0",
+        "name": " "
+      }
+    },
+    {
+      "tournament_id": "97479",
+      "event_end_date": "2025-09-07",
+      "tournament_name": "First Sunday Afternoon Strikes Series @ CBC",
+      "event_name": "Main Tournament",
+      "wppr_points": "0.0000",
+      "player_count": "11",
+      "winner": {
+        "player_id": "0",
+        "name": " "
+      }
+    },
+    {
+      "tournament_id": "94851",
+      "event_end_date": "2025-09-07",
+      "tournament_name": "PAPA World Pinball Championships",
+      "event_name": "Main Tournament",
+      "wppr_points": "0.0000",
+      "player_count": "39",
+      "winner": {
+        "player_id": "0",
+        "name": " "
+      }
+    },
+    {
+      "tournament_id": "95081",
+      "event_end_date": "2025-09-07",
+      "tournament_name": "PAPA World Pinball Championships",
+      "event_name": "Classics",
+      "wppr_points": "0.0000",
+      "player_count": "36",
+      "winner": {
+        "player_id": "0",
+        "name": " "
+      }
+    },
+    {
+      "tournament_id": "100823",
+      "event_end_date": "2025-09-03",
+      "tournament_name": "Pollyanna Pinball 9/3/25",
+      "event_name": "Main Tournament",
+      "wppr_points": "0.0000",
+      "player_count": "2",
+      "winner": {
+        "player_id": "0",
+        "name": " "
+      }
+    },
+    {
+      "tournament_id": "101991",
+      "event_end_date": "2025-09-03",
+      "tournament_name": "Triptych Brewing Monthly Tournament",
+      "event_name": "Main Tournament",
+      "wppr_points": "0.0000",
+      "player_count": "1",
+      "winner": {
+        "player_id": "0",
+        "name": " "
+      }
+    },
+    {
+      "tournament_id": "98281",
+      "event_end_date": "2025-09-02",
+      "tournament_name": "Pinball Super League: Stern Army Enterrium Monthly",
+      "event_name": "Main Tournament",
+      "wppr_points": "0.0000",
+      "player_count": "16",
+      "winner": {
+        "player_id": "0",
+        "name": " "
+      }
+    },
+    {
+      "tournament_id": "90292",
+      "event_end_date": "2025-08-29",
+      "tournament_name": "Atomic Pinball Stern Army Last Friday Strikeout",
+      "event_name": "Main Tournament",
+      "wppr_points": "0.0000",
+      "player_count": "1",
+      "winner": {
+        "player_id": "0",
+        "name": " "
+      }
+    },
+    {
+      "tournament_id": "98301",
+      "event_end_date": "2025-08-27",
+      "tournament_name": "Pinball at the Grain 8/27/25",
+      "event_name": "Main Tournament",
+      "wppr_points": "0.0000",
+      "player_count": "2",
+      "winner": {
+        "player_id": "0",
+        "name": " "
+      }
+    },
+    {
+      "tournament_id": "97556",
+      "event_end_date": "2025-08-27",
+      "tournament_name": "Stern Army - Sew Hop'd Tournament",
+      "event_name": "Main Tournament",
+      "wppr_points": "0.0000",
+      "player_count": "2",
+      "winner": {
+        "player_id": "0",
+        "name": " "
+      }
+    },
+    {
+      "tournament_id": "100430",
+      "event_end_date": "2025-08-25",
+      "tournament_name": "Pinball Chicago - Fall Party 2025",
+      "event_name": "Main Tournament",
+      "wppr_points": "0.0000",
+      "player_count": "12",
+      "winner": {
+        "player_id": "0",
+        "name": " "
+      }
+    },
+    {
+      "tournament_id": "100317",
+      "event_end_date": "2025-08-24",
+      "tournament_name": "Pingolf at Yetee Station Arcade",
+      "event_name": "Pin-Golf",
+      "wppr_points": "0.0000",
+      "player_count": "3",
+      "winner": {
+        "player_id": "0",
+        "name": " "
+      }
+    },
+    {
+      "tournament_id": "100175",
+      "event_end_date": "2025-08-24",
+      "tournament_name": "Stern Army - Rally at the Alley",
+      "event_name": "Main Tournament",
+      "wppr_points": "0.0000",
+      "player_count": "4",
+      "winner": {
+        "player_id": "0",
+        "name": " "
+      }
+    },
+    {
+      "tournament_id": "100556",
+      "event_end_date": "2025-08-24",
+      "tournament_name": "Wrigley South House Party Dbl Header #1 - Strikes",
+      "event_name": "Main Tournament",
+      "wppr_points": "0.0000",
+      "player_count": "2",
+      "winner": {
+        "player_id": "0",
+        "name": " "
+      }
+    },
+    {
+      "tournament_id": "100558",
+      "event_end_date": "2025-08-24",
+      "tournament_name": "Wrigley South House Party Dbl Header #2",
+      "event_name": "Main Tournament",
+      "wppr_points": "0.0000",
+      "player_count": "6",
+      "winner": {
+        "player_id": "0",
+        "name": " "
+      }
+    },
+    {
+      "tournament_id": "100513",
+      "event_end_date": "2025-08-24",
+      "tournament_name": "Summertime Smackdown @ Logan Arcade",
+      "event_name": "Main Tournament",
+      "wppr_points": "0.0000",
+      "player_count": "6",
+      "winner": {
+        "player_id": "0",
+        "name": " "
+      }
+    },
+    {
+      "tournament_id": "94858",
+      "event_end_date": "2025-08-21",
+      "tournament_name": "Stern Army 3rd Thursdays @ Chicago Billiard Cafe",
+      "event_name": "Main Tournament",
+      "wppr_points": "3.7400",
+      "player_count": "6",
+      "winner": {
+        "player_id": "36308",
+        "name": "Rachel Karlic"
+      }
+    },
+    {
+      "tournament_id": "99287",
+      "event_end_date": "2025-08-20",
+      "tournament_name": "Crafted 1979 Monthly Tournament",
+      "event_name": "Main Tournament",
+      "wppr_points": "0.0000",
+      "player_count": "1",
+      "winner": {
+        "player_id": "0",
+        "name": " "
+      }
+    },
+    {
+      "tournament_id": "98300",
+      "event_end_date": "2025-08-20",
+      "tournament_name": "Two Brothers Tap 8/20/25",
+      "event_name": "Main Tournament",
+      "wppr_points": "0.0000",
+      "player_count": "2",
+      "winner": {
+        "player_id": "0",
+        "name": " "
+      }
+    },
+    {
+      "tournament_id": "100634",
+      "event_end_date": "2025-08-17",
+      "tournament_name": "PGC Match Play Monthly",
+      "event_name": "A Division",
+      "wppr_points": "0.0000",
+      "player_count": "4",
+      "winner": {
+        "player_id": "0",
+        "name": " "
+      }
+    },
+    {
+      "tournament_id": "99873",
+      "event_end_date": "2025-08-16",
+      "tournament_name": "Silverball Saturdays at Global Brew",
+      "event_name": "Main Tournament",
+      "wppr_points": "5.0100",
+      "player_count": "4",
+      "winner": {
+        "player_id": "129325",
+        "name": "Kayla Bivens "
+      }
+    },
+    {
+      "tournament_id": "84831",
+      "event_end_date": "2025-08-14",
+      "tournament_name": "Stern Army - Logan Arcade Monthly Tournament",
+      "event_name": "Main Tournament",
+      "wppr_points": "0.0000",
+      "player_count": "3",
+      "winner": {
+        "player_id": "0",
+        "name": " "
+      }
+    },
+    {
+      "tournament_id": "99802",
+      "event_end_date": "2025-08-13",
+      "tournament_name": "Stern Army - Lucky Strike Algonquin Tournament",
+      "event_name": "Main Tournament",
+      "wppr_points": "0.0000",
+      "player_count": "1",
+      "winner": {
+        "player_id": "0",
+        "name": " "
+      }
+    },
+    {
+      "tournament_id": "100122",
+      "event_end_date": "2025-08-12",
+      "tournament_name": "Stern Army Attack From MAWs XXVIII",
+      "event_name": "Main Tournament",
+      "wppr_points": "0.0000",
+      "player_count": "5",
+      "winner": {
+        "player_id": "0",
+        "name": " "
+      }
+    },
+    {
+      "tournament_id": "99215",
+      "event_end_date": "2025-08-12",
+      "tournament_name": "Kristof's Monthly Silverball Tournament",
+      "event_name": "Main Tournament",
+      "wppr_points": "0.0000",
+      "player_count": "6",
+      "winner": {
+        "player_id": "0",
+        "name": " "
+      }
+    },
+    {
+      "tournament_id": "99284",
+      "event_end_date": "2025-08-11",
+      "tournament_name": "SweetSpot Monthly Tournament",
+      "event_name": "Main Tournament",
+      "wppr_points": "0.0000",
+      "player_count": "1",
+      "winner": {
+        "player_id": "0",
+        "name": " "
+      }
+    },
+    {
+      "tournament_id": "95710",
+      "event_end_date": "2025-08-07",
+      "tournament_name": "August Stern Army @ Mikerphone Brewing",
+      "event_name": "Main Tournament",
+      "wppr_points": "0.0000",
+      "player_count": "9",
+      "winner": {
+        "player_id": "0",
+        "name": " "
+      }
+    },
+    {
+      "tournament_id": "98299",
+      "event_end_date": "2025-08-06",
+      "tournament_name": "Pollyanna Pinball 8/6/25",
+      "event_name": "Main Tournament",
+      "wppr_points": "0.0000",
+      "player_count": "2",
+      "winner": {
+        "player_id": "0",
+        "name": " "
+      }
+    },
+    {
+      "tournament_id": "98280",
+      "event_end_date": "2025-08-05",
+      "tournament_name": "Pinball Super League: Stern Army Enterrium Monthly",
+      "event_name": "Main Tournament",
+      "wppr_points": "0.0000",
+      "player_count": "11",
+      "winner": {
+        "player_id": "0",
+        "name": " "
+      }
+    },
+    {
+      "tournament_id": "97475",
+      "event_end_date": "2025-08-03",
+      "tournament_name": "First Sunday Afternoon Strikes Series @ CBC",
+      "event_name": "Main Tournament",
+      "wppr_points": "0.0000",
+      "player_count": "10",
+      "winner": {
+        "player_id": "0",
+        "name": " "
+      }
+    },
+    {
+      "tournament_id": "99491",
+      "event_end_date": "2025-08-03",
+      "tournament_name": "Stern Army- Louie's Silverball Sunday Monthly",
+      "event_name": "Main Tournament",
+      "wppr_points": "0.0000",
+      "player_count": "1",
+      "winner": {
+        "player_id": "0",
+        "name": " "
+      }
+    },
+    {
+      "tournament_id": "99732",
+      "event_end_date": "2025-08-02",
+      "tournament_name": "Punk Rock Pinball Dbl Hdr #1 Head to Head strikes",
+      "event_name": "Main Tournament",
+      "wppr_points": "0.0000",
+      "player_count": "8",
+      "winner": {
+        "player_id": "0",
+        "name": " "
+      }
+    },
+    {
+      "tournament_id": "99731",
+      "event_end_date": "2025-08-02",
+      "tournament_name": "Punk Rock Pinball Dbl Hdr #2 Group Matchplay",
+      "event_name": "Main Tournament",
+      "wppr_points": "0.0000",
+      "player_count": "8",
+      "winner": {
+        "player_id": "0",
+        "name": " "
+      }
+    },
+    {
+      "tournament_id": "88162",
+      "event_end_date": "2025-08-01",
+      "tournament_name": "Stern Army First Friday @ PInball Haven - Peoria",
+      "event_name": "Main Tournament",
+      "wppr_points": "0.0000",
+      "player_count": "7",
+      "winner": {
+        "player_id": "0",
+        "name": " "
+      }
+    },
+    {
+      "tournament_id": "98750",
+      "event_end_date": "2025-07-31",
+      "tournament_name": "Elston Electric Pinball League",
+      "event_name": "Main Tournament",
+      "wppr_points": "3.9900",
+      "player_count": "4",
+      "winner": {
+        "player_id": "53105",
+        "name": "Jane Verwys"
+      }
+    },
+    {
+      "tournament_id": "99277",
+      "event_end_date": "2025-07-31",
+      "tournament_name": "Evil Horse Brewing Monthly Tournament",
+      "event_name": "Main Tournament",
+      "wppr_points": "0.3700",
+      "player_count": "1",
+      "winner": {
+        "player_id": "119266",
+        "name": "Pamela Tusack"
+      }
+    },
+    {
+      "tournament_id": "97555",
+      "event_end_date": "2025-07-30",
+      "tournament_name": "Stern Army - Sew Hop'd Tournament",
+      "event_name": "Main Tournament",
+      "wppr_points": "0.0000",
+      "player_count": "1",
+      "winner": {
+        "player_id": "0",
+        "name": " "
+      }
+    },
+    {
+      "tournament_id": "99202",
+      "event_end_date": "2025-07-28",
+      "tournament_name": "PGC Match Play Monthly",
+      "event_name": "A Division",
+      "wppr_points": "0.0000",
+      "player_count": "7",
+      "winner": {
+        "player_id": "0",
+        "name": " "
+      }
+    },
+    {
+      "tournament_id": "99012",
+      "event_end_date": "2025-07-27",
+      "tournament_name": "ORD July at Rob and Kate's",
+      "event_name": "Main Tournament",
+      "wppr_points": "0.0000",
+      "player_count": "2",
+      "winner": {
+        "player_id": "0",
+        "name": " "
+      }
+    },
+    {
+      "tournament_id": "90291",
+      "event_end_date": "2025-07-25",
+      "tournament_name": "Atomic Pinball Stern Army Last Friday Strikeout",
+      "event_name": "Main Tournament",
+      "wppr_points": "0.0000",
+      "player_count": "1",
+      "winner": {
+        "player_id": "0",
+        "name": " "
+      }
+    },
+    {
+      "tournament_id": "98326",
+      "event_end_date": "2025-07-24",
+      "tournament_name": "Stern Army- 3rd Thursdays @ Louie's Tap House",
+      "event_name": "Main Tournament",
+      "wppr_points": "0.0000",
+      "player_count": "1",
+      "winner": {
+        "player_id": "0",
+        "name": " "
+      }
+    },
+    {
+      "tournament_id": "98298",
+      "event_end_date": "2025-07-23",
+      "tournament_name": "Pinball at the Grain 7/23/25",
+      "event_name": "Main Tournament",
+      "wppr_points": "0.0000",
+      "player_count": "1",
+      "winner": {
+        "player_id": "0",
+        "name": " "
+      }
+    },
+    {
+      "tournament_id": "99283",
+      "event_end_date": "2025-07-21",
+      "tournament_name": "SweetSpot Monthly Tournament",
+      "event_name": "Main Tournament",
+      "wppr_points": "0.0000",
+      "player_count": "1",
+      "winner": {
+        "player_id": "0",
+        "name": " "
+      }
+    },
+    {
+      "tournament_id": "88161",
+      "event_end_date": "2025-07-20",
+      "tournament_name": "Stern Army Third Sunday @ Reserve Artisan Ales",
+      "event_name": "Main Tournament",
+      "wppr_points": "0.0000",
+      "player_count": "2",
+      "winner": {
+        "player_id": "0",
+        "name": " "
+      }
+    },
+    {
+      "tournament_id": "98558",
+      "event_end_date": "2025-07-19",
+      "tournament_name": "Silverball Saturdays- Fairway Flippers Takeover",
+      "event_name": "Pin-Golf",
+      "wppr_points": "0.0000",
+      "player_count": "5",
+      "winner": {
+        "player_id": "0",
+        "name": " "
+      }
+    },
+    {
+      "tournament_id": "93144",
+      "event_end_date": "2025-07-19",
+      "tournament_name": "Chicagoland Pinball League",
+      "event_name": "League",
+      "wppr_points": "0.0000",
+      "player_count": "6",
+      "winner": {
+        "player_id": "0",
+        "name": " "
+      }
+    },
+    {
+      "tournament_id": "94857",
+      "event_end_date": "2025-07-17",
+      "tournament_name": "Stern Army 3rd Thursdays @ Chicago Billiard Cafe",
+      "event_name": "Main Tournament",
+      "wppr_points": "5.1700",
+      "player_count": "7",
+      "winner": {
+        "player_id": "36308",
+        "name": "Rachel Karlic"
+      }
+    },
+    {
+      "tournament_id": "99286",
+      "event_end_date": "2025-07-16",
+      "tournament_name": "Crafted 1979 Monthly Tournament",
+      "event_name": "Main Tournament",
+      "wppr_points": "0.0000",
+      "player_count": "4",
+      "winner": {
+        "player_id": "0",
+        "name": " "
+      }
+    },
+    {
+      "tournament_id": "95653",
+      "event_end_date": "2025-07-16",
+      "tournament_name": "Atomic Pinball Arcade Spring 2025 League",
+      "event_name": "League",
+      "wppr_points": "0.0000",
+      "player_count": "1",
+      "winner": {
+        "player_id": "0",
+        "name": " "
+      }
+    },
+    {
+      "tournament_id": "98297",
+      "event_end_date": "2025-07-16",
+      "tournament_name": "Two Brothers Tap 7/16/25",
+      "event_name": "Main Tournament",
+      "wppr_points": "0.0000",
+      "player_count": "2",
+      "winner": {
+        "player_id": "0",
+        "name": " "
+      }
+    },
+    {
+      "tournament_id": "97963",
+      "event_end_date": "2025-07-13",
+      "tournament_name": "Elston Electric Stern Army",
+      "event_name": "Main Tournament",
+      "wppr_points": "0.0000",
+      "player_count": "2",
+      "winner": {
+        "player_id": "0",
+        "name": " "
+      }
+    },
+    {
+      "tournament_id": "98682",
+      "event_end_date": "2025-07-11",
+      "tournament_name": "Summer Showdown",
+      "event_name": "Main Tournament",
+      "wppr_points": "0.0000",
+      "player_count": "2",
+      "winner": {
+        "player_id": "0",
+        "name": " "
+      }
+    },
+    {
+      "tournament_id": "88158",
+      "event_end_date": "2025-07-11",
+      "tournament_name": "Stern Army NOT FIRST Friday @ Pinball Haven",
+      "event_name": "Main Tournament",
+      "wppr_points": "0.0000",
+      "player_count": "11",
+      "winner": {
+        "player_id": "0",
+        "name": " "
+      }
+    },
+    {
+      "tournament_id": "84830",
+      "event_end_date": "2025-07-10",
+      "tournament_name": "Stern Army - Logan Arcade Monthly Tournament",
+      "event_name": "Main Tournament",
+      "wppr_points": "3.8300",
+      "player_count": "6",
+      "winner": {
+        "player_id": "89585",
+        "name": "Cheryl Lininger"
+      }
+    },
+    {
+      "tournament_id": "98512",
+      "event_end_date": "2025-07-09",
+      "tournament_name": "Elston Electric King Kong Launch Party!",
+      "event_name": "Launch Party",
+      "wppr_points": "2.1100",
+      "player_count": "1",
+      "winner": {
+        "player_id": "53105",
+        "name": "Jane Verwys"
+      }
+    },
+    {
+      "tournament_id": "99807",
+      "event_end_date": "2025-07-09",
+      "tournament_name": "Stern Army - Lucky Strike Algonquin Tournament",
+      "event_name": "Main Tournament",
+      "wppr_points": "0.0000",
+      "player_count": "3",
+      "winner": {
+        "player_id": "0",
+        "name": " "
+      }
+    },
+    {
+      "tournament_id": "97658",
+      "event_end_date": "2025-07-08",
+      "tournament_name": "Kristof's Monthly Silverball Tournament",
+      "event_name": "Main Tournament",
+      "wppr_points": "0.0000",
+      "player_count": "6",
+      "winner": {
+        "player_id": "0",
+        "name": " "
+      }
+    },
+    {
+      "tournament_id": "97686",
+      "event_end_date": "2025-07-07",
+      "tournament_name": "King Kong Launch Party @ Crafted 1979",
+      "event_name": "Main Tournament",
+      "wppr_points": "0.0000",
+      "player_count": "5",
+      "winner": {
+        "player_id": "0",
+        "name": " "
+      }
+    },
+    {
+      "tournament_id": "97474",
+      "event_end_date": "2025-07-06",
+      "tournament_name": "First Sunday Afternoon Strikes Series @ CBC",
+      "event_name": "Main Tournament",
+      "wppr_points": "0.0000",
+      "player_count": "11",
+      "winner": {
+        "player_id": "0",
+        "name": " "
+      }
+    },
+    {
+      "tournament_id": "96928",
+      "event_end_date": "2025-07-05",
+      "tournament_name": "Cory's July Jamboree",
+      "event_name": "Main Tournament",
+      "wppr_points": "0.0000",
+      "player_count": "1",
+      "winner": {
+        "player_id": "0",
+        "name": " "
+      }
+    },
+    {
+      "tournament_id": "95712",
+      "event_end_date": "2025-07-03",
+      "tournament_name": "July Stern Army @ Mikerphone Brewing",
+      "event_name": "Main Tournament",
+      "wppr_points": "0.0000",
+      "player_count": "7",
+      "winner": {
+        "player_id": "0",
+        "name": " "
+      }
+    },
+    {
+      "tournament_id": "98296",
+      "event_end_date": "2025-07-02",
+      "tournament_name": "Pollyanna Pinball 7/2/25",
+      "event_name": "Main Tournament",
+      "wppr_points": "0.0000",
+      "player_count": "2",
+      "winner": {
+        "player_id": "0",
+        "name": " "
+      }
+    },
+    {
+      "tournament_id": "99219",
+      "event_end_date": "2025-07-02",
+      "tournament_name": "Triptych Brewing Monthly Tournament",
+      "event_name": "Main Tournament",
+      "wppr_points": "0.0000",
+      "player_count": "1",
+      "winner": {
+        "player_id": "0",
+        "name": " "
+      }
+    },
+    {
+      "tournament_id": "82164",
+      "event_end_date": "2025-07-01",
+      "tournament_name": "Pinball Super League: Stern Army Enterrium Monthly",
+      "event_name": "Main Tournament",
+      "wppr_points": "0.0000",
+      "player_count": "10",
+      "winner": {
+        "player_id": "0",
+        "name": " "
+      }
+    },
+    {
+      "tournament_id": "98047",
+      "event_end_date": "2025-07-01",
+      "tournament_name": "Stern Army Attack From MAWs XVII",
+      "event_name": "Launch Party",
+      "wppr_points": "0.0000",
+      "player_count": "5",
+      "winner": {
+        "player_id": "0",
+        "name": " "
+      }
+    },
+    {
+      "tournament_id": "97550",
+      "event_end_date": "2025-06-27",
+      "tournament_name": "Wrigley South Group Matchplay - House Party",
+      "event_name": "Main Tournament",
+      "wppr_points": "0.0000",
+      "player_count": "6",
+      "winner": {
+        "player_id": "0",
+        "name": " "
+      }
+    },
+    {
+      "tournament_id": "90290",
+      "event_end_date": "2025-06-27",
+      "tournament_name": "Atomic Pinball Stern Army Last Friday Strikeout",
+      "event_name": "Main Tournament",
+      "wppr_points": "0.0000",
+      "player_count": "2",
+      "winner": {
+        "player_id": "0",
+        "name": " "
+      }
+    },
+    {
+      "tournament_id": "98004",
+      "event_end_date": "2025-06-27",
+      "tournament_name": "Stern Army- King Kong Launch Party Double Tourney",
+      "event_name": "Launch Party",
+      "wppr_points": "0.0000",
+      "player_count": "2",
+      "winner": {
+        "player_id": "0",
+        "name": " "
+      }
+    },
+    {
+      "tournament_id": "98003",
+      "event_end_date": "2025-06-27",
+      "tournament_name": "Stern Army- Louie's Flippin' Off Friday",
+      "event_name": "Main Tournament",
+      "wppr_points": "0.0000",
+      "player_count": "1",
+      "winner": {
+        "player_id": "0",
+        "name": " "
+      }
+    },
+    {
+      "tournament_id": "94756",
+      "event_end_date": "2025-06-26",
+      "tournament_name": "Evil Horse Brewing Monthly Tournament",
+      "event_name": "Main Tournament",
+      "wppr_points": "0.0000",
+      "player_count": "1",
+      "winner": {
+        "player_id": "0",
+        "name": " "
+      }
+    },
+    {
+      "tournament_id": "97962",
+      "event_end_date": "2025-06-26",
+      "tournament_name": "Elston Electric Pinball League",
+      "event_name": "Main Tournament",
+      "wppr_points": "0.0000",
+      "player_count": "4",
+      "winner": {
+        "player_id": "0",
+        "name": " "
+      }
+    },
+    {
+      "tournament_id": "95516",
+      "event_end_date": "2025-06-25",
+      "tournament_name": "Pinball at the Grain 6/25/25",
+      "event_name": "Main Tournament",
+      "wppr_points": "0.0000",
+      "player_count": "2",
+      "winner": {
+        "player_id": "0",
+        "name": " "
+      }
+    },
+    {
+      "tournament_id": "97560",
+      "event_end_date": "2025-06-25",
+      "tournament_name": "Stern Army - Sew Hop'd Tournament",
+      "event_name": "Main Tournament",
+      "wppr_points": "0.0000",
+      "player_count": "1",
+      "winner": {
+        "player_id": "0",
+        "name": " "
+      }
+    },
+    {
+      "tournament_id": "97577",
+      "event_end_date": "2025-06-24",
+      "tournament_name": "PGC Match Play Monthly",
+      "event_name": "Main Tournament",
+      "wppr_points": "0.0000",
+      "player_count": "9",
+      "winner": {
+        "player_id": "0",
+        "name": " "
+      }
+    },
+    {
+      "tournament_id": "97237",
+      "event_end_date": "2025-06-21",
+      "tournament_name": "Stern Army Pinball Tournament at Yetee Station",
+      "event_name": "Main Tournament",
+      "wppr_points": "0.0000",
+      "player_count": "3",
+      "winner": {
+        "player_id": "0",
+        "name": " "
+      }
+    },
+    {
+      "tournament_id": "97667",
+      "event_end_date": "2025-06-20",
+      "tournament_name": "King Kong: MoTI Launch Party @ Logan Arcade",
+      "event_name": "Launch Party",
+      "wppr_points": "0.0000",
+      "player_count": "10",
+      "winner": {
+        "player_id": "0",
+        "name": " "
+      }
+    },
+    {
+      "tournament_id": "94856",
+      "event_end_date": "2025-06-19",
+      "tournament_name": "Stern King Kong Launch Party @ CBC",
+      "event_name": "Main Tournament",
+      "wppr_points": "7.9400",
+      "player_count": "12",
+      "winner": {
+        "player_id": "53105",
+        "name": "Jane Verwys"
+      }
+    },
+    {
+      "tournament_id": "98434",
+      "event_end_date": "2025-06-19",
+      "tournament_name": "KING KONG LAUNCH PARTY at Garage Band Brewery",
+      "event_name": "Launch Party",
+      "wppr_points": "0.0000",
+      "player_count": "4",
+      "winner": {
+        "player_id": "0",
+        "name": " "
+      }
+    },
+    {
+      "tournament_id": "93667",
+      "event_end_date": "2025-06-18",
+      "tournament_name": "Two Brothers Tap 6/18/25",
+      "event_name": "Main Tournament",
+      "wppr_points": "0.0000",
+      "player_count": "3",
+      "winner": {
+        "player_id": "0",
+        "name": " "
+      }
+    },
+    {
+      "tournament_id": "88155",
+      "event_end_date": "2025-06-15",
+      "tournament_name": "Stern Army Third Sunday @ Reserve Artisan Ales",
+      "event_name": "Main Tournament",
+      "wppr_points": "0.0000",
+      "player_count": "2",
+      "winner": {
+        "player_id": "0",
+        "name": " "
+      }
+    },
+    {
+      "tournament_id": "95706",
+      "event_end_date": "2025-06-14",
+      "tournament_name": "Silverball Saturdays",
+      "event_name": "Main Tournament",
+      "wppr_points": "0.0000",
+      "player_count": "5",
+      "winner": {
+        "player_id": "0",
+        "name": " "
+      }
+    },
+    {
+      "tournament_id": "95399",
+      "event_end_date": "2025-06-12",
+      "tournament_name": "Global Brew King Kong Launch Party",
+      "event_name": "Launch Party",
+      "wppr_points": "3.8700",
+      "player_count": "3",
+      "winner": {
+        "player_id": "83667",
+        "name": "Lily Pizza"
+      }
+    },
+    {
+      "tournament_id": "84829",
+      "event_end_date": "2025-06-12",
+      "tournament_name": "Stern Army - Logan Arcade Monthly Tournament",
+      "event_name": "Main Tournament",
+      "wppr_points": "0.0000",
+      "player_count": "4",
+      "winner": {
+        "player_id": "0",
+        "name": " "
+      }
+    },
+    {
+      "tournament_id": "94758",
+      "event_end_date": "2025-06-11",
+      "tournament_name": "Crafted 1979 Monthly Tournament",
+      "event_name": "Main Tournament",
+      "wppr_points": "0.0000",
+      "player_count": "3",
+      "winner": {
+        "player_id": "0",
+        "name": " "
+      }
+    },
+    {
+      "tournament_id": "91278",
+      "event_end_date": "2025-06-11",
+      "tournament_name": "Stern Army - Bowlero Algonquin Tournament",
+      "event_name": "Main Tournament",
+      "wppr_points": "0.0000",
+      "player_count": "2",
+      "winner": {
+        "player_id": "0",
+        "name": " "
+      }
+    },
+    {
+      "tournament_id": "97142",
+      "event_end_date": "2025-06-10",
+      "tournament_name": "Stern Army Attack From MAWs XXVI",
+      "event_name": "Main Tournament",
+      "wppr_points": "0.0000",
+      "player_count": "3",
+      "winner": {
+        "player_id": "0",
+        "name": " "
+      }
+    },
+    {
+      "tournament_id": "96997",
+      "event_end_date": "2025-06-10",
+      "tournament_name": "Kristof's Monthly Silverball Tournament",
+      "event_name": "Main Tournament",
+      "wppr_points": "0.0000",
+      "player_count": "6",
+      "winner": {
+        "player_id": "0",
+        "name": " "
+      }
+    },
+    {
+      "tournament_id": "94750",
+      "event_end_date": "2025-06-09",
+      "tournament_name": "SweetSpot Monthly Tournament",
+      "event_name": "Main Tournament",
+      "wppr_points": "0.0000",
+      "player_count": "4",
+      "winner": {
+        "player_id": "0",
+        "name": " "
+      }
+    },
+    {
+      "tournament_id": "95275",
+      "event_end_date": "2025-06-08",
+      "tournament_name": "SSS4 Satellite/Consolation Pinball Tounament",
+      "event_name": "Side Tournament",
+      "wppr_points": "0.0000",
+      "player_count": "6",
+      "winner": {
+        "player_id": "0",
+        "name": " "
+      }
+    },
+    {
+      "tournament_id": "95079",
+      "event_end_date": "2025-06-08",
+      "tournament_name": "SSS4 Main Event: Target Matchplay",
+      "event_name": "Main Tournament",
+      "wppr_points": "0.0000",
+      "player_count": "13",
+      "winner": {
+        "player_id": "0",
+        "name": " "
+      }
+    },
+    {
+      "tournament_id": "95078",
+      "event_end_date": "2025-06-06",
+      "tournament_name": "SSS4 Pre Tourney: Beat the Clock",
+      "event_name": "Main Tournament",
+      "wppr_points": "0.0000",
+      "player_count": "15",
+      "winner": {
+        "player_id": "0",
+        "name": " "
+      }
+    },
+    {
+      "tournament_id": "88154",
+      "event_end_date": "2025-06-06",
+      "tournament_name": "Stern Army First Friday @ Pinball Haven - Peoria",
+      "event_name": "Main Tournament",
+      "wppr_points": "0.0000",
+      "player_count": "4",
+      "winner": {
+        "player_id": "0",
+        "name": " "
+      }
+    },
+    {
+      "tournament_id": "95711",
+      "event_end_date": "2025-06-05",
+      "tournament_name": "June Stern Army @ Mikerphone Brewing",
+      "event_name": "Main Tournament",
+      "wppr_points": "0.0000",
+      "player_count": "12",
+      "winner": {
+        "player_id": "0",
+        "name": " "
+      }
+    },
+    {
+      "tournament_id": "99218",
+      "event_end_date": "2025-06-04",
+      "tournament_name": "Triptych Brewing Monthly Tournament",
+      "event_name": "Main Tournament",
+      "wppr_points": "0.0000",
+      "player_count": "2",
+      "winner": {
+        "player_id": "0",
+        "name": " "
+      }
+    },
+    {
+      "tournament_id": "93672",
+      "event_end_date": "2025-06-04",
+      "tournament_name": "Pollyanna Pinball 6/4/25",
+      "event_name": "Main Tournament",
+      "wppr_points": "0.0000",
+      "player_count": "3",
+      "winner": {
+        "player_id": "0",
+        "name": " "
+      }
+    },
+    {
+      "tournament_id": "82163",
+      "event_end_date": "2025-06-03",
+      "tournament_name": "Pinball Super League: Stern Army Enterrium Monthly",
+      "event_name": "Main Tournament",
+      "wppr_points": "0.0000",
+      "player_count": "10",
+      "winner": {
+        "player_id": "0",
+        "name": " "
+      }
+    },
+    {
+      "tournament_id": "96666",
+      "event_end_date": "2025-06-02",
+      "tournament_name": "Pinball Chicago Winter 2025 Closing Party",
+      "event_name": "Main Tournament",
+      "wppr_points": "0.0000",
+      "player_count": "16",
+      "winner": {
+        "player_id": "0",
+        "name": " "
+      }
+    },
+    {
+      "tournament_id": "96813",
+      "event_end_date": "2025-06-01",
+      "tournament_name": "Stern Army- Louie's Silverball Sunday Monthly",
+      "event_name": "Main Tournament",
+      "wppr_points": "0.0000",
+      "player_count": "1",
+      "winner": {
+        "player_id": "0",
+        "name": " "
+      }
+    },
+    {
+      "tournament_id": "96738",
+      "event_end_date": "2025-06-01",
+      "tournament_name": "CBC Sunday Afternoon Strikes Tourney",
+      "event_name": "Main Tournament",
+      "wppr_points": "0.0000",
+      "player_count": "12",
+      "winner": {
+        "player_id": "0",
+        "name": " "
+      }
+    },
+    {
+      "tournament_id": "93236",
+      "event_end_date": "2025-05-31",
+      "tournament_name": "Pinball Haven Peoria league 2025-1",
+      "event_name": "League",
+      "wppr_points": "0.0000",
+      "player_count": "6",
+      "winner": {
+        "player_id": "0",
+        "name": " "
+      }
+    },
+    {
+      "tournament_id": "90289",
+      "event_end_date": "2025-05-30",
+      "tournament_name": "Atomic Pinball Stern Army King Kong Launch Party",
+      "event_name": "Main Tournament",
+      "wppr_points": "0.0000",
+      "player_count": "5",
+      "winner": {
+        "player_id": "0",
+        "name": " "
+      }
+    },
+    {
+      "tournament_id": "96641",
+      "event_end_date": "2025-05-29",
+      "tournament_name": "Fifth Thursday Matchplay @ Chicago Billiard Cafe",
+      "event_name": "Main Tournament",
+      "wppr_points": "5.1900",
+      "player_count": "5",
+      "winner": {
+        "player_id": "36308",
+        "name": "Rachel Karlic"
+      }
+    },
+    {
+      "tournament_id": "96623",
+      "event_end_date": "2025-05-29",
+      "tournament_name": "Garage Band  Tournament Kickoff",
+      "event_name": "Launch Party",
+      "wppr_points": "0.0000",
+      "player_count": "5",
+      "winner": {
+        "player_id": "0",
+        "name": " "
+      }
+    },
+    {
+      "tournament_id": "89786",
+      "event_end_date": "2025-05-29",
+      "tournament_name": "EEP Season 4",
+      "event_name": "League",
+      "wppr_points": "0.0000",
+      "player_count": "9",
+      "winner": {
+        "player_id": "0",
+        "name": " "
+      }
+    },
+    {
+      "tournament_id": "94757",
+      "event_end_date": "2025-05-29",
+      "tournament_name": "Evil Horse Brewing Monthly Tournament",
+      "event_name": "Main Tournament",
+      "wppr_points": "0.0000",
+      "player_count": "2",
+      "winner": {
+        "player_id": "0",
+        "name": " "
+      }
+    },
+    {
+      "tournament_id": "95515",
+      "event_end_date": "2025-05-28",
+      "tournament_name": "Pinball at the Grain 5/28/25",
+      "event_name": "Main Tournament",
+      "wppr_points": "0.0000",
+      "player_count": "2",
+      "winner": {
+        "player_id": "0",
+        "name": " "
+      }
+    },
+    {
+      "tournament_id": "84544",
+      "event_end_date": "2025-05-25",
+      "tournament_name": "ORD Last Sunday Matchplay",
+      "event_name": "Main Tournament",
+      "wppr_points": "0.0000",
+      "player_count": "5",
+      "winner": {
+        "player_id": "0",
+        "name": " "
+      }
+    },
+    {
+      "tournament_id": "96218",
+      "event_end_date": "2025-05-23",
+      "tournament_name": "The 7th Annual JVBPT",
+      "event_name": "Main Tournament",
+      "wppr_points": "0.0000",
+      "player_count": "15",
+      "winner": {
+        "player_id": "0",
+        "name": " "
+      }
+    },
+    {
+      "tournament_id": "93671",
+      "event_end_date": "2025-05-21",
+      "tournament_name": "Two Brothers Tap 5/21/25",
+      "event_name": "Main Tournament",
+      "wppr_points": "0.0000",
+      "player_count": "1",
+      "winner": {
+        "player_id": "0",
+        "name": " "
+      }
+    },
+    {
+      "tournament_id": "88152",
+      "event_end_date": "2025-05-18",
+      "tournament_name": "Stern Army Third Sunday @ Reserve Artisan Ales",
+      "event_name": "Main Tournament",
+      "wppr_points": "0.0000",
+      "player_count": "2",
+      "winner": {
+        "player_id": "0",
+        "name": " "
+      }
+    },
+    {
+      "tournament_id": "94855",
+      "event_end_date": "2025-05-15",
+      "tournament_name": "Thursday Night Matchplay @ Chicago Billiard Cafe",
+      "event_name": "Main Tournament",
+      "wppr_points": "0.0000",
+      "player_count": "9",
+      "winner": {
+        "player_id": "0",
+        "name": " "
+      }
+    },
+    {
+      "tournament_id": "94759",
+      "event_end_date": "2025-05-14",
+      "tournament_name": "Crafted 1979 Monthly Tournament",
+      "event_name": "Main Tournament",
+      "wppr_points": "0.0000",
+      "player_count": "3",
+      "winner": {
+        "player_id": "0",
+        "name": " "
+      }
+    },
+    {
+      "tournament_id": "91279",
+      "event_end_date": "2025-05-14",
+      "tournament_name": "Stern Army - Bowlero Algonquin Tournament",
+      "event_name": "Main Tournament",
+      "wppr_points": "0.0000",
+      "player_count": "2",
+      "winner": {
+        "player_id": "0",
+        "name": " "
+      }
+    },
+    {
+      "tournament_id": "95398",
+      "event_end_date": "2025-05-13",
+      "tournament_name": "Global Brew Monthly",
+      "event_name": "Main Tournament",
+      "wppr_points": "0.0000",
+      "player_count": "1",
+      "winner": {
+        "player_id": "0",
+        "name": " "
+      }
+    },
+    {
+      "tournament_id": "95972",
+      "event_end_date": "2025-05-13",
+      "tournament_name": "Kristof's Monthly Silverball Tournament",
+      "event_name": "Main Tournament",
+      "wppr_points": "0.0000",
+      "player_count": "6",
+      "winner": {
+        "player_id": "0",
+        "name": " "
+      }
+    },
+    {
+      "tournament_id": "95957",
+      "event_end_date": "2025-05-13",
+      "tournament_name": "Stern Army Attack From MAWs XXV",
+      "event_name": "Main Tournament",
+      "wppr_points": "0.0000",
+      "player_count": "6",
+      "winner": {
+        "player_id": "0",
+        "name": " "
+      }
+    },
+    {
+      "tournament_id": "94749",
+      "event_end_date": "2025-05-12",
+      "tournament_name": "SweetSpot Monthly Tournament",
+      "event_name": "Main Tournament",
+      "wppr_points": "0.0000",
+      "player_count": "2",
+      "winner": {
+        "player_id": "0",
+        "name": " "
+      }
+    },
+    {
+      "tournament_id": "96131",
+      "event_end_date": "2025-05-11",
+      "tournament_name": "Stern Army at Elston Electric",
+      "event_name": "Main Tournament",
+      "wppr_points": "0.0000",
+      "player_count": "7",
+      "winner": {
+        "player_id": "0",
+        "name": " "
+      }
+    },
+    {
+      "tournament_id": "95707",
+      "event_end_date": "2025-05-10",
+      "tournament_name": "Silverball Saturdays",
+      "event_name": "Main Tournament",
+      "wppr_points": "0.0000",
+      "player_count": "3",
+      "winner": {
+        "player_id": "0",
+        "name": " "
+      }
+    },
+    {
+      "tournament_id": "94767",
+      "event_end_date": "2025-05-10",
+      "tournament_name": "Hickory Creek Brewing Monthly Tournament",
+      "event_name": "Main Tournament",
+      "wppr_points": "0.0000",
+      "player_count": "1",
+      "winner": {
+        "player_id": "0",
+        "name": " "
+      }
+    },
+    {
+      "tournament_id": "96015",
+      "event_end_date": "2025-05-10",
+      "tournament_name": "Group Matchplay - Blono House Party!",
+      "event_name": "Main Tournament",
+      "wppr_points": "0.0000",
+      "player_count": "9",
+      "winner": {
+        "player_id": "0",
+        "name": " "
+      }
+    },
+    {
+      "tournament_id": "84828",
+      "event_end_date": "2025-05-08",
+      "tournament_name": "Stern Army - Logan Arcade Monthly Tournament",
+      "event_name": "Main Tournament",
+      "wppr_points": "0.0000",
+      "player_count": "2",
+      "winner": {
+        "player_id": "0",
+        "name": " "
+      }
+    },
+    {
+      "tournament_id": "93670",
+      "event_end_date": "2025-05-07",
+      "tournament_name": "Pollyanna Pinball 5/7/25",
+      "event_name": "Main Tournament",
+      "wppr_points": "0.0000",
+      "player_count": "1",
+      "winner": {
+        "player_id": "0",
+        "name": " "
+      }
+    },
+    {
+      "tournament_id": "91568",
+      "event_end_date": "2025-05-07",
+      "tournament_name": "Triptych Brewing Monthly Tournament",
+      "event_name": "Main Tournament",
+      "wppr_points": "0.0000",
+      "player_count": "2",
+      "winner": {
+        "player_id": "0",
+        "name": " "
+      }
+    },
+    {
+      "tournament_id": "82162",
+      "event_end_date": "2025-05-06",
+      "tournament_name": "Pinball Super League: Stern Army Enterrium Monthly",
+      "event_name": "Main Tournament",
+      "wppr_points": "0.0000",
+      "player_count": "13",
+      "winner": {
+        "player_id": "0",
+        "name": " "
+      }
+    },
+    {
+      "tournament_id": "94411",
+      "event_end_date": "2025-05-04",
+      "tournament_name": "Stern Army- Louie's Silverball Sunday Monthly",
+      "event_name": "Main Tournament",
+      "wppr_points": "0.0000",
+      "player_count": "2",
+      "winner": {
+        "player_id": "0",
+        "name": " "
+      }
+    },
+    {
+      "tournament_id": "89970",
+      "event_end_date": "2025-05-04",
+      "tournament_name": "Chicago Sunday Best Pinball League Season 7",
+      "event_name": "League",
+      "wppr_points": "0.0000",
+      "player_count": "12",
+      "winner": {
+        "player_id": "0",
+        "name": " "
+      }
+    },
+    {
+      "tournament_id": "88150",
+      "event_end_date": "2025-05-02",
+      "tournament_name": "Stern Army First Friday @ Pinball Haven - Peoria",
+      "event_name": "Main Tournament",
+      "wppr_points": "0.0000",
+      "player_count": "9",
+      "winner": {
+        "player_id": "0",
+        "name": " "
+      }
+    },
+    {
+      "tournament_id": "95698",
+      "event_end_date": "2025-05-01",
+      "tournament_name": "May Stern Army @ Mikerphone Brewing",
+      "event_name": "Main Tournament",
+      "wppr_points": "0.0000",
+      "player_count": "5",
+      "winner": {
+        "player_id": "0",
+        "name": " "
+      }
+    },
+    {
+      "tournament_id": "85570",
+      "event_end_date": "2025-04-30",
+      "tournament_name": "Stern Army - Sew Hop'd Tournament",
+      "event_name": "Main Tournament",
+      "wppr_points": "0.0000",
+      "player_count": "1",
+      "winner": {
+        "player_id": "0",
+        "name": " "
+      }
+    },
+    {
+      "tournament_id": "88149",
+      "event_end_date": "2025-04-27",
+      "tournament_name": "Stern Army Third Sunday @ Reserve Artisan Ales",
+      "event_name": "Main Tournament",
+      "wppr_points": "0.0000",
+      "player_count": "1",
+      "winner": {
+        "player_id": "0",
+        "name": " "
+      }
+    },
+    {
+      "tournament_id": "84540",
+      "event_end_date": "2025-04-27",
+      "tournament_name": "ORD Last Sunday Matchplay",
+      "event_name": "Main Tournament",
+      "wppr_points": "0.0000",
+      "player_count": "9",
+      "winner": {
+        "player_id": "0",
+        "name": " "
+      }
+    },
+    {
+      "tournament_id": "90288",
+      "event_end_date": "2025-04-25",
+      "tournament_name": "Atomic Pinball Stern Army Last Friday Strikeout",
+      "event_name": "Main Tournament",
+      "wppr_points": "0.0000",
+      "player_count": "2",
+      "winner": {
+        "player_id": "0",
+        "name": " "
+      }
+    },
+    {
+      "tournament_id": "94359",
+      "event_end_date": "2025-04-24",
+      "tournament_name": "Stern Army- 3rd Thursdays @ Louie's Tap House",
+      "event_name": "Main Tournament",
+      "wppr_points": "0.0000",
+      "player_count": "1",
+      "winner": {
+        "player_id": "0",
+        "name": " "
+      }
+    },
+    {
+      "tournament_id": "94755",
+      "event_end_date": "2025-04-24",
+      "tournament_name": "Evil Horse Brewing Monthly Tournament",
+      "event_name": "Main Tournament",
+      "wppr_points": "0.0000",
+      "player_count": "2",
+      "winner": {
+        "player_id": "0",
+        "name": " "
+      }
+    },
+    {
+      "tournament_id": "95200",
+      "event_end_date": "2025-04-23",
+      "tournament_name": "Pinball at the Grain 4/23/25",
+      "event_name": "Main Tournament",
+      "wppr_points": "2.9800",
+      "player_count": "5",
+      "winner": {
+        "player_id": "83667",
+        "name": "Lily Pizza"
+      }
+    },
+    {
+      "tournament_id": "94766",
+      "event_end_date": "2025-04-19",
+      "tournament_name": "Hickory Creek Brewing Monthly Tournament",
+      "event_name": "Main Tournament",
+      "wppr_points": "0.0000",
+      "player_count": "1",
+      "winner": {
+        "player_id": "0",
+        "name": " "
+      }
+    },
+    {
+      "tournament_id": "94854",
+      "event_end_date": "2025-04-17",
+      "tournament_name": "Thursday Night Matchplay @ Chicago Billiard Cafe",
+      "event_name": "Main Tournament",
+      "wppr_points": "7.7100",
+      "player_count": "11",
+      "winner": {
+        "player_id": "53105",
+        "name": "Jane Verwys"
+      }
+    },
+    {
+      "tournament_id": "93669",
+      "event_end_date": "2025-04-16",
+      "tournament_name": "DnD Launch Party",
+      "event_name": "Launch Party",
+      "wppr_points": "0.0000",
+      "player_count": "2",
+      "winner": {
+        "player_id": "0",
+        "name": " "
+      }
+    },
+    {
+      "tournament_id": "94751",
+      "event_end_date": "2025-04-14",
+      "tournament_name": "SweetSpot Monthly Tournament",
+      "event_name": "Main Tournament",
+      "wppr_points": "0.0000",
+      "player_count": "3",
+      "winner": {
+        "player_id": "0",
+        "name": " "
+      }
+    },
+    {
+      "tournament_id": "92873",
+      "event_end_date": "2025-04-13",
+      "tournament_name": "Southern Illinois Pinball Derby",
+      "event_name": "Main Tournament",
+      "wppr_points": "0.0000",
+      "player_count": "3",
+      "winner": {
+        "player_id": "0",
+        "name": " "
+      }
+    },
+    {
+      "tournament_id": "94383",
+      "event_end_date": "2025-04-12",
+      "tournament_name": "Silverball Saturdays at Global Brew St Charles IL",
+      "event_name": "Main Tournament",
+      "wppr_points": "0.0000",
+      "player_count": "3",
+      "winner": {
+        "player_id": "0",
+        "name": " "
+      }
+    },
+    {
+      "tournament_id": "94817",
+      "event_end_date": "2025-04-12",
+      "tournament_name": "Spooky Spooky Evil Dead Launch",
+      "event_name": "Main Tournament",
+      "wppr_points": "0.0000",
+      "player_count": "2",
+      "winner": {
+        "player_id": "0",
+        "name": " "
+      }
+    },
+    {
+      "tournament_id": "92899",
+      "event_end_date": "2025-04-11",
+      "tournament_name": "90s Bash",
+      "event_name": "90s Division",
+      "wppr_points": "0.0000",
+      "player_count": "4",
+      "winner": {
+        "player_id": "0",
+        "name": " "
+      }
+    },
+    {
+      "tournament_id": "93855",
+      "event_end_date": "2025-04-11",
+      "tournament_name": "Strikes Tourney @ Wrigley South Peoria",
+      "event_name": "Main Tournament",
+      "wppr_points": "0.0000",
+      "player_count": "10",
+      "winner": {
+        "player_id": "0",
+        "name": " "
+      }
+    },
+    {
+      "tournament_id": "84827",
+      "event_end_date": "2025-04-10",
+      "tournament_name": "Stern Army - Logan Arcade Monthly Tournament",
+      "event_name": "Main Tournament",
+      "wppr_points": "0.0000",
+      "player_count": "4",
+      "winner": {
+        "player_id": "0",
+        "name": " "
+      }
+    },
+    {
+      "tournament_id": "94760",
+      "event_end_date": "2025-04-09",
+      "tournament_name": "Crafted 1979 Monthly Tournament",
+      "event_name": "Main Tournament",
+      "wppr_points": "0.0000",
+      "player_count": "1",
+      "winner": {
+        "player_id": "0",
+        "name": " "
+      }
+    },
+    {
+      "tournament_id": "91280",
+      "event_end_date": "2025-04-09",
+      "tournament_name": "Stern Army - Bowlero Algonquin Tournament",
+      "event_name": "Main Tournament",
+      "wppr_points": "0.0000",
+      "player_count": "4",
+      "winner": {
+        "player_id": "0",
+        "name": " "
+      }
+    },
+    {
+      "tournament_id": "95400",
+      "event_end_date": "2025-04-08",
+      "tournament_name": "Global Brew Monthly",
+      "event_name": "Launch Party",
+      "wppr_points": "0.0000",
+      "player_count": "1",
+      "winner": {
+        "player_id": "0",
+        "name": " "
+      }
+    },
+    {
+      "tournament_id": "92965",
+      "event_end_date": "2025-04-08",
+      "tournament_name": "Stern Army Attack From MAWs XXIV D&D Launch Party",
+      "event_name": "Main Tournament",
+      "wppr_points": "0.0000",
+      "player_count": "5",
+      "winner": {
+        "player_id": "0",
+        "name": " "
+      }
+    },
+    {
+      "tournament_id": "94437",
+      "event_end_date": "2025-04-08",
+      "tournament_name": "Kristof's Monthly Silverball Tournament",
+      "event_name": "Main Tournament",
+      "wppr_points": "0.0000",
+      "player_count": "9",
+      "winner": {
+        "player_id": "0",
+        "name": " "
+      }
+    },
+    {
+      "tournament_id": "94358",
+      "event_end_date": "2025-04-06",
+      "tournament_name": "Stern Army- Louie's Silverball Sunday Monthly",
+      "event_name": "Main Tournament",
+      "wppr_points": "0.0000",
+      "player_count": "3",
+      "winner": {
+        "player_id": "0",
+        "name": " "
+      }
+    },
+    {
+      "tournament_id": "92307",
+      "event_end_date": "2025-04-06",
+      "tournament_name": "Stern Army- D & D Launch Party @ Louie's Tap House",
+      "event_name": "Launch Party",
+      "wppr_points": "0.0000",
+      "player_count": "5",
+      "winner": {
+        "player_id": "0",
+        "name": " "
+      }
+    },
+    {
+      "tournament_id": "88146",
+      "event_end_date": "2025-04-04",
+      "tournament_name": "Stern Army First Friday @ PInball Haven - Peoria",
+      "event_name": "Main Tournament",
+      "wppr_points": "0.0000",
+      "player_count": "8",
+      "winner": {
+        "player_id": "0",
+        "name": " "
+      }
+    },
+    {
+      "tournament_id": "92125",
+      "event_end_date": "2025-04-03",
+      "tournament_name": "Stern Army @ Mikerphone Brewing",
+      "event_name": "Main Tournament",
+      "wppr_points": "0.0000",
+      "player_count": "9",
+      "winner": {
+        "player_id": "0",
+        "name": " "
+      }
+    },
+    {
+      "tournament_id": "87973",
+      "event_end_date": "2025-04-02",
+      "tournament_name": "Atomic Pinball Winter League 2025",
+      "event_name": "League",
+      "wppr_points": "0.0000",
+      "player_count": "2",
+      "winner": {
+        "player_id": "0",
+        "name": " "
+      }
+    },
+    {
+      "tournament_id": "91567",
+      "event_end_date": "2025-04-02",
+      "tournament_name": "Triptych Brewing Monthly Tournament",
+      "event_name": "Main Tournament",
+      "wppr_points": "0.0000",
+      "player_count": "1",
+      "winner": {
+        "player_id": "0",
+        "name": " "
+      }
+    },
+    {
+      "tournament_id": "93668",
+      "event_end_date": "2025-04-02",
+      "tournament_name": "Pollyanna Pinball 4/2/25",
+      "event_name": "Main Tournament",
+      "wppr_points": "0.0000",
+      "player_count": "2",
+      "winner": {
+        "player_id": "0",
+        "name": " "
+      }
+    },
+    {
+      "tournament_id": "82161",
+      "event_end_date": "2025-04-01",
+      "tournament_name": "Pinball Super League: Stern Army Enterrium Monthly",
+      "event_name": "Main Tournament",
+      "wppr_points": "0.0000",
+      "player_count": "10",
+      "winner": {
+        "player_id": "0",
+        "name": " "
+      }
+    },
+    {
+      "tournament_id": "84541",
+      "event_end_date": "2025-03-30",
+      "tournament_name": "ORD Last Sunday Matchplay",
+      "event_name": "Main Tournament",
+      "wppr_points": "0.0000",
+      "player_count": "6",
+      "winner": {
+        "player_id": "0",
+        "name": " "
+      }
+    },
+    {
+      "tournament_id": "93901",
+      "event_end_date": "2025-03-29",
+      "tournament_name": "Spooky March Flipout",
+      "event_name": "Main Tournament",
+      "wppr_points": "0.0000",
+      "player_count": "6",
+      "winner": {
+        "player_id": "0",
+        "name": " "
+      }
+    },
+    {
+      "tournament_id": "90287",
+      "event_end_date": "2025-03-28",
+      "tournament_name": "Atomic Pinball Stern Army Last Friday Strikeout",
+      "event_name": "Main Tournament",
+      "wppr_points": "0.0000",
+      "player_count": "2",
+      "winner": {
+        "player_id": "0",
+        "name": " "
+      }
+    },
+    {
+      "tournament_id": "85569",
+      "event_end_date": "2025-03-26",
+      "tournament_name": "Stern Army - Sew Hop'd Tournament",
+      "event_name": "Main Tournament",
+      "wppr_points": "2.4000",
+      "player_count": "1",
+      "winner": {
+        "player_id": "83667",
+        "name": "Lily Pizza"
+      }
+    },
+    {
+      "tournament_id": "91270",
+      "event_end_date": "2025-03-22",
+      "tournament_name": "Hickory Creek Brewing Monthly Tournament",
+      "event_name": "Main Tournament",
+      "wppr_points": "0.0000",
+      "player_count": "1",
+      "winner": {
+        "player_id": "0",
+        "name": " "
+      }
+    },
+    {
+      "tournament_id": "91581",
+      "event_end_date": "2025-03-21",
+      "tournament_name": "March Melee",
+      "event_name": "Main Tournament",
+      "wppr_points": "0.0000",
+      "player_count": "9",
+      "winner": {
+        "player_id": "0",
+        "name": " "
+      }
+    },
+    {
+      "tournament_id": "94385",
+      "event_end_date": "2025-03-21",
+      "tournament_name": "PSL & Enterrium Dungeons & Dragons Launch Party",
+      "event_name": "Main Tournament",
+      "wppr_points": "0.0000",
+      "player_count": "13",
+      "winner": {
+        "player_id": "0",
+        "name": " "
+      }
+    },
+    {
+      "tournament_id": "92521",
+      "event_end_date": "2025-03-20",
+      "tournament_name": "Stern Army- 3rd Thursdays @ Louie's Tap House",
+      "event_name": "Main Tournament",
+      "wppr_points": "0.0000",
+      "player_count": "1",
+      "winner": {
+        "player_id": "0",
+        "name": " "
+      }
+    },
+    {
+      "tournament_id": "91251",
+      "event_end_date": "2025-03-20",
+      "tournament_name": "Thursday Night Matchplay @ CBC",
+      "event_name": "Main Tournament",
+      "wppr_points": "4.1200",
+      "player_count": "7",
+      "winner": {
+        "player_id": "41211",
+        "name": "Kate Porter"
+      }
+    },
+    {
+      "tournament_id": "89232",
+      "event_end_date": "2025-03-20",
+      "tournament_name": "Evil Horse Monthly Tournament",
+      "event_name": "Main Tournament",
+      "wppr_points": "0.0000",
+      "player_count": "2",
+      "winner": {
+        "player_id": "0",
+        "name": " "
+      }
+    },
+    {
+      "tournament_id": "91859",
+      "event_end_date": "2025-03-20",
+      "tournament_name": "D&D Stern Army Launch Party @ Mikerphone",
+      "event_name": "Launch Party",
+      "wppr_points": "0.0000",
+      "player_count": "6",
+      "winner": {
+        "player_id": "0",
+        "name": " "
+      }
+    },
+    {
+      "tournament_id": "92271",
+      "event_end_date": "2025-03-19",
+      "tournament_name": "CWF Arcade March Monthly",
+      "event_name": "Main Tournament",
+      "wppr_points": "0.0000",
+      "player_count": "3",
+      "winner": {
+        "player_id": "0",
+        "name": " "
+      }
+    },
+    {
+      "tournament_id": "92241",
+      "event_end_date": "2025-03-19",
+      "tournament_name": "Two Brothers Tap Tournament",
+      "event_name": "Main Tournament",
+      "wppr_points": "2.2300",
+      "player_count": "4",
+      "winner": {
+        "player_id": "84190",
+        "name": "Natalie Natalie"
+      }
+    },
+    {
+      "tournament_id": "88143",
+      "event_end_date": "2025-03-16",
+      "tournament_name": "Stern Army Third Sunday Galesburg Metallica Launch",
+      "event_name": "Main Tournament",
+      "wppr_points": "0.0000",
+      "player_count": "1",
+      "winner": {
+        "player_id": "0",
+        "name": " "
+      }
+    },
+    {
+      "tournament_id": "84826",
+      "event_end_date": "2025-03-13",
+      "tournament_name": "Stern Army - Logan Arcade Monthly Tournament",
+      "event_name": "Main Tournament",
+      "wppr_points": "0.0000",
+      "player_count": "5",
+      "winner": {
+        "player_id": "0",
+        "name": " "
+      }
+    },
+    {
+      "tournament_id": "89202",
+      "event_end_date": "2025-03-12",
+      "tournament_name": "Crafted 1979 Monthly Tournament",
+      "event_name": "Main Tournament",
+      "wppr_points": "0.0000",
+      "player_count": "4",
+      "winner": {
+        "player_id": "0",
+        "name": " "
+      }
+    },
+    {
+      "tournament_id": "91282",
+      "event_end_date": "2025-03-12",
+      "tournament_name": "Stern Army - Bowlero Algonquin Tournament",
+      "event_name": "Main Tournament",
+      "wppr_points": "0.0000",
+      "player_count": "3",
+      "winner": {
+        "player_id": "0",
+        "name": " "
+      }
+    },
+    {
+      "tournament_id": "89216",
+      "event_end_date": "2025-03-10",
+      "tournament_name": "Sweetspot Monthly Tournament",
+      "event_name": "Main Tournament",
+      "wppr_points": "0.0000",
+      "player_count": "5",
+      "winner": {
+        "player_id": "0",
+        "name": " "
+      }
+    },
+    {
+      "tournament_id": "91012",
+      "event_end_date": "2025-03-09",
+      "tournament_name": "The Battle at The Rust Belt Main Tournament",
+      "event_name": "Main Tournament",
+      "wppr_points": "0.0000",
+      "player_count": "8",
+      "winner": {
+        "player_id": "0",
+        "name": " "
+      }
+    },
+    {
+      "tournament_id": "91013",
+      "event_end_date": "2025-03-08",
+      "tournament_name": "Battle at The Rust Belt 3 Strike Knock Out Bounty",
+      "event_name": "Main Tournament",
+      "wppr_points": "0.0000",
+      "player_count": "5",
+      "winner": {
+        "player_id": "0",
+        "name": " "
+      }
+    },
+    {
+      "tournament_id": "92337",
+      "event_end_date": "2025-03-07",
+      "tournament_name": "Stern Pinball's Dungeons & Dragons Launch Party",
+      "event_name": "Launch Party",
+      "wppr_points": "0.0000",
+      "player_count": "8",
+      "winner": {
+        "player_id": "0",
+        "name": " "
+      }
+    },
+    {
+      "tournament_id": "88142",
+      "event_end_date": "2025-03-07",
+      "tournament_name": "Stern Army First Friday @ PInball Haven - Peoria",
+      "event_name": "Main Tournament",
+      "wppr_points": "0.0000",
+      "player_count": "7",
+      "winner": {
+        "player_id": "0",
+        "name": " "
+      }
+    },
+    {
+      "tournament_id": "92004",
+      "event_end_date": "2025-03-06",
+      "tournament_name": "Stern Army @ Mikerphone Brewing",
+      "event_name": "Main Tournament",
+      "wppr_points": "0.0000",
+      "player_count": "7",
+      "winner": {
+        "player_id": "0",
+        "name": " "
+      }
+    },
+    {
+      "tournament_id": "91566",
+      "event_end_date": "2025-03-05",
+      "tournament_name": "Triptych Brewing Monthly Tournament",
+      "event_name": "Main Tournament",
+      "wppr_points": "0.0000",
+      "player_count": "1",
+      "winner": {
+        "player_id": "0",
+        "name": " "
+      }
+    },
+    {
+      "tournament_id": "87001",
+      "event_end_date": "2025-03-05",
+      "tournament_name": "Pollyanna Pinball Party 3/5",
+      "event_name": "Main Tournament",
+      "wppr_points": "0.0000",
+      "player_count": "2",
+      "winner": {
+        "player_id": "0",
+        "name": " "
+      }
+    },
+    {
+      "tournament_id": "82160",
+      "event_end_date": "2025-03-04",
+      "tournament_name": "Pinball Super League: Stern Army Enterrium Monthly",
+      "event_name": "Main Tournament",
+      "wppr_points": "0.0000",
+      "player_count": "15",
+      "winner": {
+        "player_id": "0",
+        "name": " "
+      }
+    },
+    {
+      "tournament_id": "92549",
+      "event_end_date": "2025-03-03",
+      "tournament_name": "Copeland’s Bar & Grill Monthly Tournament",
+      "event_name": "Main Tournament",
+      "wppr_points": "0.0000",
+      "player_count": "3",
+      "winner": {
+        "player_id": "0",
+        "name": " "
+      }
+    },
+    {
+      "tournament_id": "90286",
+      "event_end_date": "2025-02-28",
+      "tournament_name": "Atomic Pinball Stern Army Last Friday Strikeout",
+      "event_name": "Main Tournament",
+      "wppr_points": "0.0000",
+      "player_count": "2",
+      "winner": {
+        "player_id": "0",
+        "name": " "
+      }
+    },
+    {
+      "tournament_id": "89765",
+      "event_end_date": "2025-02-26",
+      "tournament_name": "CWF Arcade February Monthly",
+      "event_name": "Main Tournament",
+      "wppr_points": "0.0000",
+      "player_count": "11",
+      "winner": {
+        "player_id": "0",
+        "name": " "
+      }
+    },
+    {
+      "tournament_id": "84545",
+      "event_end_date": "2025-02-23",
+      "tournament_name": "ORD Last Sunday Matchplay",
+      "event_name": "Main Tournament",
+      "wppr_points": "0.0000",
+      "player_count": "4",
+      "winner": {
+        "player_id": "0",
+        "name": " "
+      }
+    },
+    {
+      "tournament_id": "92107",
+      "event_end_date": "2025-02-22",
+      "tournament_name": "Spooky February Flip Out",
+      "event_name": "Main Tournament",
+      "wppr_points": "0.0000",
+      "player_count": "9",
+      "winner": {
+        "player_id": "0",
+        "name": " "
+      }
+    },
+    {
+      "tournament_id": "91272",
+      "event_end_date": "2025-02-22",
+      "tournament_name": "Pinball Haven Peoria Inaugural COB CLASSIC",
+      "event_name": "Main Tournament",
+      "wppr_points": "0.0000",
+      "player_count": "6",
+      "winner": {
+        "player_id": "0",
+        "name": " "
+      }
+    },
+    {
+      "tournament_id": "91705",
+      "event_end_date": "2025-02-21",
+      "tournament_name": "Atomic Pinball Stern D&D Launch Party",
+      "event_name": "Launch Party",
+      "wppr_points": "0.0000",
+      "player_count": "5",
+      "winner": {
+        "player_id": "0",
+        "name": " "
+      }
+    },
+    {
+      "tournament_id": "91248",
+      "event_end_date": "2025-02-20",
+      "tournament_name": "Thursday Night Matchplay @ CBC",
+      "event_name": "Main Tournament",
+      "wppr_points": "0.0000",
+      "player_count": "5",
+      "winner": {
+        "player_id": "0",
+        "name": " "
+      }
+    },
+    {
+      "tournament_id": "89203",
+      "event_end_date": "2025-02-20",
+      "tournament_name": "Crafted 1979 Monthly Tournament",
+      "event_name": "Main Tournament",
+      "wppr_points": "0.0000",
+      "player_count": "3",
+      "winner": {
+        "player_id": "0",
+        "name": " "
+      }
+    },
+    {
+      "tournament_id": "88503",
+      "event_end_date": "2025-02-19",
+      "tournament_name": "Two Brothers Stern Style",
+      "event_name": "Main Tournament",
+      "wppr_points": "0.0000",
+      "player_count": "5",
+      "winner": {
+        "player_id": "0",
+        "name": " "
+      }
+    },
+    {
+      "tournament_id": "88139",
+      "event_end_date": "2025-02-16",
+      "tournament_name": "Stern Army Third Sunday @ Reserve Artisan Ales",
+      "event_name": "Main Tournament",
+      "wppr_points": "0.0000",
+      "player_count": "2",
+      "winner": {
+        "player_id": "0",
+        "name": " "
+      }
+    },
+    {
+      "tournament_id": "84825",
+      "event_end_date": "2025-02-13",
+      "tournament_name": "Stern Army - Logan Arcade Monthly Tournament",
+      "event_name": "Main Tournament",
+      "wppr_points": "0.0000",
+      "player_count": "8",
+      "winner": {
+        "player_id": "0",
+        "name": " "
+      }
+    },
+    {
+      "tournament_id": "91281",
+      "event_end_date": "2025-02-12",
+      "tournament_name": "Stern Army - Bowlero Algonquin Tournament",
+      "event_name": "Main Tournament",
+      "wppr_points": "3.0600",
+      "player_count": "3",
+      "winner": {
+        "player_id": "83667",
+        "name": "Lily Pizza"
+      }
+    },
+    {
+      "tournament_id": "91011",
+      "event_end_date": "2025-02-11",
+      "tournament_name": "Attack From MAWs XXII",
+      "event_name": "Main Tournament",
+      "wppr_points": "0.0000",
+      "player_count": "8",
+      "winner": {
+        "player_id": "0",
+        "name": " "
+      }
+    },
+    {
+      "tournament_id": "89215",
+      "event_end_date": "2025-02-10",
+      "tournament_name": "Sweetspot Monthly Tournament",
+      "event_name": "Main Tournament",
+      "wppr_points": "0.0000",
+      "player_count": "3",
+      "winner": {
+        "player_id": "0",
+        "name": " "
+      }
+    },
+    {
+      "tournament_id": "91244",
+      "event_end_date": "2025-02-09",
+      "tournament_name": "Strikes Brunch Tourney @ Wrigley South Peoria",
+      "event_name": "Main Tournament",
+      "wppr_points": "0.0000",
+      "player_count": "6",
+      "winner": {
+        "player_id": "0",
+        "name": " "
+      }
+    },
+    {
+      "tournament_id": "88138",
+      "event_end_date": "2025-02-07",
+      "tournament_name": "Stern Army First Friday Metallica Launch Party",
+      "event_name": "Main Tournament",
+      "wppr_points": "0.0000",
+      "player_count": "12",
+      "winner": {
+        "player_id": "0",
+        "name": " "
+      }
+    },
+    {
+      "tournament_id": "90259",
+      "event_end_date": "2025-02-06",
+      "tournament_name": "February Stern Army @ Mikerphone Brewing",
+      "event_name": "Main Tournament",
+      "wppr_points": "0.0000",
+      "player_count": "10",
+      "winner": {
+        "player_id": "0",
+        "name": " "
+      }
+    },
+    {
+      "tournament_id": "91565",
+      "event_end_date": "2025-02-05",
+      "tournament_name": "Triptych Brewing Monthly Tournament",
+      "event_name": "Main Tournament",
+      "wppr_points": "0.0000",
+      "player_count": "1",
+      "winner": {
+        "player_id": "0",
+        "name": " "
+      }
+    },
+    {
+      "tournament_id": "86982",
+      "event_end_date": "2025-02-05",
+      "tournament_name": "Pollyanna Pinball Party",
+      "event_name": "Main Tournament",
+      "wppr_points": "0.0000",
+      "player_count": "2",
+      "winner": {
+        "player_id": "0",
+        "name": " "
+      }
+    },
+    {
+      "tournament_id": "82159",
+      "event_end_date": "2025-02-04",
+      "tournament_name": "Pinball Super League: Stern Army Enterrium Monthly",
+      "event_name": "Main Tournament",
+      "wppr_points": "0.0000",
+      "player_count": "12",
+      "winner": {
+        "player_id": "0",
+        "name": " "
+      }
+    },
+    {
+      "tournament_id": "90482",
+      "event_end_date": "2025-02-02",
+      "tournament_name": "Stern Army- Louie's Silverball Sunday Monthly",
+      "event_name": "Main Tournament",
+      "wppr_points": "0.0000",
+      "player_count": "5",
+      "winner": {
+        "player_id": "0",
+        "name": " "
+      }
+    },
+    {
+      "tournament_id": "91739",
+      "event_end_date": "2025-02-01",
+      "tournament_name": "Matchplay at Mike and Steph's (Blono house party!)",
+      "event_name": "Main Tournament",
+      "wppr_points": "0.0000",
+      "player_count": "6",
+      "winner": {
+        "player_id": "0",
+        "name": " "
+      }
+    },
+    {
+      "tournament_id": "90285",
+      "event_end_date": "2025-01-31",
+      "tournament_name": "Atomic Pinball Stern Army Last Friday Strikeout",
+      "event_name": "Main Tournament",
+      "wppr_points": "0.0000",
+      "player_count": "3",
+      "winner": {
+        "player_id": "0",
+        "name": " "
+      }
+    },
+    {
+      "tournament_id": "89230",
+      "event_end_date": "2025-01-30",
+      "tournament_name": "Evil Horse Monthly Tournament",
+      "event_name": "Main Tournament",
+      "wppr_points": "0.0000",
+      "player_count": "2",
+      "winner": {
+        "player_id": "0",
+        "name": " "
+      }
+    },
+    {
+      "tournament_id": "85567",
+      "event_end_date": "2025-01-29",
+      "tournament_name": "Stern Army - Sew Hop'd Tournament",
+      "event_name": "Main Tournament",
+      "wppr_points": "0.0000",
+      "player_count": "2",
+      "winner": {
+        "player_id": "0",
+        "name": " "
+      }
+    },
+    {
+      "tournament_id": "89094",
+      "event_end_date": "2025-01-27",
+      "tournament_name": "Pinball Chicago - Fall 2024 Closing Party",
+      "event_name": "Main Tournament",
+      "wppr_points": "0.0000",
+      "player_count": "23",
+      "winner": {
+        "player_id": "0",
+        "name": " "
+      }
+    },
+    {
+      "tournament_id": "84542",
+      "event_end_date": "2025-01-26",
+      "tournament_name": "ORD Last Sunday Matchplay",
+      "event_name": "Main Tournament",
+      "wppr_points": "0.0000",
+      "player_count": "4",
+      "winner": {
+        "player_id": "0",
+        "name": " "
+      }
+    },
+    {
+      "tournament_id": "83006",
+      "event_end_date": "2025-01-23",
+      "tournament_name": "Thursday Night Matchplay @ Chicago Billiard Cafe",
+      "event_name": "Main Tournament",
+      "wppr_points": "0.0000",
+      "player_count": "11",
+      "winner": {
+        "player_id": "0",
+        "name": " "
+      }
+    },
+    {
+      "tournament_id": "89589",
+      "event_end_date": "2025-01-22",
+      "tournament_name": "CWF Arcade January Monthly",
+      "event_name": "Main Tournament",
+      "wppr_points": "13.2400",
+      "player_count": "8",
+      "winner": {
+        "player_id": "83667",
+        "name": "Lily Pizza"
+      }
+    },
+    {
+      "tournament_id": "88137",
+      "event_end_date": "2025-01-19",
+      "tournament_name": "Stern Army Third Sunday @ Reserve Artisan Ales",
+      "event_name": "Main Tournament",
+      "wppr_points": "0.0000",
+      "player_count": "4",
+      "winner": {
+        "player_id": "0",
+        "name": " "
+      }
+    },
+    {
+      "tournament_id": "87417",
+      "event_end_date": "2025-01-18",
+      "tournament_name": "IFPA Illinois State Pinball Championship",
+      "event_name": "Main Tournament",
+      "wppr_points": "0.0000",
+      "player_count": "1",
+      "winner": {
+        "player_id": "0",
+        "name": " "
+      }
+    },
+    {
+      "tournament_id": "89201",
+      "event_end_date": "2025-01-15",
+      "tournament_name": "Crafted 1979 Monthly Tournament",
+      "event_name": "Main Tournament",
+      "wppr_points": "0.0000",
+      "player_count": "2",
+      "winner": {
+        "player_id": "0",
+        "name": " "
+      }
+    },
+    {
+      "tournament_id": "88502",
+      "event_end_date": "2025-01-15",
+      "tournament_name": "Two Brothers Stern Style 1/15/25",
+      "event_name": "Launch Party",
+      "wppr_points": "0.0000",
+      "player_count": "2",
+      "winner": {
+        "player_id": "0",
+        "name": " "
+      }
+    },
+    {
+      "tournament_id": "88590",
+      "event_end_date": "2025-01-14",
+      "tournament_name": "Stern Army Attack From MAWs XXI",
+      "event_name": "Main Tournament",
+      "wppr_points": "0.0000",
+      "player_count": "5",
+      "winner": {
+        "player_id": "0",
+        "name": " "
+      }
+    },
+    {
+      "tournament_id": "89217",
+      "event_end_date": "2025-01-13",
+      "tournament_name": "Sweetspot Monthly Tournament",
+      "event_name": "Main Tournament",
+      "wppr_points": "0.0000",
+      "player_count": "4",
+      "winner": {
+        "player_id": "0",
+        "name": " "
+      }
+    },
+    {
+      "tournament_id": "89031",
+      "event_end_date": "2025-01-13",
+      "tournament_name": "Monday Max Matchplay @ Logan Arcade",
+      "event_name": "Main Tournament",
+      "wppr_points": "0.0000",
+      "player_count": "9",
+      "winner": {
+        "player_id": "0",
+        "name": " "
+      }
+    },
+    {
+      "tournament_id": "90258",
+      "event_end_date": "2025-01-10",
+      "tournament_name": "Mikerphone Metallica Remastered Launch Party",
+      "event_name": "Launch Party",
+      "wppr_points": "0.0000",
+      "player_count": "8",
+      "winner": {
+        "player_id": "0",
+        "name": " "
+      }
+    },
+    {
+      "tournament_id": "88022",
+      "event_end_date": "2025-01-10",
+      "tournament_name": "January Jamboree",
+      "event_name": "Main Tournament",
+      "wppr_points": "0.0000",
+      "player_count": "6",
+      "winner": {
+        "player_id": "0",
+        "name": " "
+      }
+    },
+    {
+      "tournament_id": "84824",
+      "event_end_date": "2025-01-09",
+      "tournament_name": "Stern Army - Logan Arcade Monthly Tournament",
+      "event_name": "Main Tournament",
+      "wppr_points": "0.0000",
+      "player_count": "7",
+      "winner": {
+        "player_id": "0",
+        "name": " "
+      }
+    },
+    {
+      "tournament_id": "88310",
+      "event_end_date": "2025-01-08",
+      "tournament_name": "Weds Evening Matchplay @ Chicago Billiard Cafe",
+      "event_name": "Main Tournament",
+      "wppr_points": "0.0000",
+      "player_count": "8",
+      "winner": {
+        "player_id": "0",
+        "name": " "
+      }
+    },
+    {
+      "tournament_id": "86952",
+      "event_end_date": "2025-01-08",
+      "tournament_name": "Pollyanna Pinball Party",
+      "event_name": "Main Tournament",
+      "wppr_points": "0.0000",
+      "player_count": "1",
+      "winner": {
+        "player_id": "0",
+        "name": " "
+      }
+    },
+    {
+      "tournament_id": "82158",
+      "event_end_date": "2025-01-07",
+      "tournament_name": "Pinball Super League: Stern Army Enterrium Monthly",
+      "event_name": "Main Tournament",
+      "wppr_points": "0.0000",
+      "player_count": "13",
+      "winner": {
+        "player_id": "0",
+        "name": " "
+      }
+    },
+    {
+      "tournament_id": "87349",
+      "event_end_date": "2025-01-05",
+      "tournament_name": "Louie's Silverball Sunday Monthly",
+      "event_name": "Main Tournament",
+      "wppr_points": "0.0000",
+      "player_count": "3",
+      "winner": {
+        "player_id": "0",
+        "name": " "
+      }
+    },
+    {
+      "tournament_id": "87347",
+      "event_end_date": "2025-01-05",
+      "tournament_name": "Stern Army- METALLICA Launch Party @ Louie's",
+      "event_name": "Launch Party",
+      "wppr_points": "0.0000",
+      "player_count": "4",
+      "winner": {
+        "player_id": "0",
+        "name": " "
+      }
+    },
+    {
+      "tournament_id": "85968",
+      "event_end_date": "2025-01-04",
+      "tournament_name": "Hickory Creek Brewing Monthly Tournament",
+      "event_name": "Main Tournament",
+      "wppr_points": "0.0000",
+      "player_count": "1",
+      "winner": {
+        "player_id": "0",
+        "name": " "
+      }
+    },
+    {
+      "tournament_id": "88134",
+      "event_end_date": "2025-01-03",
+      "tournament_name": "Stern Army First Friday @ Gone Social Peoria IL",
+      "event_name": "Main Tournament",
+      "wppr_points": "0.0000",
+      "player_count": "10",
+      "winner": {
+        "player_id": "0",
+        "name": " "
+      }
+    },
+    {
+      "tournament_id": "86076",
+      "event_end_date": "2025-01-02",
+      "tournament_name": "Stern Army @ Mikerphone Brewing",
+      "event_name": "Main Tournament",
+      "wppr_points": "0.0000",
+      "player_count": "9",
+      "winner": {
+        "player_id": "0",
+        "name": " "
+      }
+    },
+    {
+      "tournament_id": "85194",
+      "event_end_date": "2025-01-01",
+      "tournament_name": "Galesburg House Party",
+      "event_name": "Main Tournament",
+      "wppr_points": "0.0000",
+      "player_count": "2",
+      "winner": {
+        "player_id": "0",
+        "name": " "
+      }
+    }
+  ]
+}

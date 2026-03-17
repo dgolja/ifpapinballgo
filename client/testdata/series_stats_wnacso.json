@@ -1,0 +1,164 @@
+{
+  "series_code": "WNACSO",
+  "region_code": "NSW",
+  "year": 2025,
+  "monthly_stats": [
+    {
+      "month": "1",
+      "tournament_count": "0",
+      "player_count": "0",
+      "unique_player_count": "0",
+      "prize_fund": "0.00"
+    },
+    {
+      "month": "2",
+      "tournament_count": "0",
+      "player_count": "0",
+      "unique_player_count": "0",
+      "prize_fund": "0.00"
+    },
+    {
+      "month": "3",
+      "tournament_count": "0",
+      "player_count": "0",
+      "unique_player_count": "0",
+      "prize_fund": "0.00"
+    },
+    {
+      "month": "4",
+      "tournament_count": "0",
+      "player_count": "0",
+      "unique_player_count": "0",
+      "prize_fund": "0.00"
+    },
+    {
+      "month": "5",
+      "tournament_count": "0",
+      "player_count": "0",
+      "unique_player_count": "0",
+      "prize_fund": "0.00"
+    },
+    {
+      "month": "6",
+      "tournament_count": "0",
+      "player_count": "0",
+      "unique_player_count": "0",
+      "prize_fund": "0.00"
+    },
+    {
+      "month": "7",
+      "tournament_count": "0",
+      "player_count": "0",
+      "unique_player_count": "0",
+      "prize_fund": "0.00"
+    },
+    {
+      "month": "8",
+      "tournament_count": "0",
+      "player_count": "0",
+      "unique_player_count": "0",
+      "prize_fund": "0.00"
+    },
+    {
+      "month": "9",
+      "tournament_count": "0",
+      "player_count": "0",
+      "unique_player_count": "0",
+      "prize_fund": "0.00"
+    },
+    {
+      "month": "10",
+      "tournament_count": "0",
+      "player_count": "0",
+      "unique_player_count": "0",
+      "prize_fund": "0.00"
+    },
+    {
+      "month": "11",
+      "tournament_count": "0",
+      "player_count": "0",
+      "unique_player_count": "0",
+      "prize_fund": "0.00"
+    },
+    {
+      "month": "12",
+      "tournament_count": "0",
+      "player_count": "0",
+      "unique_player_count": "0",
+      "prize_fund": "0.00"
+    }
+  ],
+  "yearly_stats": {
+    "player_count": "0",
+    "unique_player_count": "0",
+    "tournament_count": 0,
+    "prize_fund": 0,
+    "field_size": 16
+  },
+  "payouts": [
+    {
+      "position": 1,
+      "prize_fund": 0
+    },
+    {
+      "position": 2,
+      "prize_fund": 0
+    },
+    {
+      "position": 3,
+      "prize_fund": 0
+    },
+    {
+      "position": 4,
+      "prize_fund": 0
+    },
+    {
+      "position": 5,
+      "prize_fund": 0
+    },
+    {
+      "position": 6,
+      "prize_fund": 0
+    },
+    {
+      "position": 7,
+      "prize_fund": 0
+    },
+    {
+      "position": 8,
+      "prize_fund": 0
+    },
+    {
+      "position": 9,
+      "prize_fund": 0
+    },
+    {
+      "position": 10,
+      "prize_fund": 0
+    },
+    {
+      "position": 11,
+      "prize_fund": 0
+    },
+    {
+      "position": 12,
+      "prize_fund": 0
+    },
+    {
+      "position": 13,
+      "prize_fund": 0
+    },
+    {
+      "position": 14,
+      "prize_fund": 0
+    },
+    {
+      "position": 15,
+      "prize_fund": 0
+    },
+    {
+      "position": 16,
+      "prize_fund": 0
+    }
+  ]
+}

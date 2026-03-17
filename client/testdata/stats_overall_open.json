@@ -1,0 +1,20 @@
+{
+  "type": "Overall Stats",
+  "system_code": "OPEN",
+  "stats": {
+    "overall_player_count": 149872,
+    "active_player_count": 75606,
+    "tournament_count": 89509,
+    "tournament_count_last_month": 852,
+    "tournament_count_this_year": 2008,
+    "tournament_player_count": 2052044,
+    "tournament_player_count_average": 22.9,
+    "age": {
+      "age_under_18": 3.57,
+      "age_18_to_29": 9.74,
+      "age_30_to_39": 22.86,
+      "age_40_to_49": 30.81,
+      "age_50_to_99": 33.02
+    }
+  }
+}

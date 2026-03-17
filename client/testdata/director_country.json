@@ -1,0 +1,320 @@
+{
+  "count": 35,
+  "country_directors": [
+    {
+      "player_profile": {
+        "player_id": "86571",
+        "name": "Esteban Mazzoli",
+        "country_code": "AR",
+        "country_name": "Argentina",
+        "profile_photo": ""
+      }
+    },
+    {
+      "player_profile": {
+        "player_id": "8933",
+        "name": "Daniel Robar",
+        "country_code": "AU",
+        "country_name": "Australia",
+        "profile_photo": ""
+      }
+    },
+    {
+      "player_profile": {
+        "player_id": "16976",
+        "name": "Jason Lambert AUS",
+        "country_code": "AU",
+        "country_name": "Australia",
+        "profile_photo": "https://www.ifpapinball.com/images/profiles/players/16976.jpg"
+      }
+    },
+    {
+      "player_profile": {
+        "player_id": "19878",
+        "name": "Luke Marburg",
+        "country_code": "AU",
+        "country_name": "Australia",
+        "profile_photo": ""
+      }
+    },
+    {
+      "player_profile": {
+        "player_id": "16989",
+        "name": "Jimmy Nails",
+        "country_code": "AU",
+        "country_name": "Australia",
+        "profile_photo": ""
+      }
+    },
+    {
+      "player_profile": {
+        "player_id": "13322",
+        "name": "Jenna Muer",
+        "country_code": "AT",
+        "country_name": "Austria",
+        "profile_photo": ""
+      }
+    },
+    {
+      "player_profile": {
+        "player_id": "21106",
+        "name": "Arno Nöbl",
+        "country_code": "AT",
+        "country_name": "Austria",
+        "profile_photo": ""
+      }
+    },
+    {
+      "player_profile": {
+        "player_id": "276",
+        "name": "David Deturck",
+        "country_code": "BE",
+        "country_name": "Belgium",
+        "profile_photo": ""
+      }
+    },
+    {
+      "player_profile": {
+        "player_id": "2282",
+        "name": "Ricardo Darriba",
+        "country_code": "BR",
+        "country_name": "Brazil",
+        "profile_photo": ""
+      }
+    },
+    {
+      "player_profile": {
+        "player_id": "102523",
+        "name": "Dennis Kjær Jensen",
+        "country_code": "DK",
+        "country_name": "Denmark",
+        "profile_photo": ""
+      }
+    },
+    {
+      "player_profile": {
+        "player_id": "1152",
+        "name": "Marco Suvanto",
+        "country_code": "FI",
+        "country_name": "Finland",
+        "profile_photo": ""
+      }
+    },
+    {
+      "player_profile": {
+        "player_id": "7568",
+        "name": "Archibald Lefevre",
+        "country_code": "FR",
+        "country_name": "France",
+        "profile_photo": ""
+      }
+    },
+    {
+      "player_profile": {
+        "player_id": "110261",
+        "name": "Benjamin Kispal",
+        "country_code": "DE",
+        "country_name": "Germany",
+        "profile_photo": ""
+      }
+    },
+    {
+      "player_profile": {
+        "player_id": "2036",
+        "name": "József Vasmatics",
+        "country_code": "HU",
+        "country_name": "Hungary",
+        "profile_photo": ""
+      }
+    },
+    {
+      "player_profile": {
+        "player_id": "21745",
+        "name": "Gábor Vanderer",
+        "country_code": "HU",
+        "country_name": "Hungary",
+        "profile_photo": "https://www.ifpapinball.com/images/profiles/players/21745.jpg"
+      }
+    },
+    {
+      "player_profile": {
+        "player_id": "2162",
+        "name": "Peter Mojzes",
+        "country_code": "HU",
+        "country_name": "Hungary",
+        "profile_photo": ""
+      }
+    },
+    {
+      "player_profile": {
+        "player_id": "49106",
+        "name": "Alex Sperellis",
+        "country_code": "IE",
+        "country_name": "Ireland",
+        "profile_photo": "https://www.ifpapinball.com/images/profiles/players/49106.jpg"
+      }
+    },
+    {
+      "player_profile": {
+        "player_id": "1037",
+        "name": "Alessio Crisantemi",
+        "country_code": "IT",
+        "country_name": "Italy",
+        "profile_photo": "https://www.ifpapinball.com/images/profiles/players/1037.jpg"
+      }
+    },
+    {
+      "player_profile": {
+        "player_id": "41310",
+        "name": "Antonella Iannotta",
+        "country_code": "IT",
+        "country_name": "Italy",
+        "profile_photo": ""
+      }
+    },
+    {
+      "player_profile": {
+        "player_id": "3161",
+        "name": "Horiguchi Masaya",
+        "country_code": "JP",
+        "country_name": "Japan",
+        "profile_photo": ""
+      }
+    },
+    {
+      "player_profile": {
+        "player_id": "21867",
+        "name": "Bart Volman",
+        "country_code": "NL",
+        "country_name": "Netherlands",
+        "profile_photo": ""
+      }
+    },
+    {
+      "player_profile": {
+        "player_id": "27326",
+        "name": "Hamish Guthrey",
+        "country_code": "NZ",
+        "country_name": "New Zealand",
+        "profile_photo": ""
+      }
+    },
+    {
+      "player_profile": {
+        "player_id": "13477",
+        "name": "Paul McKnight",
+        "country_code": "NZ",
+        "country_name": "New Zealand",
+        "profile_photo": ""
+      }
+    },
+    {
+      "player_profile": {
+        "player_id": "22762",
+        "name": "Morten Søbyskogen",
+        "country_code": "NO",
+        "country_name": "Norway",
+        "profile_photo": ""
+      }
+    },
+    {
+      "player_profile": {
+        "player_id": "2889",
+        "name": "Lukasz Dziatkiewicz",
+        "country_code": "PL",
+        "country_name": "Poland",
+        "profile_photo": ""
+      }
+    },
+    {
+      "player_profile": {
+        "player_id": "19921",
+        "name": "Cezary Glowala",
+        "country_code": "PL",
+        "country_name": "Poland",
+        "profile_photo": ""
+      }
+    },
+    {
+      "player_profile": {
+        "player_id": "13282",
+        "name": "Ovidiu Cacina",
+        "country_code": "RO",
+        "country_name": "Romania",
+        "profile_photo": ""
+      }
+    },
+    {
+      "player_profile": {
+        "player_id": "24127",
+        "name": "Ales Rebec",
+        "country_code": "SI",
+        "country_name": "Slovenia",
+        "profile_photo": ""
+      }
+    },
+    {
+      "player_profile": {
+        "player_id": "40790",
+        "name": "Vid Kuklec",
+        "country_code": "SI",
+        "country_name": "Slovenia",
+        "profile_photo": ""
+      }
+    },
+    {
+      "player_profile": {
+        "player_id": "511",
+        "name": "Javier Núñez Pérez",
+        "country_code": "ES",
+        "country_name": "Spain",
+        "profile_photo": ""
+      }
+    },
+    {
+      "player_profile": {
+        "player_id": "378",
+        "name": "Johan Genberg",
+        "country_code": "SE",
+        "country_name": "Sweden",
+        "profile_photo": ""
+      }
+    },
+    {
+      "player_profile": {
+        "player_id": "7309",
+        "name": "David Dahl-Hansson",
+        "country_code": "SE",
+        "country_name": "Sweden",
+        "profile_photo": ""
+      }
+    },
+    {
+      "player_profile": {
+        "player_id": "214",
+        "name": "Michael Trepp",
+        "country_code": "CH",
+        "country_name": "Switzerland",
+        "profile_photo": ""
+      }
+    },
+    {
+      "player_profile": {
+        "player_id": "8143",
+        "name": "Matt Vince",
+        "country_code": "GB",
+        "country_name": "United Kingdom",
+        "profile_photo": ""
+      }
+    },
+    {
+      "player_profile": {
+        "player_id": "4",
+        "name": "Josh Sharpe",
+        "country_code": "US",
+        "country_name": "United States",
+        "profile_photo": ""
+      }
+    }
+  ]
+}

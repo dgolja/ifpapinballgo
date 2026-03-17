@@ -1,0 +1,76 @@
+{
+  "type": "Players by Year",
+  "rank_type": "OPEN",
+  "stats": [
+    {
+      "year": "2025",
+      "current_year_count": "43745",
+      "previous_year_count": "18452",
+      "previous_2_year_count": "8279",
+      "stats_rank": 1
+    },
+    {
+      "year": "2024",
+      "current_year_count": "38908",
+      "previous_year_count": "14681",
+      "previous_2_year_count": "6707",
+      "stats_rank": 2
+    },
+    {
+      "year": "2023",
+      "current_year_count": "32976",
+      "previous_year_count": "9193",
+      "previous_2_year_count": "7269",
+      "stats_rank": 3
+    },
+    {
+      "year": "2022",
+      "current_year_count": "24717",
+      "previous_year_count": "5719",
+      "previous_2_year_count": "6468",
+      "stats_rank": 4
+    },
+    {
+      "year": "2021",
+      "current_year_count": "13037",
+      "previous_year_count": "8697",
+      "previous_2_year_count": "8577",
+      "stats_rank": 5
+    },
+    {
+      "year": "2020",
+      "current_year_count": "11403",
+      "previous_year_count": "8697",
+      "previous_2_year_count": "6468",
+      "stats_rank": 6
+    },
+    {
+      "year": "2019",
+      "current_year_count": "24380",
+      "previous_year_count": "12010",
+      "previous_2_year_count": "8577",
+      "stats_rank": 7
+    },
+    {
+      "year": "2018",
+      "current_year_count": "21306",
+      "previous_year_count": "9982",
+      "previous_2_year_count": "7275",
+      "stats_rank": 8
+    },
+    {
+      "year": "2017",
+      "current_year_count": "19392",
+      "previous_year_count": "8977",
+      "previous_2_year_count": "6503",
+      "stats_rank": 9
+    },
+    {
+      "year": "2016",
+      "current_year_count": "17230",
+      "previous_year_count": "7911",
+      "previous_2_year_count": "5329",
+      "stats_rank": 10
+    }
+  ]
+}

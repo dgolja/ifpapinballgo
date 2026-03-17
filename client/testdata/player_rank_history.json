@@ -1,0 +1,37 @@
+{
+  "player_id": 44434,
+  "system": "MAIN",
+  "active_flag": "N",
+  "rank_history":
+  [
+    {
+      "rank_date": "2022-10-01",
+      "rank_position": "17646",
+      "wppr_points": "0.4200",
+      "tournaments_played_count": "0"
+    },
+    {
+      "rank_date": "2022-09-01",
+      "rank_position": "17452",
+      "wppr_points": "0.4200",
+      "tournaments_played_count": "0"
+    },
+    {
+      "rank_date": "2022-08-01",
+      "rank_position": "17346",
+      "wppr_points": "0.4200",
+      "tournaments_played_count": "0"
+    }
+  ],
+  "rating_history":
+  [
+    {
+      "rating_date": "2019-10-20",
+      "rating": "1095.5390"
+    },
+    {
+      "rating_date": "2016-05-29",
+      "rating": "965.7230"
+    }
+  ]
+}

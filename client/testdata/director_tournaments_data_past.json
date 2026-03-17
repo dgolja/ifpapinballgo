@@ -1,0 +1,70 @@
+{
+  "director_id": "3478",
+  "tournament_count": 4,
+  "tournaments": [
+    {
+      "tournament_id": "105464",
+      "tournament_name": "Flipper Fellowship Flip Frenzy",
+      "event_name": "Main Tournament",
+      "ranking_system": "MAIN",
+      "city": "Arncliffe",
+      "stateprov_code": "NSW",
+      "stateprov": "NSW",
+      "country_code": "AU",
+      "country_name": "Australia",
+      "event_start_date": "2026-02-26",
+      "event_end_date": "2026-02-26",
+      "qualifying_format": "Flip Frenzy",
+      "finals_format": "Match Play",
+      "player_count": "24"
+    },
+    {
+      "tournament_id": "98564",
+      "tournament_name": "Flippermania",
+      "event_name": "Main Tournament",
+      "ranking_system": "MAIN",
+      "city": "Arncliffe",
+      "stateprov_code": "NSW",
+      "stateprov": "NSW",
+      "country_code": "AU",
+      "country_name": "Australia",
+      "event_start_date": "2026-02-21",
+      "event_end_date": "2026-02-21",
+      "qualifying_format": "Matchplay Qualifying",
+      "finals_format": "Match Play",
+      "player_count": "34"
+    },
+    {
+      "tournament_id": "105468",
+      "tournament_name": "Flipper Fellowship Thursday Group Matchplay",
+      "event_name": "Main Tournament",
+      "ranking_system": "MAIN",
+      "city": "Arncliffe",
+      "stateprov_code": "NSW",
+      "stateprov": "NSW",
+      "country_code": "AU",
+      "country_name": "Australia",
+      "event_start_date": "2026-02-19",
+      "event_end_date": "2026-02-19",
+      "qualifying_format": "Matchplay Qualifying",
+      "finals_format": "Double Elimination",
+      "player_count": "18"
+    },
+    {
+      "tournament_id": "105471",
+      "tournament_name": "Flipper Fellowship Thursday Max Matchplay",
+      "event_name": "Main Tournament",
+      "ranking_system": "MAIN",
+      "city": "Arncliffe",
+      "stateprov_code": "NSW",
+      "stateprov": "NSW",
+      "country_code": "AU",
+      "country_name": "Australia",
+      "event_start_date": "2026-02-12",
+      "event_end_date": "2026-02-12",
+      "qualifying_format": "Max Matchplay Qualifying",
+      "finals_format": "Match Play",
+      "player_count": "20"
+    }
+  ]
+}

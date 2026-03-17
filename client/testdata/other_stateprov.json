@@ -1,0 +1,297 @@
+{
+  "stateprov": [
+    {
+      "country_id": "7",
+      "country_name": "Australia",
+      "country_code": "AU",
+      "regions": [
+        {
+          "region_name": "Australian Capital Territory",
+          "region_code": "ACT"
+        },
+        {
+          "region_name": "New South Wales",
+          "region_code": "NSW"
+        },
+        {
+          "region_name": "Northern Territory",
+          "region_code": "NT"
+        },
+        {
+          "region_name": "Queensland",
+          "region_code": "QLD"
+        },
+        {
+          "region_name": "South Australia",
+          "region_code": "SA"
+        },
+        {
+          "region_name": "Tasmania",
+          "region_code": "TAS"
+        },
+        {
+          "region_name": "Victoria",
+          "region_code": "VIC"
+        },
+        {
+          "region_name": "Western Australia",
+          "region_code": "WA"
+        }
+      ]
+    },
+    {
+      "country_id": "29",
+      "country_name": "Canada",
+      "country_code": "CA",
+      "regions": [
+        {
+          "region_name": "Alberta",
+          "region_code": "AB"
+        },
+        {
+          "region_name": "British Columbia",
+          "region_code": "BC"
+        },
+        {
+          "region_name": "Manitoba",
+          "region_code": "MB"
+        },
+        {
+          "region_name": "New Brunswick",
+          "region_code": "NB"
+        },
+        {
+          "region_name": "Nova Scotia",
+          "region_code": "NS"
+        },
+        {
+          "region_name": "Ontario",
+          "region_code": "ON"
+        },
+        {
+          "region_name": "Quebec",
+          "region_code": "QC"
+        },
+        {
+          "region_name": "Saskatchewan",
+          "region_code": "SK"
+        }
+      ]
+    },
+    {
+      "country_id": "168",
+      "country_name": "United States",
+      "country_code": "US",
+      "regions": [
+        {
+          "region_name": "Alabama",
+          "region_code": "AL"
+        },
+        {
+          "region_name": "Alaska",
+          "region_code": "AK"
+        },
+        {
+          "region_name": "Arizona",
+          "region_code": "AZ"
+        },
+        {
+          "region_name": "Arkansas",
+          "region_code": "AR"
+        },
+        {
+          "region_name": "California",
+          "region_code": "CA"
+        },
+        {
+          "region_name": "Colorado",
+          "region_code": "CO"
+        },
+        {
+          "region_name": "Connecticut",
+          "region_code": "CT"
+        },
+        {
+          "region_name": "Delaware",
+          "region_code": "DE"
+        },
+        {
+          "region_name": "District of Columbia",
+          "region_code": "DC"
+        },
+        {
+          "region_name": "Florida",
+          "region_code": "FL"
+        },
+        {
+          "region_name": "Georgia",
+          "region_code": "GA"
+        },
+        {
+          "region_name": "Hawaii",
+          "region_code": "HI"
+        },
+        {
+          "region_name": "Idaho",
+          "region_code": "ID"
+        },
+        {
+          "region_name": "Illinois",
+          "region_code": "IL"
+        },
+        {
+          "region_name": "Indiana",
+          "region_code": "IN"
+        },
+        {
+          "region_name": "Iowa",
+          "region_code": "IA"
+        },
+        {
+          "region_name": "Kansas",
+          "region_code": "KS"
+        },
+        {
+          "region_name": "Kentucky",
+          "region_code": "KY"
+        },
+        {
+          "region_name": "Louisiana",
+          "region_code": "LA"
+        },
+        {
+          "region_name": "Maine",
+          "region_code": "ME"
+        },
+        {
+          "region_name": "Maryland",
+          "region_code": "MD"
+        },
+        {
+          "region_name": "Massachusetts",
+          "region_code": "MA"
+        },
+        {
+          "region_name": "Michigan",
+          "region_code": "MI"
+        },
+        {
+          "region_name": "Minnesota",
+          "region_code": "MN"
+        },
+        {
+          "region_name": "Mississippi",
+          "region_code": "MS"
+        },
+        {
+          "region_name": "Missouri",
+          "region_code": "MO"
+        },
+        {
+          "region_name": "Montana",
+          "region_code": "MT"
+        },
+        {
+          "region_name": "Nebraska",
+          "region_code": "NE"
+        },
+        {
+          "region_name": "Nevada",
+          "region_code": "NV"
+        },
+        {
+          "region_name": "New Hampshire",
+          "region_code": "NH"
+        },
+        {
+          "region_name": "New Jersey",
+          "region_code": "NJ"
+        },
+        {
+          "region_name": "New Mexico",
+          "region_code": "NM"
+        },
+        {
+          "region_name": "New York",
+          "region_code": "NY"
+        },
+        {
+          "region_name": "North Carolina",
+          "region_code": "NC"
+        },
+        {
+          "region_name": "North Dakota",
+          "region_code": "ND"
+        },
+        {
+          "region_name": "Ohio",
+          "region_code": "OH"
+        },
+        {
+          "region_name": "Oklahoma",
+          "region_code": "OK"
+        },
+        {
+          "region_name": "Oregon",
+          "region_code": "OR"
+        },
+        {
+          "region_name": "Pennsylvania",
+          "region_code": "PA"
+        },
+        {
+          "region_name": "Puerto Rico",
+          "region_code": "PR"
+        },
+        {
+          "region_name": "Rhode Island",
+          "region_code": "RI"
+        },
+        {
+          "region_name": "South Carolina",
+          "region_code": "SC"
+        },
+        {
+          "region_name": "South Dakota",
+          "region_code": "SD"
+        },
+        {
+          "region_name": "Tennessee",
+          "region_code": "TN"
+        },
+        {
+          "region_name": "Texas",
+          "region_code": "TX"
+        },
+        {
+          "region_name": "Utah",
+          "region_code": "UT"
+        },
+        {
+          "region_name": "Vermont",
+          "region_code": "VT"
+        },
+        {
+          "region_name": "Virginia",
+          "region_code": "VA"
+        },
+        {
+          "region_name": "Washington",
+          "region_code": "WA"
+        },
+        {
+          "region_name": "West Virginia",
+          "region_code": "WV"
+        },
+        {
+          "region_name": "Wisconsin",
+          "region_code": "WI"
+        },
+        {
+          "region_name": "Wyoming",
+          "region_code": "WY"
+        }
+      ]
+    }
+  ]
+}

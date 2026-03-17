@@ -1,0 +1,703 @@
+{
+  "series_code": "WNACSO",
+  "year": 2024,
+  "championship_prize_fund": 10935.25,
+  "overall_results": [
+    {
+      "region_code": "AL",
+      "region_name": "Alabama",
+      "player_count": "279",
+      "unique_player_count": "36",
+      "tournament_count": "81",
+      "current_leader": {
+        "player_id": "93235",
+        "player_name": "Rose Gwathney"
+      },
+      "prize_fund": 181.35
+    },
+    {
+      "region_code": "AK",
+      "region_name": "Alaska",
+      "player_count": "129",
+      "unique_player_count": "10",
+      "tournament_count": "35",
+      "current_leader": {
+        "player_id": "100311",
+        "player_name": "Ettin Briar"
+      },
+      "prize_fund": 83.85000000000001
+    },
+    {
+      "region_code": "AB",
+      "region_name": "Alberta",
+      "player_count": "869",
+      "unique_player_count": "88",
+      "tournament_count": "101",
+      "current_leader": {
+        "player_id": "109346",
+        "player_name": "Kirsi Midyette"
+      },
+      "prize_fund": 564.85
+    },
+    {
+      "region_code": "AZ",
+      "region_name": "Arizona",
+      "player_count": "1409",
+      "unique_player_count": "104",
+      "tournament_count": "216",
+      "current_leader": {
+        "player_id": "107682",
+        "player_name": "Fae Ashley"
+      },
+      "prize_fund": 915.85
+    },
+    {
+      "region_code": "AR",
+      "region_name": "Arkansas",
+      "player_count": "206",
+      "unique_player_count": "32",
+      "tournament_count": "43",
+      "current_leader": {
+        "player_id": "82802",
+        "player_name": "Bec Taylor"
+      },
+      "prize_fund": 133.9
+    },
+    {
+      "region_code": "BC",
+      "region_name": "British Columbia",
+      "player_count": "917",
+      "unique_player_count": "85",
+      "tournament_count": "220",
+      "current_leader": {
+        "player_id": "26889",
+        "player_name": "Sara Little"
+      },
+      "prize_fund": 596.0500000000001
+    },
+    {
+      "region_code": "CA",
+      "region_name": "California",
+      "player_count": "2529",
+      "unique_player_count": "291",
+      "tournament_count": "518",
+      "current_leader": {
+        "player_id": "44320",
+        "player_name": "Jackie Olson"
+      },
+      "prize_fund": 1643.8500000000001
+    },
+    {
+      "region_code": "CO",
+      "region_name": "Colorado",
+      "player_count": "752",
+      "unique_player_count": "92",
+      "tournament_count": "153",
+      "current_leader": {
+        "player_id": "42345",
+        "player_name": "Cindy Grote"
+      },
+      "prize_fund": 488.8
+    },
+    {
+      "region_code": "CT",
+      "region_name": "Connecticut",
+      "player_count": "577",
+      "unique_player_count": "69",
+      "tournament_count": "88",
+      "current_leader": {
+        "player_id": "37859",
+        "player_name": "Brenda Kabel"
+      },
+      "prize_fund": 375.05
+    },
+    {
+      "region_code": "DE",
+      "region_name": "Delaware",
+      "player_count": "388",
+      "unique_player_count": "55",
+      "tournament_count": "39",
+      "current_leader": {
+        "player_id": "15105",
+        "player_name": "Lumi Legato"
+      },
+      "prize_fund": 252.20000000000002
+    },
+    {
+      "region_code": "DC",
+      "region_name": "District of Columbia",
+      "player_count": "102",
+      "unique_player_count": "28",
+      "tournament_count": "32",
+      "current_leader": {
+        "player_id": "58142",
+        "player_name": "Victoria Rocco"
+      },
+      "prize_fund": 66.3
+    },
+    {
+      "region_code": "FL",
+      "region_name": "Florida",
+      "player_count": "887",
+      "unique_player_count": "111",
+      "tournament_count": "204",
+      "current_leader": {
+        "player_id": "99758",
+        "player_name": "Ailsa Riddell"
+      },
+      "prize_fund": 576.5500000000001
+    },
+    {
+      "region_code": "GA",
+      "region_name": "Georgia",
+      "player_count": "932",
+      "unique_player_count": "91",
+      "tournament_count": "175",
+      "current_leader": {
+        "player_id": "34416",
+        "player_name": "Kaylee Campbell"
+      },
+      "prize_fund": 605.8000000000001
+    },
+    {
+      "region_code": "HI",
+      "region_name": "Hawaii",
+      "player_count": "20",
+      "unique_player_count": "5",
+      "tournament_count": "11",
+      "current_leader": {
+        "player_id": "104842",
+        "player_name": "Laila Ryun"
+      },
+      "prize_fund": 13
+    },
+    {
+      "region_code": "ID",
+      "region_name": "Idaho",
+      "player_count": "650",
+      "unique_player_count": "31",
+      "tournament_count": "118",
+      "current_leader": {
+        "player_id": "96549",
+        "player_name": "Andrea Hicks"
+      },
+      "prize_fund": 422.5
+    },
+    {
+      "region_code": "IL",
+      "region_name": "Illinois",
+      "player_count": "1442",
+      "unique_player_count": "221",
+      "tournament_count": "271",
+      "current_leader": {
+        "player_id": "53105",
+        "player_name": "Jane Verwys"
+      },
+      "prize_fund": 937.3000000000001
+    },
+    {
+      "region_code": "IN",
+      "region_name": "Indiana",
+      "player_count": "1123",
+      "unique_player_count": "135",
+      "tournament_count": "277",
+      "current_leader": {
+        "player_id": "92504",
+        "player_name": "Sydnee Deventer"
+      },
+      "prize_fund": 729.95
+    },
+    {
+      "region_code": "IA",
+      "region_name": "Iowa",
+      "player_count": "427",
+      "unique_player_count": "43",
+      "tournament_count": "109",
+      "current_leader": {
+        "player_id": "98663",
+        "player_name": "Alivia Haley"
+      },
+      "prize_fund": 277.55
+    },
+    {
+      "region_code": "KS",
+      "region_name": "Kansas",
+      "player_count": "391",
+      "unique_player_count": "61",
+      "tournament_count": "113",
+      "current_leader": {
+        "player_id": "20345",
+        "player_name": "Keri Wing"
+      },
+      "prize_fund": 254.15
+    },
+    {
+      "region_code": "KY",
+      "region_name": "Kentucky",
+      "player_count": "308",
+      "unique_player_count": "47",
+      "tournament_count": "64",
+      "current_leader": {
+        "player_id": "23117",
+        "player_name": "Ripley Kalyn Smith"
+      },
+      "prize_fund": 200.20000000000002
+    },
+    {
+      "region_code": "LA",
+      "region_name": "Louisiana",
+      "player_count": "96",
+      "unique_player_count": "26",
+      "tournament_count": "20",
+      "current_leader": {
+        "player_id": "82565",
+        "player_name": "Ariel Dutton"
+      },
+      "prize_fund": 62.400000000000006
+    },
+    {
+      "region_code": "ME",
+      "region_name": "Maine",
+      "player_count": "82",
+      "unique_player_count": "28",
+      "tournament_count": "23",
+      "current_leader": {
+        "player_id": "5363",
+        "player_name": "Zoe Vrabel"
+      },
+      "prize_fund": 53.300000000000004
+    },
+    {
+      "region_code": "MB",
+      "region_name": "Manitoba",
+      "player_count": "134",
+      "unique_player_count": "21",
+      "tournament_count": "25",
+      "current_leader": {
+        "player_id": "46285",
+        "player_name": "Kayla Kennedy"
+      },
+      "prize_fund": 87.10000000000001
+    },
+    {
+      "region_code": "MD",
+      "region_name": "Maryland",
+      "player_count": "723",
+      "unique_player_count": "72",
+      "tournament_count": "144",
+      "current_leader": {
+        "player_id": "37327",
+        "player_name": "Candace Selby"
+      },
+      "prize_fund": 469.95
+    },
+    {
+      "region_code": "MA",
+      "region_name": "Massachusetts",
+      "player_count": "364",
+      "unique_player_count": "102",
+      "tournament_count": "72",
+      "current_leader": {
+        "player_id": "5363",
+        "player_name": "Zoe Vrabel"
+      },
+      "prize_fund": 236.6
+    },
+    {
+      "region_code": "MI",
+      "region_name": "Michigan",
+      "player_count": "2336",
+      "unique_player_count": "159",
+      "tournament_count": "578",
+      "current_leader": {
+        "player_id": "110310",
+        "player_name": "Meredith Walton"
+      },
+      "prize_fund": 1518.4
+    },
+    {
+      "region_code": "MN",
+      "region_name": "Minnesota",
+      "player_count": "1444",
+      "unique_player_count": "91",
+      "tournament_count": "238",
+      "current_leader": {
+        "player_id": "52224",
+        "player_name": "Whitney Lindaas"
+      },
+      "prize_fund": 938.6
+    },
+    {
+      "region_code": "MS",
+      "region_name": "Mississippi",
+      "player_count": "441",
+      "unique_player_count": "43",
+      "tournament_count": "88",
+      "current_leader": {
+        "player_id": "54384",
+        "player_name": "Jessica Thaxton"
+      },
+      "prize_fund": 286.65000000000003
+    },
+    {
+      "region_code": "MO",
+      "region_name": "Missouri",
+      "player_count": "880",
+      "unique_player_count": "116",
+      "tournament_count": "206",
+      "current_leader": {
+        "player_id": "34416",
+        "player_name": "Kaylee Campbell"
+      },
+      "prize_fund": 572
+    },
+    {
+      "region_code": "MT",
+      "region_name": "Montana",
+      "player_count": "338",
+      "unique_player_count": "31",
+      "tournament_count": "100",
+      "current_leader": {
+        "player_id": "97080",
+        "player_name": "Alexandra Mahlen"
+      },
+      "prize_fund": 219.70000000000002
+    },
+    {
+      "region_code": "NE",
+      "region_name": "Nebraska",
+      "player_count": "360",
+      "unique_player_count": "28",
+      "tournament_count": "76",
+      "current_leader": {
+        "player_id": "104027",
+        "player_name": "Courtney Moncrief"
+      },
+      "prize_fund": 234
+    },
+    {
+      "region_code": "NV",
+      "region_name": "Nevada",
+      "player_count": "1379",
+      "unique_player_count": "99",
+      "tournament_count": "240",
+      "current_leader": {
+        "player_id": "78506",
+        "player_name": "Daniela Sonnino"
+      },
+      "prize_fund": 896.35
+    },
+    {
+      "region_code": "NB",
+      "region_name": "New Brunswick",
+      "player_count": "26",
+      "unique_player_count": "6",
+      "tournament_count": "9",
+      "current_leader": {
+        "player_id": "56328",
+        "player_name": "June Madeley"
+      },
+      "prize_fund": 16.900000000000002
+    },
+    {
+      "region_code": "NH",
+      "region_name": "New Hampshire",
+      "player_count": "267",
+      "unique_player_count": "43",
+      "tournament_count": "72",
+      "current_leader": {
+        "player_id": "60467",
+        "player_name": "Zheanna Murray"
+      },
+      "prize_fund": 173.55
+    },
+    {
+      "region_code": "NJ",
+      "region_name": "New Jersey",
+      "player_count": "273",
+      "unique_player_count": "40",
+      "tournament_count": "107",
+      "current_leader": {
+        "player_id": "82463",
+        "player_name": "Cate Treese"
+      },
+      "prize_fund": 177.45000000000002
+    },
+    {
+      "region_code": "NM",
+      "region_name": "New Mexico",
+      "player_count": "228",
+      "unique_player_count": "36",
+      "tournament_count": "35",
+      "current_leader": {
+        "player_id": "7504",
+        "player_name": "Mandy Peel"
+      },
+      "prize_fund": 148.20000000000002
+    },
+    {
+      "region_code": "NY",
+      "region_name": "New York",
+      "player_count": "1081",
+      "unique_player_count": "128",
+      "tournament_count": "255",
+      "current_leader": {
+        "player_id": "37788",
+        "player_name": "Kaite Martin"
+      },
+      "prize_fund": 702.65
+    },
+    {
+      "region_code": "NC",
+      "region_name": "North Carolina",
+      "player_count": "1234",
+      "unique_player_count": "129",
+      "tournament_count": "355",
+      "current_leader": {
+        "player_id": "34416",
+        "player_name": "Kaylee Campbell"
+      },
+      "prize_fund": 802.1
+    },
+    {
+      "region_code": "ND",
+      "region_name": "North Dakota",
+      "player_count": "2",
+      "unique_player_count": "2",
+      "tournament_count": "1",
+      "current_leader": {
+        "player_id": "108722",
+        "player_name": "Amanda Cowie"
+      },
+      "prize_fund": 1.3
+    },
+    {
+      "region_code": "NS",
+      "region_name": "Nova Scotia",
+      "player_count": "19",
+      "unique_player_count": "2",
+      "tournament_count": "16",
+      "current_leader": {
+        "player_id": "96953",
+        "player_name": "Liz Chu"
+      },
+      "prize_fund": 12.35
+    },
+    {
+      "region_code": "OH",
+      "region_name": "Ohio",
+      "player_count": "1890",
+      "unique_player_count": "239",
+      "tournament_count": "394",
+      "current_leader": {
+        "player_id": "39067",
+        "player_name": "Valencia Kelly"
+      },
+      "prize_fund": 1228.5
+    },
+    {
+      "region_code": "OK",
+      "region_name": "Oklahoma",
+      "player_count": "448",
+      "unique_player_count": "50",
+      "tournament_count": "77",
+      "current_leader": {
+        "player_id": "94271",
+        "player_name": "Kate Olivia Pierce"
+      },
+      "prize_fund": 291.2
+    },
+    {
+      "region_code": "ON",
+      "region_name": "Ontario",
+      "player_count": "605",
+      "unique_player_count": "69",
+      "tournament_count": "188",
+      "current_leader": {
+        "player_id": "57755",
+        "player_name": "Laura Edward"
+      },
+      "prize_fund": 393.25
+    },
+    {
+      "region_code": "OR",
+      "region_name": "Oregon",
+      "player_count": "1371",
+      "unique_player_count": "129",
+      "tournament_count": "319",
+      "current_leader": {
+        "player_id": "46436",
+        "player_name": "Sunni Williams"
+      },
+      "prize_fund": 891.15
+    },
+    {
+      "region_code": "PA",
+      "region_name": "Pennsylvania",
+      "player_count": "900",
+      "unique_player_count": "170",
+      "tournament_count": "227",
+      "current_leader": {
+        "player_id": "78234",
+        "player_name": "Tessa Morton"
+      },
+      "prize_fund": 585
+    },
+    {
+      "region_code": "QC",
+      "region_name": "Quebec",
+      "player_count": "167",
+      "unique_player_count": "34",
+      "tournament_count": "26",
+      "current_leader": {
+        "player_id": "99410",
+        "player_name": "Gabrielle Mountenay"
+      },
+      "prize_fund": 108.55
+    },
+    {
+      "region_code": "RI",
+      "region_name": "Rhode Island",
+      "player_count": "81",
+      "unique_player_count": "28",
+      "tournament_count": "19",
+      "current_leader": {
+        "player_id": "5363",
+        "player_name": "Zoe Vrabel"
+      },
+      "prize_fund": 52.65
+    },
+    {
+      "region_code": "SK",
+      "region_name": "Saskatchewan",
+      "player_count": "157",
+      "unique_player_count": "23",
+      "tournament_count": "36",
+      "current_leader": {
+        "player_id": "64280",
+        "player_name": "Meghan Pryor"
+      },
+      "prize_fund": 102.05
+    },
+    {
+      "region_code": "SC",
+      "region_name": "South Carolina",
+      "player_count": "1089",
+      "unique_player_count": "113",
+      "tournament_count": "213",
+      "current_leader": {
+        "player_id": "34416",
+        "player_name": "Kaylee Campbell"
+      },
+      "prize_fund": 707.85
+    },
+    {
+      "region_code": "SD",
+      "region_name": "South Dakota",
+      "player_count": "73",
+      "unique_player_count": "12",
+      "tournament_count": "20",
+      "current_leader": {
+        "player_id": "98427",
+        "player_name": "Dani Dinkum"
+      },
+      "prize_fund": 47.45
+    },
+    {
+      "region_code": "TN",
+      "region_name": "Tennessee",
+      "player_count": "1425",
+      "unique_player_count": "97",
+      "tournament_count": "240",
+      "current_leader": {
+        "player_id": "99812",
+        "player_name": "Amanda Chuang"
+      },
+      "prize_fund": 926.25
+    },
+    {
+      "region_code": "TX",
+      "region_name": "Texas",
+      "player_count": "2313",
+      "unique_player_count": "218",
+      "tournament_count": "472",
+      "current_leader": {
+        "player_id": "34564",
+        "player_name": "Jessica DeNardo"
+      },
+      "prize_fund": 1503.45
+    },
+    {
+      "region_code": "UT",
+      "region_name": "Utah",
+      "player_count": "428",
+      "unique_player_count": "42",
+      "tournament_count": "129",
+      "current_leader": {
+        "player_id": "85675",
+        "player_name": "Crystal Cory"
+      },
+      "prize_fund": 278.2
+    },
+    {
+      "region_code": "VT",
+      "region_name": "Vermont",
+      "player_count": "129",
+      "unique_player_count": "22",
+      "tournament_count": "17",
+      "current_leader": {
+        "player_id": "59020",
+        "player_name": "Jody Stahlman"
+      },
+      "prize_fund": 83.85000000000001
+    },
+    {
+      "region_code": "VA",
+      "region_name": "Virginia",
+      "player_count": "960",
+      "unique_player_count": "125",
+      "tournament_count": "211",
+      "current_leader": {
+        "player_id": "48800",
+        "player_name": "Stephanie Traub"
+      },
+      "prize_fund": 624
+    },
+    {
+      "region_code": "WA",
+      "region_name": "Washington",
+      "player_count": "4417",
+      "unique_player_count": "272",
+      "tournament_count": "779",
+      "current_leader": {
+        "player_id": "47411",
+        "player_name": "Leslie Ruckman"
+      },
+      "prize_fund": 2871.05
+    },
+    {
+      "region_code": "WV",
+      "region_name": "West Virginia",
+      "player_count": "146",
+      "unique_player_count": "26",
+      "tournament_count": "44",
+      "current_leader": {
+        "player_id": "97230",
+        "player_name": "Lindsey Pratt"
+      },
+      "prize_fund": 94.9
+    },
+    {
+      "region_code": "WI",
+      "region_name": "Wisconsin",
+      "player_count": "1098",
+      "unique_player_count": "130",
+      "tournament_count": "249",
+      "current_leader": {
+        "player_id": "65115",
+        "player_name": "Kassidy Milanowski"
+      },
+      "prize_fund": 713.7
+    }
+  ]
+}

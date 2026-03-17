@@ -1,0 +1,256 @@
+{
+  "type": "Lucrative Tournaments",
+  "rank_type": "OPEN",
+  "stats": [
+    {
+      "country_name": "Sweden",
+      "country_code": "SE",
+      "tournament_id": "70912",
+      "tournament_name": "LPA Open 2024",
+      "event_name": "Main Tournament",
+      "tournament_date": "2024-04-28",
+      "tournament_value": 186.47,
+      "stats_rank": 1
+    },
+    {
+      "country_name": "Sweden",
+      "country_code": "SE",
+      "tournament_id": "64633",
+      "tournament_name": "Borås Pinball Open",
+      "event_name": "Main Tournament",
+      "tournament_date": "2023-09-24",
+      "tournament_value": 181.16,
+      "stats_rank": 2
+    },
+    {
+      "country_name": "Sweden",
+      "country_code": "SE",
+      "tournament_id": "87401",
+      "tournament_name": "LPA Open 2025",
+      "event_name": "Main Tournament",
+      "tournament_date": "2025-04-27",
+      "tournament_value": 179.7,
+      "stats_rank": 3
+    },
+    {
+      "country_name": "Sweden",
+      "country_code": "SE",
+      "tournament_id": "73060",
+      "tournament_name": "IFPA European Pinball Championship",
+      "event_name": "Main Tournament",
+      "tournament_date": "2024-03-10",
+      "tournament_value": 178.03,
+      "stats_rank": 4
+    },
+    {
+      "country_name": "Sweden",
+      "country_code": "SE",
+      "tournament_id": "73061",
+      "tournament_name": "Borås Pinball Classic Open",
+      "event_name": "Classics",
+      "tournament_date": "2024-03-10",
+      "tournament_value": 163.74,
+      "stats_rank": 5
+    },
+    {
+      "country_name": "Sweden",
+      "country_code": "SE",
+      "tournament_id": "89147",
+      "tournament_name": "Swedish Championship Series Final",
+      "event_name": "Main Tournament",
+      "tournament_date": "2025-01-19",
+      "tournament_value": 163.31,
+      "stats_rank": 6
+    },
+    {
+      "country_name": "Sweden",
+      "country_code": "SE",
+      "tournament_id": "69880",
+      "tournament_name": "SweCS Finals 2023",
+      "event_name": "Main Tournament",
+      "tournament_date": "2024-01-28",
+      "tournament_value": 161.88,
+      "stats_rank": 7
+    },
+    {
+      "country_name": "Sweden",
+      "country_code": "SE",
+      "tournament_id": "108590",
+      "tournament_name": "Swedish Championship Series Final 2025",
+      "event_name": "Main Tournament",
+      "tournament_date": "2026-02-08",
+      "tournament_value": 160.63,
+      "stats_rank": 8
+    },
+    {
+      "country_name": "Sweden",
+      "country_code": "SE",
+      "tournament_id": "64634",
+      "tournament_name": "Borås Pinball Open",
+      "event_name": "Classics",
+      "tournament_date": "2023-09-24",
+      "tournament_value": 155.71,
+      "stats_rank": 9
+    },
+    {
+      "country_name": "Sweden",
+      "country_code": "SE",
+      "tournament_id": "58674",
+      "tournament_name": "LPA Open 2023",
+      "event_name": "Main Tournament",
+      "tournament_date": "2023-04-23",
+      "tournament_value": 134.17,
+      "stats_rank": 10
+    },
+    {
+      "country_name": "Sweden",
+      "country_code": "SE",
+      "tournament_id": "55304",
+      "tournament_name": "IFPA Swedish Championship Series Final",
+      "event_name": "Main Tournament",
+      "tournament_date": "2023-01-29",
+      "tournament_value": 131.36,
+      "stats_rank": 11
+    },
+    {
+      "country_name": "Sweden",
+      "country_code": "SE",
+      "tournament_id": "53352",
+      "tournament_name": "European Pinball Championship",
+      "event_name": "Main Tournament",
+      "tournament_date": "2022-10-23",
+      "tournament_value": 125.51,
+      "stats_rank": 12
+    },
+    {
+      "country_name": "Sweden",
+      "country_code": "SE",
+      "tournament_id": "9906",
+      "tournament_name": "IFPA World Pinball Championship",
+      "event_name": "Main Tournament",
+      "tournament_date": "2015-05-24",
+      "tournament_value": 123.56,
+      "stats_rank": 13
+    },
+    {
+      "country_name": "Sweden",
+      "country_code": "SE",
+      "tournament_id": "2651",
+      "tournament_name": "IFPA World Pinball Championship",
+      "event_name": "Main Tournament",
+      "tournament_date": "2011-05-29",
+      "tournament_value": 116.64,
+      "stats_rank": 14
+    },
+    {
+      "country_name": "Sweden",
+      "country_code": "SE",
+      "tournament_id": "81309",
+      "tournament_name": "LPA Classics 2024",
+      "event_name": "Classics",
+      "tournament_date": "2024-10-27",
+      "tournament_value": 113.67,
+      "stats_rank": 15
+    },
+    {
+      "country_name": "Sweden",
+      "country_code": "SE",
+      "tournament_id": "749",
+      "tournament_name": "European Pinball Championship",
+      "event_name": "Main Tournament",
+      "tournament_date": "2007-06-15",
+      "tournament_value": 111.56,
+      "stats_rank": 16
+    },
+    {
+      "country_name": "Sweden",
+      "country_code": "SE",
+      "tournament_id": "21000",
+      "tournament_name": "European Pinball Championship",
+      "event_name": "Main Tournament",
+      "tournament_date": "2017-10-22",
+      "tournament_value": 111.32,
+      "stats_rank": 17
+    },
+    {
+      "country_name": "Sweden",
+      "country_code": "SE",
+      "tournament_id": "64993",
+      "tournament_name": "LPA Classics 2023",
+      "event_name": "Main Tournament",
+      "tournament_date": "2023-10-15",
+      "tournament_value": 110.7,
+      "stats_rank": 18
+    },
+    {
+      "country_name": "Sweden",
+      "country_code": "SE",
+      "tournament_id": "102600",
+      "tournament_name": "Borås Pinball Open",
+      "event_name": "Classics",
+      "tournament_date": "2025-10-26",
+      "tournament_value": 110.09,
+      "stats_rank": 19
+    },
+    {
+      "country_name": "Sweden",
+      "country_code": "SE",
+      "tournament_id": "5112",
+      "tournament_name": "European Pinball Championship",
+      "event_name": "Main Tournament",
+      "tournament_date": "2013-09-13",
+      "tournament_value": 108.4,
+      "stats_rank": 20
+    },
+    {
+      "country_name": "Sweden",
+      "country_code": "SE",
+      "tournament_id": "66725",
+      "tournament_name": "The Swedish Championships",
+      "event_name": "Main Tournament",
+      "tournament_date": "2023-11-24",
+      "tournament_value": 107.2,
+      "stats_rank": 21
+    },
+    {
+      "country_name": "Sweden",
+      "country_code": "SE",
+      "tournament_id": "66726",
+      "tournament_name": "The Swedish Championships",
+      "event_name": "Classics",
+      "tournament_date": "2023-11-24",
+      "tournament_value": 107.2,
+      "stats_rank": 22
+    },
+    {
+      "country_name": "Sweden",
+      "country_code": "SE",
+      "tournament_id": "99549",
+      "tournament_name": "LPA Classics 2025",
+      "event_name": "Main Tournament",
+      "tournament_date": "2025-10-05",
+      "tournament_value": 102.78,
+      "stats_rank": 23
+    },
+    {
+      "country_name": "Sweden",
+      "country_code": "SE",
+      "tournament_id": "100743",
+      "tournament_name": "Flipper-SM Svenska Mästerskapen 2025 CLASSICS",
+      "event_name": "Classics",
+      "tournament_date": "2025-11-16",
+      "tournament_value": 99.86,
+      "stats_rank": 24
+    },
+    {
+      "country_name": "Sweden",
+      "country_code": "SE",
+      "tournament_id": "100744",
+      "tournament_name": "Flipper-SM Svenska Mästerskapen 2025 MAIN",
+      "event_name": "Main Tournament",
+      "tournament_date": "2025-11-16",
+      "tournament_value": 97.68,
+      "stats_rank": 25
+    }
+  ]
+}

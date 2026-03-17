@@ -1,0 +1,2671 @@
+{
+  "series_code": "ACS",
+  "region_code": "QLD",
+  "year": 2025,
+  "submitted_tournaments": [
+    {
+      "tournament_id": "88669",
+      "event_end_date": "2025-12-29",
+      "tournament_name": "Empire Cairns Pizza + Pinball Strikes",
+      "event_name": "Main Tournament",
+      "wppr_points": "12.0100",
+      "player_count": "47",
+      "winner": {
+        "player_id": "114854",
+        "name": "Ronan Wolfe"
+      }
+    },
+    {
+      "tournament_id": "88599",
+      "event_end_date": "2025-12-15",
+      "tournament_name": "Empire Townsville Pizza + Pinball Strikes",
+      "event_name": "Main Tournament",
+      "wppr_points": "25.6200",
+      "player_count": "70",
+      "winner": {
+        "player_id": "14515",
+        "name": "Rob Milla"
+      }
+    },
+    {
+      "tournament_id": "104628",
+      "event_end_date": "2025-12-13",
+      "tournament_name": "Burnside December best game",
+      "event_name": "Side Tournament",
+      "wppr_points": "0.6800",
+      "player_count": "10",
+      "winner": {
+        "player_id": "111901",
+        "name": "Noel Campbell"
+      }
+    },
+    {
+      "tournament_id": "104627",
+      "event_end_date": "2025-12-13",
+      "tournament_name": "Burnside December",
+      "event_name": "Main Tournament",
+      "wppr_points": "5.4300",
+      "player_count": "10",
+      "winner": {
+        "player_id": "64084",
+        "name": "Peter White"
+      }
+    },
+    {
+      "tournament_id": "86548",
+      "event_end_date": "2025-12-12",
+      "tournament_name": "The Pinball Clubhouse Moorooka",
+      "event_name": "Main Tournament",
+      "wppr_points": "1.9900",
+      "player_count": "6",
+      "winner": {
+        "player_id": "51650",
+        "name": "Greg Field"
+      }
+    },
+    {
+      "tournament_id": "99963",
+      "event_end_date": "2025-12-07",
+      "tournament_name": "PiP Group Match Play",
+      "event_name": "Main Tournament",
+      "wppr_points": "3.0800",
+      "player_count": "19",
+      "winner": {
+        "player_id": "83011",
+        "name": "Jesse Holt"
+      }
+    },
+    {
+      "tournament_id": "85940",
+      "event_end_date": "2025-12-06",
+      "tournament_name": "Netherworld Flip Frenzy",
+      "event_name": "Main Tournament",
+      "wppr_points": "16.5400",
+      "player_count": "33",
+      "winner": {
+        "player_id": "65234",
+        "name": "Ben Reeves"
+      }
+    },
+    {
+      "tournament_id": "93797",
+      "event_end_date": "2025-12-06",
+      "tournament_name": "Townsville Silverball Alligator December",
+      "event_name": "Main Tournament",
+      "wppr_points": "5.5600",
+      "player_count": "15",
+      "winner": {
+        "player_id": "78561",
+        "name": "Dave Beri"
+      }
+    },
+    {
+      "tournament_id": "90310",
+      "event_end_date": "2025-12-03",
+      "tournament_name": "Gold Coast Pinball Club",
+      "event_name": "Main Tournament",
+      "wppr_points": "0.2800",
+      "player_count": "5",
+      "winner": {
+        "player_id": "66821",
+        "name": "Christian Nolan"
+      }
+    },
+    {
+      "tournament_id": "98477",
+      "event_end_date": "2025-12-02",
+      "tournament_name": "Brisbane Pinball Club",
+      "event_name": "Main Tournament",
+      "wppr_points": "33.7800",
+      "player_count": "49",
+      "winner": {
+        "player_id": "134925",
+        "name": "Connor Weekes "
+      }
+    },
+    {
+      "tournament_id": "88672",
+      "event_end_date": "2025-11-24",
+      "tournament_name": "Empire Cairns Pizza + Pinball Strikes",
+      "event_name": "Main Tournament",
+      "wppr_points": "10.1700",
+      "player_count": "40",
+      "winner": {
+        "player_id": "135427",
+        "name": "Josef Kurrle "
+      }
+    },
+    {
+      "tournament_id": "104297",
+      "event_end_date": "2025-11-22",
+      "tournament_name": "Burnside November Best game",
+      "event_name": "Side Tournament",
+      "wppr_points": "0.6100",
+      "player_count": "9",
+      "winner": {
+        "player_id": "64084",
+        "name": "Peter White"
+      }
+    },
+    {
+      "tournament_id": "104148",
+      "event_end_date": "2025-11-22",
+      "tournament_name": "Burnside November",
+      "event_name": "Main Tournament",
+      "wppr_points": "5.2700",
+      "player_count": "9",
+      "winner": {
+        "player_id": "86668",
+        "name": "Michael Holden"
+      }
+    },
+    {
+      "tournament_id": "97066",
+      "event_end_date": "2025-11-20",
+      "tournament_name": "PiP - Frenzy @ Slip Stream Tap House",
+      "event_name": "Main Tournament",
+      "wppr_points": "2.3400",
+      "player_count": "18",
+      "winner": {
+        "player_id": "67242",
+        "name": "David Sanders AUS"
+      }
+    },
+    {
+      "tournament_id": "98478",
+      "event_end_date": "2025-11-18",
+      "tournament_name": "Brisbane Pinball Club",
+      "event_name": "Main Tournament",
+      "wppr_points": "34.7800",
+      "player_count": "54",
+      "winner": {
+        "player_id": "33455",
+        "name": "Tom Fletcher AUS"
+      }
+    },
+    {
+      "tournament_id": "88598",
+      "event_end_date": "2025-11-17",
+      "tournament_name": "Empire Townsville Pizza + Pinball Strikes",
+      "event_name": "Main Tournament",
+      "wppr_points": "23.1600",
+      "player_count": "58",
+      "winner": {
+        "player_id": "45114",
+        "name": "Jason Lynch AUS"
+      }
+    },
+    {
+      "tournament_id": "86547",
+      "event_end_date": "2025-11-14",
+      "tournament_name": "The Pinball Clubhouse Moorooka",
+      "event_name": "Main Tournament",
+      "wppr_points": "6.8600",
+      "player_count": "20",
+      "winner": {
+        "player_id": "102226",
+        "name": "Dean Maynard"
+      }
+    },
+    {
+      "tournament_id": "89017",
+      "event_end_date": "2025-11-10",
+      "tournament_name": "ParkNplunge",
+      "event_name": "Main Tournament",
+      "wppr_points": "4.6800",
+      "player_count": "12",
+      "winner": {
+        "player_id": "14442",
+        "name": "Tony Woods"
+      }
+    },
+    {
+      "tournament_id": "97069",
+      "event_end_date": "2025-11-06",
+      "tournament_name": "PiP - Frenzy @ Slip Stream Tap House",
+      "event_name": "Main Tournament",
+      "wppr_points": "2.5700",
+      "player_count": "14",
+      "winner": {
+        "player_id": "80922",
+        "name": "Tristan Ford"
+      }
+    },
+    {
+      "tournament_id": "90309",
+      "event_end_date": "2025-11-05",
+      "tournament_name": "Gold Coast Pinball Club",
+      "event_name": "Main Tournament",
+      "wppr_points": "0.2100",
+      "player_count": "4",
+      "winner": {
+        "player_id": "96476",
+        "name": "Dave Copeland"
+      }
+    },
+    {
+      "tournament_id": "98479",
+      "event_end_date": "2025-11-04",
+      "tournament_name": "Brisbane Pinball Club",
+      "event_name": "Main Tournament",
+      "wppr_points": "33.0300",
+      "player_count": "52",
+      "winner": {
+        "player_id": "99800",
+        "name": "Tim Craig"
+      }
+    },
+    {
+      "tournament_id": "95316",
+      "event_end_date": "2025-11-02",
+      "tournament_name": "Silverball Series Empire Level 1",
+      "event_name": "Classics",
+      "wppr_points": "21.9700",
+      "player_count": "31",
+      "winner": {
+        "player_id": "78561",
+        "name": "Dave Beri"
+      }
+    },
+    {
+      "tournament_id": "85939",
+      "event_end_date": "2025-11-01",
+      "tournament_name": "Netherworld Flip Frenzy",
+      "event_name": "Main Tournament",
+      "wppr_points": "14.0700",
+      "player_count": "29",
+      "winner": {
+        "player_id": "32291",
+        "name": "Scott Piper"
+      }
+    },
+    {
+      "tournament_id": "97070",
+      "event_end_date": "2025-10-30",
+      "tournament_name": "PiP - Frenzy @ Slip Stream Tap House",
+      "event_name": "Main Tournament",
+      "wppr_points": "2.3300",
+      "player_count": "15",
+      "winner": {
+        "player_id": "64084",
+        "name": "Peter White"
+      }
+    },
+    {
+      "tournament_id": "88671",
+      "event_end_date": "2025-10-27",
+      "tournament_name": "Empire Cairns Pizza + Pinball Strikes",
+      "event_name": "Main Tournament",
+      "wppr_points": "12.6700",
+      "player_count": "49",
+      "winner": {
+        "player_id": "114854",
+        "name": "Ronan Wolfe"
+      }
+    },
+    {
+      "tournament_id": "99966",
+      "event_end_date": "2025-10-26",
+      "tournament_name": "PiP Monthly @ Planet Pinball",
+      "event_name": "Main Tournament",
+      "wppr_points": "7.2000",
+      "player_count": "12",
+      "winner": {
+        "player_id": "83016",
+        "name": "Kieran Braden"
+      }
+    },
+    {
+      "tournament_id": "97034",
+      "event_end_date": "2025-10-23",
+      "tournament_name": "PiP - Frenzy @ Pinball In Perwillowen",
+      "event_name": "Main Tournament",
+      "wppr_points": "2.6200",
+      "player_count": "14",
+      "winner": {
+        "player_id": "107031",
+        "name": "Jarod Cornish"
+      }
+    },
+    {
+      "tournament_id": "98480",
+      "event_end_date": "2025-10-21",
+      "tournament_name": "Brisbane Pinball Club",
+      "event_name": "Main Tournament",
+      "wppr_points": "37.9700",
+      "player_count": "58",
+      "winner": {
+        "player_id": "1605",
+        "name": "Escher Lefkoff"
+      }
+    },
+    {
+      "tournament_id": "88604",
+      "event_end_date": "2025-10-20",
+      "tournament_name": "Empire Townsville Pizza + Pinball Strikes",
+      "event_name": "Main Tournament",
+      "wppr_points": "20.7300",
+      "player_count": "55",
+      "winner": {
+        "player_id": "45114",
+        "name": "Jason Lynch AUS"
+      }
+    },
+    {
+      "tournament_id": "103088",
+      "event_end_date": "2025-10-19",
+      "tournament_name": "Evil Dead Launch party",
+      "event_name": "Main Tournament",
+      "wppr_points": "6.1800",
+      "player_count": "13",
+      "winner": {
+        "player_id": "80924",
+        "name": "Justin Thompson"
+      }
+    },
+    {
+      "tournament_id": "102971",
+      "event_end_date": "2025-10-19",
+      "tournament_name": "Pinball Planet Monthly Matchplay (October)",
+      "event_name": "Main Tournament",
+      "wppr_points": "0.1800",
+      "player_count": "7",
+      "winner": {
+        "player_id": "29656",
+        "name": "Andrew Priest"
+      }
+    },
+    {
+      "tournament_id": "86546",
+      "event_end_date": "2025-10-17",
+      "tournament_name": "The Pinball Clubhouse Moorooka",
+      "event_name": "Main Tournament",
+      "wppr_points": "5.2200",
+      "player_count": "12",
+      "winner": {
+        "player_id": "30067",
+        "name": "Stuart Thornton"
+      }
+    },
+    {
+      "tournament_id": "97071",
+      "event_end_date": "2025-10-16",
+      "tournament_name": "PiP - Frenzy @ Slip Stream Tap House",
+      "event_name": "Main Tournament",
+      "wppr_points": "3.1800",
+      "player_count": "21",
+      "winner": {
+        "player_id": "83012",
+        "name": "Chris Murphy AUS"
+      }
+    },
+    {
+      "tournament_id": "88081",
+      "event_end_date": "2025-10-13",
+      "tournament_name": "ParkNplunge",
+      "event_name": "Main Tournament",
+      "wppr_points": "4.5800",
+      "player_count": "13",
+      "winner": {
+        "player_id": "91643",
+        "name": "Alex Johnston"
+      }
+    },
+    {
+      "tournament_id": "102711",
+      "event_end_date": "2025-10-11",
+      "tournament_name": "The Park October Flip Frenzy",
+      "event_name": "Main Tournament",
+      "wppr_points": "9.6800",
+      "player_count": "19",
+      "winner": {
+        "player_id": "56777",
+        "name": "Anthony Benger"
+      }
+    },
+    {
+      "tournament_id": "97033",
+      "event_end_date": "2025-10-09",
+      "tournament_name": "PiP - Frenzy @ Pinball In Perwillowen",
+      "event_name": "Main Tournament",
+      "wppr_points": "2.1900",
+      "player_count": "10",
+      "winner": {
+        "player_id": "64083",
+        "name": "Dane Stotschek"
+      }
+    },
+    {
+      "tournament_id": "98481",
+      "event_end_date": "2025-10-07",
+      "tournament_name": "Brisbane Pinball Club",
+      "event_name": "Main Tournament",
+      "wppr_points": "30.8700",
+      "player_count": "50",
+      "winner": {
+        "player_id": "50154",
+        "name": "Gino Thimios"
+      }
+    },
+    {
+      "tournament_id": "101466",
+      "event_end_date": "2025-10-06",
+      "tournament_name": "Yaboola - Battle of Waterloo #5 - Target Matchplay",
+      "event_name": "Main Tournament",
+      "wppr_points": "7.9900",
+      "player_count": "22",
+      "winner": {
+        "player_id": "71138",
+        "name": "Mitchell Stewart"
+      }
+    },
+    {
+      "tournament_id": "101465",
+      "event_end_date": "2025-10-06",
+      "tournament_name": "Yaboola - Battle of Waterloo #5 - Group Matchplay",
+      "event_name": "Main Tournament",
+      "wppr_points": "14.7600",
+      "player_count": "16",
+      "winner": {
+        "player_id": "51331",
+        "name": "David Stavleu"
+      }
+    },
+    {
+      "tournament_id": "101467",
+      "event_end_date": "2025-10-05",
+      "tournament_name": "Yaboola - Battle of Waterloo #5 - Max Matchplay",
+      "event_name": "Main Tournament",
+      "wppr_points": "14.4300",
+      "player_count": "19",
+      "winner": {
+        "player_id": "71138",
+        "name": "Mitchell Stewart"
+      }
+    },
+    {
+      "tournament_id": "85938",
+      "event_end_date": "2025-10-04",
+      "tournament_name": "Netherworld Flip Frenzy",
+      "event_name": "Main Tournament",
+      "wppr_points": "15.9100",
+      "player_count": "31",
+      "winner": {
+        "player_id": "16976",
+        "name": "Jason Lambert AUS"
+      }
+    },
+    {
+      "tournament_id": "93802",
+      "event_end_date": "2025-10-04",
+      "tournament_name": "Townsville Silberball Mt Low October",
+      "event_name": "Main Tournament",
+      "wppr_points": "4.0400",
+      "player_count": "10",
+      "winner": {
+        "player_id": "73116",
+        "name": "Kale Duffie"
+      }
+    },
+    {
+      "tournament_id": "97060",
+      "event_end_date": "2025-10-02",
+      "tournament_name": "PiP - Frenzy @ Slip Stream Tap House",
+      "event_name": "Main Tournament",
+      "wppr_points": "3.0400",
+      "player_count": "24",
+      "winner": {
+        "player_id": "83012",
+        "name": "Chris Murphy AUS"
+      }
+    },
+    {
+      "tournament_id": "90308",
+      "event_end_date": "2025-10-01",
+      "tournament_name": "Gold Coast Pinball Club",
+      "event_name": "Main Tournament",
+      "wppr_points": "1.5700",
+      "player_count": "10",
+      "winner": {
+        "player_id": "90228",
+        "name": "Andrew Gliatis"
+      }
+    },
+    {
+      "tournament_id": "88676",
+      "event_end_date": "2025-09-29",
+      "tournament_name": "Empire Cairns Pizza + Pinball Strikes",
+      "event_name": "Main Tournament",
+      "wppr_points": "10.4400",
+      "player_count": "46",
+      "winner": {
+        "player_id": "121914",
+        "name": "Adrian Broad"
+      }
+    },
+    {
+      "tournament_id": "102115",
+      "event_end_date": "2025-09-28",
+      "tournament_name": "Yaboola on the Road - Max Matchplay",
+      "event_name": "Main Tournament",
+      "wppr_points": "7.4300",
+      "player_count": "11",
+      "winner": {
+        "player_id": "71138",
+        "name": "Mitchell Stewart"
+      }
+    },
+    {
+      "tournament_id": "97032",
+      "event_end_date": "2025-09-25",
+      "tournament_name": "PiP - Frenzy @ Pinball In Perwillowen",
+      "event_name": "Main Tournament",
+      "wppr_points": "2.3300",
+      "player_count": "13",
+      "winner": {
+        "player_id": "71851",
+        "name": "Justin Hallowes"
+      }
+    },
+    {
+      "tournament_id": "98482",
+      "event_end_date": "2025-09-23",
+      "tournament_name": "Brisbane Pinball Club",
+      "event_name": "Main Tournament",
+      "wppr_points": "29.3100",
+      "player_count": "48",
+      "winner": {
+        "player_id": "1605",
+        "name": "Escher Lefkoff"
+      }
+    },
+    {
+      "tournament_id": "86545",
+      "event_end_date": "2025-09-19",
+      "tournament_name": "The Pinball Clubhouse Moorooka",
+      "event_name": "Main Tournament",
+      "wppr_points": "6.1700",
+      "player_count": "12",
+      "winner": {
+        "player_id": "36282",
+        "name": "Warren Beetham"
+      }
+    },
+    {
+      "tournament_id": "97061",
+      "event_end_date": "2025-09-18",
+      "tournament_name": "PiP - Frenzy @ Slip Stream Tap House",
+      "event_name": "Main Tournament",
+      "wppr_points": "2.7600",
+      "player_count": "22",
+      "winner": {
+        "player_id": "80922",
+        "name": "Tristan Ford"
+      }
+    },
+    {
+      "tournament_id": "88603",
+      "event_end_date": "2025-09-15",
+      "tournament_name": "Empire Townsville Pizza + Pinball Strikes",
+      "event_name": "Main Tournament",
+      "wppr_points": "21.2400",
+      "player_count": "49",
+      "winner": {
+        "player_id": "45114",
+        "name": "Jason Lynch AUS"
+      }
+    },
+    {
+      "tournament_id": "97031",
+      "event_end_date": "2025-09-11",
+      "tournament_name": "PiP - Frenzy @ Pinball In Perwillowen",
+      "event_name": "Main Tournament",
+      "wppr_points": "2.9200",
+      "player_count": "14",
+      "winner": {
+        "player_id": "64083",
+        "name": "Dane Stotschek"
+      }
+    },
+    {
+      "tournament_id": "98483",
+      "event_end_date": "2025-09-09",
+      "tournament_name": "Brisbane Pinball Club",
+      "event_name": "Main Tournament",
+      "wppr_points": "30.0800",
+      "player_count": "44",
+      "winner": {
+        "player_id": "16976",
+        "name": "Jason Lambert AUS"
+      }
+    },
+    {
+      "tournament_id": "88080",
+      "event_end_date": "2025-09-08",
+      "tournament_name": "ParkNplunge",
+      "event_name": "Main Tournament",
+      "wppr_points": "4.1600",
+      "player_count": "12",
+      "winner": {
+        "player_id": "14442",
+        "name": "Tony Woods"
+      }
+    },
+    {
+      "tournament_id": "93801",
+      "event_end_date": "2025-09-06",
+      "tournament_name": "Townsville Silverball Alligator September",
+      "event_name": "Main Tournament",
+      "wppr_points": "7.8600",
+      "player_count": "16",
+      "winner": {
+        "player_id": "14515",
+        "name": "Rob Milla"
+      }
+    },
+    {
+      "tournament_id": "85937",
+      "event_end_date": "2025-09-06",
+      "tournament_name": "Netherworld Flip Frenzy",
+      "event_name": "Main Tournament",
+      "wppr_points": "18.9800",
+      "player_count": "34",
+      "winner": {
+        "player_id": "16976",
+        "name": "Jason Lambert AUS"
+      }
+    },
+    {
+      "tournament_id": "97062",
+      "event_end_date": "2025-09-04",
+      "tournament_name": "PiP - Frenzy @ Slip Stream Tap House",
+      "event_name": "Main Tournament",
+      "wppr_points": "2.1200",
+      "player_count": "20",
+      "winner": {
+        "player_id": "26479",
+        "name": "Pat Nichols"
+      }
+    },
+    {
+      "tournament_id": "90307",
+      "event_end_date": "2025-09-03",
+      "tournament_name": "Gold Coast Pinball Club",
+      "event_name": "Main Tournament",
+      "wppr_points": "0.6400",
+      "player_count": "6",
+      "winner": {
+        "player_id": "16983",
+        "name": "Matthew Hetherington"
+      }
+    },
+    {
+      "tournament_id": "99965",
+      "event_end_date": "2025-08-31",
+      "tournament_name": "PiP Monthly @ Planet Pinball",
+      "event_name": "Main Tournament",
+      "wppr_points": "9.0400",
+      "player_count": "13",
+      "winner": {
+        "player_id": "83016",
+        "name": "Kieran Braden"
+      }
+    },
+    {
+      "tournament_id": "100585",
+      "event_end_date": "2025-08-29",
+      "tournament_name": "Pinball Planet Monthly Matchplay (August)",
+      "event_name": "Main Tournament",
+      "wppr_points": "1.6000",
+      "player_count": "6",
+      "winner": {
+        "player_id": "111902",
+        "name": "Ben Byrne"
+      }
+    },
+    {
+      "tournament_id": "97030",
+      "event_end_date": "2025-08-28",
+      "tournament_name": "PiP - Frenzy @ Pinball In Perwillowen",
+      "event_name": "Main Tournament",
+      "wppr_points": "1.7100",
+      "player_count": "10",
+      "winner": {
+        "player_id": "83012",
+        "name": "Chris Murphy AUS"
+      }
+    },
+    {
+      "tournament_id": "98484",
+      "event_end_date": "2025-08-26",
+      "tournament_name": "Brisbane Pinball Club",
+      "event_name": "Main Tournament",
+      "wppr_points": "34.4000",
+      "player_count": "47",
+      "winner": {
+        "player_id": "16976",
+        "name": "Jason Lambert AUS"
+      }
+    },
+    {
+      "tournament_id": "88677",
+      "event_end_date": "2025-08-25",
+      "tournament_name": "Empire Cairns Pizza + Pinball Strikes",
+      "event_name": "Main Tournament",
+      "wppr_points": "12.0400",
+      "player_count": "49",
+      "winner": {
+        "player_id": "114854",
+        "name": "Ronan Wolfe"
+      }
+    },
+    {
+      "tournament_id": "101425",
+      "event_end_date": "2025-08-24",
+      "tournament_name": "Yaboola Pinball on the Road - Group Matchplay #8",
+      "event_name": "Main Tournament",
+      "wppr_points": "5.9200",
+      "player_count": "17",
+      "winner": {
+        "player_id": "71138",
+        "name": "Mitchell Stewart"
+      }
+    },
+    {
+      "tournament_id": "100178",
+      "event_end_date": "2025-08-23",
+      "tournament_name": "Roll and Roar!",
+      "event_name": "Launch Party",
+      "wppr_points": "3.6700",
+      "player_count": "13",
+      "winner": {
+        "player_id": "14442",
+        "name": "Tony Woods"
+      }
+    },
+    {
+      "tournament_id": "97067",
+      "event_end_date": "2025-08-21",
+      "tournament_name": "PiP - Frenzy @ Slip Stream Tap House",
+      "event_name": "Main Tournament",
+      "wppr_points": "1.7700",
+      "player_count": "25",
+      "winner": {
+        "player_id": "72845",
+        "name": "Chad Bolitho"
+      }
+    },
+    {
+      "tournament_id": "88602",
+      "event_end_date": "2025-08-18",
+      "tournament_name": "Empire Townsville Pizza + Pinball Strikes",
+      "event_name": "Main Tournament",
+      "wppr_points": "21.5300",
+      "player_count": "61",
+      "winner": {
+        "player_id": "114854",
+        "name": "Ronan Wolfe"
+      }
+    },
+    {
+      "tournament_id": "99967",
+      "event_end_date": "2025-08-17",
+      "tournament_name": "Burnside August Frenzy",
+      "event_name": "Main Tournament",
+      "wppr_points": "3.2600",
+      "player_count": "13",
+      "winner": {
+        "player_id": "71138",
+        "name": "Mitchell Stewart"
+      }
+    },
+    {
+      "tournament_id": "86544",
+      "event_end_date": "2025-08-15",
+      "tournament_name": "The Pinball Clubhouse Moorooka",
+      "event_name": "Main Tournament",
+      "wppr_points": "2.8100",
+      "player_count": "11",
+      "winner": {
+        "player_id": "107536",
+        "name": "Valentino Brkic"
+      }
+    },
+    {
+      "tournament_id": "97029",
+      "event_end_date": "2025-08-14",
+      "tournament_name": "PiP - Frenzy @ Pinball In Perwillowen",
+      "event_name": "Main Tournament",
+      "wppr_points": "2.3300",
+      "player_count": "17",
+      "winner": {
+        "player_id": "107031",
+        "name": "Jarod Cornish"
+      }
+    },
+    {
+      "tournament_id": "98485",
+      "event_end_date": "2025-08-12",
+      "tournament_name": "Brisbane Pinball Club",
+      "event_name": "Main Tournament",
+      "wppr_points": "36.1700",
+      "player_count": "48",
+      "winner": {
+        "player_id": "16989",
+        "name": "Jimmy Nails"
+      }
+    },
+    {
+      "tournament_id": "88079",
+      "event_end_date": "2025-08-11",
+      "tournament_name": "ParkNplunge",
+      "event_name": "Main Tournament",
+      "wppr_points": "3.4700",
+      "player_count": "11",
+      "winner": {
+        "player_id": "16980",
+        "name": "Gavin Drogemuller"
+      }
+    },
+    {
+      "tournament_id": "97063",
+      "event_end_date": "2025-08-07",
+      "tournament_name": "PiP - Frenzy @ Slip Stream Tap House",
+      "event_name": "Main Tournament",
+      "wppr_points": "1.8200",
+      "player_count": "14",
+      "winner": {
+        "player_id": "80924",
+        "name": "Justin Thompson"
+      }
+    },
+    {
+      "tournament_id": "90306",
+      "event_end_date": "2025-08-06",
+      "tournament_name": "Gold Coast Pinball Club",
+      "event_name": "Main Tournament",
+      "wppr_points": "1.1000",
+      "player_count": "8",
+      "winner": {
+        "player_id": "66821",
+        "name": "Christian Nolan"
+      }
+    },
+    {
+      "tournament_id": "85941",
+      "event_end_date": "2025-08-02",
+      "tournament_name": "Netherworld Flip Frenzy",
+      "event_name": "Main Tournament",
+      "wppr_points": "15.2200",
+      "player_count": "29",
+      "winner": {
+        "player_id": "32291",
+        "name": "Scott Piper"
+      }
+    },
+    {
+      "tournament_id": "95315",
+      "event_end_date": "2025-08-02",
+      "tournament_name": "Silverball Series Empire Level 1",
+      "event_name": "Classics",
+      "wppr_points": "28.0300",
+      "player_count": "30",
+      "winner": {
+        "player_id": "73116",
+        "name": "Kale Duffie"
+      }
+    },
+    {
+      "tournament_id": "86533",
+      "event_end_date": "2025-08-01",
+      "tournament_name": "White Lies Brewing Pinball Club",
+      "event_name": "Main Tournament",
+      "wppr_points": "2.6800",
+      "player_count": "5",
+      "winner": {
+        "player_id": "47205",
+        "name": "Thibaut Allender"
+      }
+    },
+    {
+      "tournament_id": "97064",
+      "event_end_date": "2025-07-31",
+      "tournament_name": "PiP - Frenzy @ Slip Stream Tap House",
+      "event_name": "Main Tournament",
+      "wppr_points": "2.0000",
+      "player_count": "13",
+      "winner": {
+        "player_id": "83012",
+        "name": "Chris Murphy AUS"
+      }
+    },
+    {
+      "tournament_id": "94456",
+      "event_end_date": "2025-07-29",
+      "tournament_name": "Brisbane Pinball Club",
+      "event_name": "Main Tournament",
+      "wppr_points": "23.9100",
+      "player_count": "42",
+      "winner": {
+        "player_id": "83014",
+        "name": "Alexander Henriksen"
+      }
+    },
+    {
+      "tournament_id": "88678",
+      "event_end_date": "2025-07-28",
+      "tournament_name": "Empire Cairns Pizza + Pinball Strikes",
+      "event_name": "Main Tournament",
+      "wppr_points": "10.8300",
+      "player_count": "40",
+      "winner": {
+        "player_id": "114854",
+        "name": "Ronan Wolfe"
+      }
+    },
+    {
+      "tournament_id": "99308",
+      "event_end_date": "2025-07-27",
+      "tournament_name": "Yaboola Pinball on the Road - Group Matchplay #7",
+      "event_name": "Main Tournament",
+      "wppr_points": "5.9400",
+      "player_count": "10",
+      "winner": {
+        "player_id": "71138",
+        "name": "Mitchell Stewart"
+      }
+    },
+    {
+      "tournament_id": "99107",
+      "event_end_date": "2025-07-25",
+      "tournament_name": "Pinball Planet Monthly (Flip Frenzy)",
+      "event_name": "Main Tournament",
+      "wppr_points": "0.9600",
+      "player_count": "8",
+      "winner": {
+        "player_id": "29656",
+        "name": "Andrew Priest"
+      }
+    },
+    {
+      "tournament_id": "97028",
+      "event_end_date": "2025-07-24",
+      "tournament_name": "PiP - Frenzy @ Pinball In Perwillowen",
+      "event_name": "Main Tournament",
+      "wppr_points": "1.1300",
+      "player_count": "8",
+      "winner": {
+        "player_id": "80922",
+        "name": "Tristan Ford"
+      }
+    },
+    {
+      "tournament_id": "88601",
+      "event_end_date": "2025-07-21",
+      "tournament_name": "Empire Townsville Pizza + Pinball Strikes",
+      "event_name": "Main Tournament",
+      "wppr_points": "17.0300",
+      "player_count": "47",
+      "winner": {
+        "player_id": "45114",
+        "name": "Jason Lynch AUS"
+      }
+    },
+    {
+      "tournament_id": "93322",
+      "event_end_date": "2025-07-21",
+      "tournament_name": "Post-BPAC Hangover",
+      "event_name": "Main Tournament",
+      "wppr_points": "47.9900",
+      "player_count": "61",
+      "winner": {
+        "player_id": "1605",
+        "name": "Escher Lefkoff"
+      }
+    },
+    {
+      "tournament_id": "85746",
+      "event_end_date": "2025-07-20",
+      "tournament_name": "Brisbane Masters",
+      "event_name": "Main Tournament",
+      "wppr_points": "175.4600",
+      "player_count": "213",
+      "winner": {
+        "player_id": "1605",
+        "name": "Escher Lefkoff"
+      }
+    },
+    {
+      "tournament_id": "93313",
+      "event_end_date": "2025-07-18",
+      "tournament_name": "BPAC Best Card",
+      "event_name": "Main Tournament",
+      "wppr_points": "167.9700",
+      "player_count": "147",
+      "winner": {
+        "player_id": "1605",
+        "name": "Escher Lefkoff"
+      }
+    },
+    {
+      "tournament_id": "93320",
+      "event_end_date": "2025-07-18",
+      "tournament_name": "BPAC Classics",
+      "event_name": "Classics",
+      "wppr_points": "168.3900",
+      "player_count": "161",
+      "winner": {
+        "player_id": "90228",
+        "name": "Andrew Gliatis"
+      }
+    },
+    {
+      "tournament_id": "97065",
+      "event_end_date": "2025-07-17",
+      "tournament_name": "PiP - Frenzy @ Slip Stream Tap House",
+      "event_name": "Main Tournament",
+      "wppr_points": "1.3300",
+      "player_count": "6",
+      "winner": {
+        "player_id": "80922",
+        "name": "Tristan Ford"
+      }
+    },
+    {
+      "tournament_id": "93294",
+      "event_end_date": "2025-07-17",
+      "tournament_name": "Moorooka Open",
+      "event_name": "Main Tournament",
+      "wppr_points": "164.8100",
+      "player_count": "150",
+      "winner": {
+        "player_id": "12045",
+        "name": "Richard Rhodes"
+      }
+    },
+    {
+      "tournament_id": "93314",
+      "event_end_date": "2025-07-16",
+      "tournament_name": "BPAC Fair Strikes",
+      "event_name": "Main Tournament",
+      "wppr_points": "52.3300",
+      "player_count": "142",
+      "winner": {
+        "player_id": "1605",
+        "name": "Escher Lefkoff"
+      }
+    },
+    {
+      "tournament_id": "93319",
+      "event_end_date": "2025-07-15",
+      "tournament_name": "Brisbane Pinball Club",
+      "event_name": "Main Tournament",
+      "wppr_points": "64.9400",
+      "player_count": "104",
+      "winner": {
+        "player_id": "1605",
+        "name": "Escher Lefkoff"
+      }
+    },
+    {
+      "tournament_id": "88078",
+      "event_end_date": "2025-07-14",
+      "tournament_name": "ParkNplunge",
+      "event_name": "Main Tournament",
+      "wppr_points": "7.7700",
+      "player_count": "24",
+      "winner": {
+        "player_id": "14442",
+        "name": "Tony Woods"
+      }
+    },
+    {
+      "tournament_id": "97385",
+      "event_end_date": "2025-07-13",
+      "tournament_name": "July in Burnside",
+      "event_name": "Main Tournament",
+      "wppr_points": "14.4600",
+      "player_count": "22",
+      "winner": {
+        "player_id": "71138",
+        "name": "Mitchell Stewart"
+      }
+    },
+    {
+      "tournament_id": "97039",
+      "event_end_date": "2025-07-10",
+      "tournament_name": "PiP - Frenzy @ Pinball In Perwillowen",
+      "event_name": "Main Tournament",
+      "wppr_points": "2.3700",
+      "player_count": "11",
+      "winner": {
+        "player_id": "107031",
+        "name": "Jarod Cornish"
+      }
+    },
+    {
+      "tournament_id": "93800",
+      "event_end_date": "2025-07-05",
+      "tournament_name": "Townsville Silverball Mt Low July",
+      "event_name": "Main Tournament",
+      "wppr_points": "4.7400",
+      "player_count": "13",
+      "winner": {
+        "player_id": "74689",
+        "name": "Dannii Rocket"
+      }
+    },
+    {
+      "tournament_id": "85944",
+      "event_end_date": "2025-07-05",
+      "tournament_name": "Netherworld Flip Frenzy",
+      "event_name": "Main Tournament",
+      "wppr_points": "15.8700",
+      "player_count": "30",
+      "winner": {
+        "player_id": "67241",
+        "name": "Shane Redfern"
+      }
+    },
+    {
+      "tournament_id": "86532",
+      "event_end_date": "2025-07-04",
+      "tournament_name": "White Lies Brewing Pinball Club",
+      "event_name": "Main Tournament",
+      "wppr_points": "2.4200",
+      "player_count": "7",
+      "winner": {
+        "player_id": "30067",
+        "name": "Stuart Thornton"
+      }
+    },
+    {
+      "tournament_id": "97068",
+      "event_end_date": "2025-07-03",
+      "tournament_name": "PiP - Frenzy @ Slip Stream Tap House",
+      "event_name": "Main Tournament",
+      "wppr_points": "1.8100",
+      "player_count": "16",
+      "winner": {
+        "player_id": "90130",
+        "name": "Warwick Jones"
+      }
+    },
+    {
+      "tournament_id": "90305",
+      "event_end_date": "2025-07-02",
+      "tournament_name": "Gold Coast Pinball Club",
+      "event_name": "Main Tournament",
+      "wppr_points": "1.2600",
+      "player_count": "8",
+      "winner": {
+        "player_id": "51719",
+        "name": "Barry Lee AUS"
+      }
+    },
+    {
+      "tournament_id": "94455",
+      "event_end_date": "2025-07-01",
+      "tournament_name": "Brisbane Pinball Club",
+      "event_name": "Main Tournament",
+      "wppr_points": "36.3200",
+      "player_count": "54",
+      "winner": {
+        "player_id": "1605",
+        "name": "Escher Lefkoff"
+      }
+    },
+    {
+      "tournament_id": "88679",
+      "event_end_date": "2025-06-30",
+      "tournament_name": "Empire Cairns Pizza + Pinball Strikes",
+      "event_name": "Main Tournament",
+      "wppr_points": "11.6800",
+      "player_count": "51",
+      "winner": {
+        "player_id": "116914",
+        "name": "Pablo Pardoen"
+      }
+    },
+    {
+      "tournament_id": "98132",
+      "event_end_date": "2025-06-29",
+      "tournament_name": "Yaboola Pinball on the Road - Group Matchplay #6",
+      "event_name": "Main Tournament",
+      "wppr_points": "6.6200",
+      "player_count": "13",
+      "winner": {
+        "player_id": "71138",
+        "name": "Mitchell Stewart"
+      }
+    },
+    {
+      "tournament_id": "97038",
+      "event_end_date": "2025-06-26",
+      "tournament_name": "PiP - Frenzy @ Pinball In Perwillowen",
+      "event_name": "Main Tournament",
+      "wppr_points": "2.1700",
+      "player_count": "10",
+      "winner": {
+        "player_id": "72845",
+        "name": "Chad Bolitho"
+      }
+    },
+    {
+      "tournament_id": "86542",
+      "event_end_date": "2025-06-20",
+      "tournament_name": "The Pinball Clubhouse Moorooka",
+      "event_name": "Main Tournament",
+      "wppr_points": "4.3400",
+      "player_count": "11",
+      "winner": {
+        "player_id": "50139",
+        "name": "Michael Saunders"
+      }
+    },
+    {
+      "tournament_id": "95342",
+      "event_end_date": "2025-06-19",
+      "tournament_name": "PiP - Frenzy @ Slip Stream Tap House",
+      "event_name": "Main Tournament",
+      "wppr_points": "1.7200",
+      "player_count": "16",
+      "winner": {
+        "player_id": "107031",
+        "name": "Jarod Cornish"
+      }
+    },
+    {
+      "tournament_id": "94454",
+      "event_end_date": "2025-06-17",
+      "tournament_name": "Brisbane Pinball Club",
+      "event_name": "Main Tournament",
+      "wppr_points": "34.5000",
+      "player_count": "51",
+      "winner": {
+        "player_id": "50154",
+        "name": "Gino Thimios"
+      }
+    },
+    {
+      "tournament_id": "88600",
+      "event_end_date": "2025-06-16",
+      "tournament_name": "Empire Townsville Pizza + Pinball Strikes",
+      "event_name": "Main Tournament",
+      "wppr_points": "19.7400",
+      "player_count": "50",
+      "winner": {
+        "player_id": "45114",
+        "name": "Jason Lynch AUS"
+      }
+    },
+    {
+      "tournament_id": "97037",
+      "event_end_date": "2025-06-12",
+      "tournament_name": "PiP - Frenzy @ Pinball In Perwillowen",
+      "event_name": "Main Tournament",
+      "wppr_points": "2.3600",
+      "player_count": "11",
+      "winner": {
+        "player_id": "107031",
+        "name": "Jarod Cornish"
+      }
+    },
+    {
+      "tournament_id": "88075",
+      "event_end_date": "2025-06-09",
+      "tournament_name": "ParkNplunge",
+      "event_name": "Main Tournament",
+      "wppr_points": "5.4600",
+      "player_count": "15",
+      "winner": {
+        "player_id": "82876",
+        "name": "Gareth Hughes"
+      }
+    },
+    {
+      "tournament_id": "97081",
+      "event_end_date": "2025-06-08",
+      "tournament_name": "Pinball Planet Monthly (Pingolf) June",
+      "event_name": "Pin-Golf",
+      "wppr_points": "1.1800",
+      "player_count": "6",
+      "winner": {
+        "player_id": "29656",
+        "name": "Andrew Priest"
+      }
+    },
+    {
+      "tournament_id": "93799",
+      "event_end_date": "2025-06-07",
+      "tournament_name": "Townsville Silvverball Alligator June",
+      "event_name": "Main Tournament",
+      "wppr_points": "7.1900",
+      "player_count": "16",
+      "winner": {
+        "player_id": "91699",
+        "name": "Tash Anderson"
+      }
+    },
+    {
+      "tournament_id": "85943",
+      "event_end_date": "2025-06-07",
+      "tournament_name": "Netherworld Flip Frenzy",
+      "event_name": "Main Tournament",
+      "wppr_points": "17.0600",
+      "player_count": "32",
+      "winner": {
+        "player_id": "93753",
+        "name": "Valerio Cassimatis"
+      }
+    },
+    {
+      "tournament_id": "86531",
+      "event_end_date": "2025-06-06",
+      "tournament_name": "White Lies Brewing Pinball Club",
+      "event_name": "Main Tournament",
+      "wppr_points": "4.5700",
+      "player_count": "11",
+      "winner": {
+        "player_id": "42271",
+        "name": "Michi Henning"
+      }
+    },
+    {
+      "tournament_id": "95343",
+      "event_end_date": "2025-06-05",
+      "tournament_name": "PiP - Frenzy @ Slip Stream Tap House",
+      "event_name": "Main Tournament",
+      "wppr_points": "1.5200",
+      "player_count": "17",
+      "winner": {
+        "player_id": "107031",
+        "name": "Jarod Cornish"
+      }
+    },
+    {
+      "tournament_id": "90304",
+      "event_end_date": "2025-06-04",
+      "tournament_name": "Gold Coast Pinball Club",
+      "event_name": "Main Tournament",
+      "wppr_points": "1.2600",
+      "player_count": "8",
+      "winner": {
+        "player_id": "34914",
+        "name": "Shane Archer"
+      }
+    },
+    {
+      "tournament_id": "94453",
+      "event_end_date": "2025-06-03",
+      "tournament_name": "Brisbane Pinball Club",
+      "event_name": "Main Tournament",
+      "wppr_points": "30.8400",
+      "player_count": "42",
+      "winner": {
+        "player_id": "1605",
+        "name": "Escher Lefkoff"
+      }
+    },
+    {
+      "tournament_id": "86541",
+      "event_end_date": "2025-05-30",
+      "tournament_name": "The Pinball Clubhouse Moorooka",
+      "event_name": "Main Tournament",
+      "wppr_points": "5.2700",
+      "player_count": "15",
+      "winner": {
+        "player_id": "69664",
+        "name": "Paul Ehrich"
+      }
+    },
+    {
+      "tournament_id": "88675",
+      "event_end_date": "2025-05-26",
+      "tournament_name": "Empire Cairns Pizza + Pinball Strikes",
+      "event_name": "Main Tournament",
+      "wppr_points": "7.9900",
+      "player_count": "44",
+      "winner": {
+        "player_id": "121914",
+        "name": "Adrian Broad"
+      }
+    },
+    {
+      "tournament_id": "92640",
+      "event_end_date": "2025-05-25",
+      "tournament_name": "PiP Monthly Match Play @ Planet Pinball",
+      "event_name": "Main Tournament",
+      "wppr_points": "10.2800",
+      "player_count": "12",
+      "winner": {
+        "player_id": "83016",
+        "name": "Kieran Braden"
+      }
+    },
+    {
+      "tournament_id": "96019",
+      "event_end_date": "2025-05-24",
+      "tournament_name": "Yaboola pinball on the Road - Group Matchplay #5",
+      "event_name": "Main Tournament",
+      "wppr_points": "2.9700",
+      "player_count": "6",
+      "winner": {
+        "player_id": "71138",
+        "name": "Mitchell Stewart"
+      }
+    },
+    {
+      "tournament_id": "97036",
+      "event_end_date": "2025-05-22",
+      "tournament_name": "PiP - Frenzy @ Pinball In Perwillowen",
+      "event_name": "Main Tournament",
+      "wppr_points": "1.6800",
+      "player_count": "10",
+      "winner": {
+        "player_id": "80922",
+        "name": "Tristan Ford"
+      }
+    },
+    {
+      "tournament_id": "93318",
+      "event_end_date": "2025-05-20",
+      "tournament_name": "Brisbane Pinball Club",
+      "event_name": "Main Tournament",
+      "wppr_points": "44.2800",
+      "player_count": "55",
+      "winner": {
+        "player_id": "1605",
+        "name": "Escher Lefkoff"
+      }
+    },
+    {
+      "tournament_id": "88596",
+      "event_end_date": "2025-05-19",
+      "tournament_name": "Empire Townsville Pizza + Pinball Strikes",
+      "event_name": "Main Tournament",
+      "wppr_points": "23.5800",
+      "player_count": "60",
+      "winner": {
+        "player_id": "78561",
+        "name": "Dave Beri"
+      }
+    },
+    {
+      "tournament_id": "93889",
+      "event_end_date": "2025-05-18",
+      "tournament_name": "Classic Fair Strikes",
+      "event_name": "Classics I",
+      "wppr_points": "18.6600",
+      "player_count": "28",
+      "winner": {
+        "player_id": "30067",
+        "name": "Stuart Thornton"
+      }
+    },
+    {
+      "tournament_id": "96215",
+      "event_end_date": "2025-05-18",
+      "tournament_name": "Death by Pinball 2025 - Stage 4. Livor Mortis",
+      "event_name": "Main Tournament",
+      "wppr_points": "33.8600",
+      "player_count": "61",
+      "winner": {
+        "player_id": "16976",
+        "name": "Jason Lambert AUS"
+      }
+    },
+    {
+      "tournament_id": "93893",
+      "event_end_date": "2025-05-18",
+      "tournament_name": "Hiker Classic Cup",
+      "event_name": "Classics",
+      "wppr_points": "117.1300",
+      "player_count": "80",
+      "winner": {
+        "player_id": "40543",
+        "name": "Nicolas Noben"
+      }
+    },
+    {
+      "tournament_id": "93891",
+      "event_end_date": "2025-05-17",
+      "tournament_name": "Hiker Kick-Off",
+      "event_name": "Classics",
+      "wppr_points": "88.2300",
+      "player_count": "58",
+      "winner": {
+        "player_id": "1605",
+        "name": "Escher Lefkoff"
+      }
+    },
+    {
+      "tournament_id": "93894",
+      "event_end_date": "2025-05-17",
+      "tournament_name": "Classic 3-Strike",
+      "event_name": "Classics I",
+      "wppr_points": "17.4400",
+      "player_count": "30",
+      "winner": {
+        "player_id": "33455",
+        "name": "Tom Fletcher AUS"
+      }
+    },
+    {
+      "tournament_id": "93892",
+      "event_end_date": "2025-05-16",
+      "tournament_name": "Classic Group Matchplay",
+      "event_name": "Classics",
+      "wppr_points": "60.5900",
+      "player_count": "66",
+      "winner": {
+        "player_id": "1605",
+        "name": "Escher Lefkoff"
+      }
+    },
+    {
+      "tournament_id": "93890",
+      "event_end_date": "2025-05-15",
+      "tournament_name": "Classic Max Matchplay",
+      "event_name": "Classics",
+      "wppr_points": "41.9300",
+      "player_count": "44",
+      "winner": {
+        "player_id": "90228",
+        "name": "Andrew Gliatis"
+      }
+    },
+    {
+      "tournament_id": "95341",
+      "event_end_date": "2025-05-15",
+      "tournament_name": "PiP - Frenzy @ Slip Stream Tap House",
+      "event_name": "Main Tournament",
+      "wppr_points": "1.2800",
+      "player_count": "12",
+      "winner": {
+        "player_id": "67242",
+        "name": "David Sanders AUS"
+      }
+    },
+    {
+      "tournament_id": "88076",
+      "event_end_date": "2025-05-12",
+      "tournament_name": "ParkNplunge",
+      "event_name": "Main Tournament",
+      "wppr_points": "3.9400",
+      "player_count": "13",
+      "winner": {
+        "player_id": "91637",
+        "name": "Shane Parkes"
+      }
+    },
+    {
+      "tournament_id": "95351",
+      "event_end_date": "2025-05-11",
+      "tournament_name": "Flipping Sunday",
+      "event_name": "Launch Party",
+      "wppr_points": "3.3400",
+      "player_count": "11",
+      "winner": {
+        "player_id": "33455",
+        "name": "Tom Fletcher AUS"
+      }
+    },
+    {
+      "tournament_id": "97035",
+      "event_end_date": "2025-05-08",
+      "tournament_name": "PiP - Frenzy @ Pinball In Perwillowen",
+      "event_name": "Main Tournament",
+      "wppr_points": "1.9800",
+      "player_count": "10",
+      "winner": {
+        "player_id": "71851",
+        "name": "Justin Hallowes"
+      }
+    },
+    {
+      "tournament_id": "90303",
+      "event_end_date": "2025-05-07",
+      "tournament_name": "Gold Coast Pinball Club",
+      "event_name": "Main Tournament",
+      "wppr_points": "1.3200",
+      "player_count": "10",
+      "winner": {
+        "player_id": "12058",
+        "name": "Daniel Figgis"
+      }
+    },
+    {
+      "tournament_id": "93123",
+      "event_end_date": "2025-05-06",
+      "tournament_name": "Brisbane Pinball Club",
+      "event_name": "Main Tournament",
+      "wppr_points": "33.4400",
+      "player_count": "45",
+      "winner": {
+        "player_id": "1605",
+        "name": "Escher Lefkoff"
+      }
+    },
+    {
+      "tournament_id": "85942",
+      "event_end_date": "2025-05-03",
+      "tournament_name": "Netherworld Flip Frenzy",
+      "event_name": "Main Tournament",
+      "wppr_points": "18.8700",
+      "player_count": "31",
+      "winner": {
+        "player_id": "1605",
+        "name": "Escher Lefkoff"
+      }
+    },
+    {
+      "tournament_id": "95680",
+      "event_end_date": "2025-05-03",
+      "tournament_name": "Pinball Planet Monthly (Flip Frenzy)",
+      "event_name": "Main Tournament",
+      "wppr_points": "0.9400",
+      "player_count": "8",
+      "winner": {
+        "player_id": "83016",
+        "name": "Kieran Braden"
+      }
+    },
+    {
+      "tournament_id": "95314",
+      "event_end_date": "2025-05-03",
+      "tournament_name": "Silverball Series Empire Level 1",
+      "event_name": "Classics",
+      "wppr_points": "24.1900",
+      "player_count": "28",
+      "winner": {
+        "player_id": "74689",
+        "name": "Dannii Rocket"
+      }
+    },
+    {
+      "tournament_id": "86530",
+      "event_end_date": "2025-05-02",
+      "tournament_name": "White Lies Brewing Pinball Club",
+      "event_name": "Main Tournament",
+      "wppr_points": "1.0600",
+      "player_count": "5",
+      "winner": {
+        "player_id": "47205",
+        "name": "Thibaut Allender"
+      }
+    },
+    {
+      "tournament_id": "95340",
+      "event_end_date": "2025-05-01",
+      "tournament_name": "PiP - Frenzy @ Slip Stream Tap House",
+      "event_name": "Main Tournament",
+      "wppr_points": "1.4700",
+      "player_count": "13",
+      "winner": {
+        "player_id": "64083",
+        "name": "Dane Stotschek"
+      }
+    },
+    {
+      "tournament_id": "88674",
+      "event_end_date": "2025-04-28",
+      "tournament_name": "Empire Cairns Pizza + Pinball Strikes",
+      "event_name": "Main Tournament",
+      "wppr_points": "5.3900",
+      "player_count": "39",
+      "winner": {
+        "player_id": "114854",
+        "name": "Ronan Wolfe"
+      }
+    },
+    {
+      "tournament_id": "92637",
+      "event_end_date": "2025-04-27",
+      "tournament_name": "PiP Monthly Match Play @ Perewillowen",
+      "event_name": "Main Tournament",
+      "wppr_points": "12.8400",
+      "player_count": "20",
+      "winner": {
+        "player_id": "107031",
+        "name": "Jarod Cornish"
+      }
+    },
+    {
+      "tournament_id": "94786",
+      "event_end_date": "2025-04-25",
+      "tournament_name": "Yaboola on the Road #4 - Anzac Day Dig",
+      "event_name": "Main Tournament",
+      "wppr_points": "4.7900",
+      "player_count": "18",
+      "winner": {
+        "player_id": "75609",
+        "name": "Mark Clifford"
+      }
+    },
+    {
+      "tournament_id": "85610",
+      "event_end_date": "2025-04-24",
+      "tournament_name": "PiP - Frenzy @ Pinball In Perwillowen",
+      "event_name": "Main Tournament",
+      "wppr_points": "1.8400",
+      "player_count": "20",
+      "winner": {
+        "player_id": "80924",
+        "name": "Justin Thompson"
+      }
+    },
+    {
+      "tournament_id": "91696",
+      "event_end_date": "2025-04-22",
+      "tournament_name": "Brisbane Pinball Club",
+      "event_name": "Main Tournament",
+      "wppr_points": "28.2300",
+      "player_count": "45",
+      "winner": {
+        "player_id": "14442",
+        "name": "Tony Woods"
+      }
+    },
+    {
+      "tournament_id": "88597",
+      "event_end_date": "2025-04-21",
+      "tournament_name": "Empire Townsville Pizza + Pinball Strikes",
+      "event_name": "Main Tournament",
+      "wppr_points": "26.1800",
+      "player_count": "62",
+      "winner": {
+        "player_id": "74689",
+        "name": "Dannii Rocket"
+      }
+    },
+    {
+      "tournament_id": "91339",
+      "event_end_date": "2025-04-20",
+      "tournament_name": "Death By Pinball - Stage 5. True Death",
+      "event_name": "Main Tournament",
+      "wppr_points": "10.8100",
+      "player_count": "61",
+      "winner": {
+        "player_id": "75219",
+        "name": "Michael Dodt"
+      }
+    },
+    {
+      "tournament_id": "91335",
+      "event_end_date": "2025-04-20",
+      "tournament_name": "Death By Pinball - Stage 1. Pallor Mortis",
+      "event_name": "Main Tournament",
+      "wppr_points": "33.8400",
+      "player_count": "63",
+      "winner": {
+        "player_id": "1605",
+        "name": "Escher Lefkoff"
+      }
+    },
+    {
+      "tournament_id": "91338",
+      "event_end_date": "2025-04-19",
+      "tournament_name": "Death By Pinball - Stage 3. Rigor Mortis",
+      "event_name": "Main Tournament",
+      "wppr_points": "37.1000",
+      "player_count": "62",
+      "winner": {
+        "player_id": "1605",
+        "name": "Escher Lefkoff"
+      }
+    },
+    {
+      "tournament_id": "91337",
+      "event_end_date": "2025-04-19",
+      "tournament_name": "Death By Pinball - Stage 2. Algor Mortis",
+      "event_name": "Main Tournament",
+      "wppr_points": "37.6000",
+      "player_count": "63",
+      "winner": {
+        "player_id": "1605",
+        "name": "Escher Lefkoff"
+      }
+    },
+    {
+      "tournament_id": "95345",
+      "event_end_date": "2025-04-17",
+      "tournament_name": "PiP - Frenzy @ Slip Stream Tap House",
+      "event_name": "Main Tournament",
+      "wppr_points": "3.3800",
+      "player_count": "13",
+      "winner": {
+        "player_id": "72845",
+        "name": "Chad Bolitho"
+      }
+    },
+    {
+      "tournament_id": "88077",
+      "event_end_date": "2025-04-14",
+      "tournament_name": "ParkNplunge",
+      "event_name": "Main Tournament",
+      "wppr_points": "4.2700",
+      "player_count": "17",
+      "winner": {
+        "player_id": "78660",
+        "name": "Gordon MacMaster"
+      }
+    },
+    {
+      "tournament_id": "94548",
+      "event_end_date": "2025-04-12",
+      "tournament_name": "Pinball Planet Monthly Matchplay (April)",
+      "event_name": "Main Tournament",
+      "wppr_points": "2.1900",
+      "player_count": "4",
+      "winner": {
+        "player_id": "29656",
+        "name": "Andrew Priest"
+      }
+    },
+    {
+      "tournament_id": "85609",
+      "event_end_date": "2025-04-10",
+      "tournament_name": "PiP - Frenzy @ Pinball In Perwillowen",
+      "event_name": "Main Tournament",
+      "wppr_points": "2.1200",
+      "player_count": "17",
+      "winner": {
+        "player_id": "64083",
+        "name": "Dane Stotschek"
+      }
+    },
+    {
+      "tournament_id": "91676",
+      "event_end_date": "2025-04-08",
+      "tournament_name": "Brisbane Pinball Club",
+      "event_name": "Main Tournament",
+      "wppr_points": "47.2200",
+      "player_count": "57",
+      "winner": {
+        "player_id": "16976",
+        "name": "Jason Lambert AUS"
+      }
+    },
+    {
+      "tournament_id": "93721",
+      "event_end_date": "2025-04-06",
+      "tournament_name": "Yaboola Match Play #3 - Beardy Dave's",
+      "event_name": "Main Tournament",
+      "wppr_points": "6.7800",
+      "player_count": "11",
+      "winner": {
+        "player_id": "71138",
+        "name": "Mitchell Stewart"
+      }
+    },
+    {
+      "tournament_id": "85947",
+      "event_end_date": "2025-04-05",
+      "tournament_name": "Netherworld Flip Frenzy",
+      "event_name": "Main Tournament",
+      "wppr_points": "19.4700",
+      "player_count": "34",
+      "winner": {
+        "player_id": "16989",
+        "name": "Jimmy Nails"
+      }
+    },
+    {
+      "tournament_id": "93798",
+      "event_end_date": "2025-04-05",
+      "tournament_name": "Townsville Silverball Mt Low April",
+      "event_name": "Main Tournament",
+      "wppr_points": "5.0600",
+      "player_count": "16",
+      "winner": {
+        "player_id": "73116",
+        "name": "Kale Duffie"
+      }
+    },
+    {
+      "tournament_id": "86529",
+      "event_end_date": "2025-04-04",
+      "tournament_name": "White Lies Brewing Pinball Club",
+      "event_name": "Main Tournament",
+      "wppr_points": "6.6400",
+      "player_count": "16",
+      "winner": {
+        "player_id": "16976",
+        "name": "Jason Lambert AUS"
+      }
+    },
+    {
+      "tournament_id": "95344",
+      "event_end_date": "2025-04-03",
+      "tournament_name": "PiP - Frenzy @ Slip Stream Tap House",
+      "event_name": "Main Tournament",
+      "wppr_points": "2.0800",
+      "player_count": "11",
+      "winner": {
+        "player_id": "80924",
+        "name": "Justin Thompson"
+      }
+    },
+    {
+      "tournament_id": "90302",
+      "event_end_date": "2025-04-02",
+      "tournament_name": "Gold Coast Pinball Club",
+      "event_name": "Main Tournament",
+      "wppr_points": "1.0300",
+      "player_count": "6",
+      "winner": {
+        "player_id": "77826",
+        "name": "Katrina Pingnam"
+      }
+    },
+    {
+      "tournament_id": "88668",
+      "event_end_date": "2025-03-31",
+      "tournament_name": "Empire Cairns Pizza + Pinball Strikes",
+      "event_name": "Main Tournament",
+      "wppr_points": "7.3600",
+      "player_count": "38",
+      "winner": {
+        "player_id": "116914",
+        "name": "Pablo Pardoen"
+      }
+    },
+    {
+      "tournament_id": "92641",
+      "event_end_date": "2025-03-30",
+      "tournament_name": "PiP Monthly Match Play @ Planet Pinball",
+      "event_name": "Main Tournament",
+      "wppr_points": "7.5300",
+      "player_count": "12",
+      "winner": {
+        "player_id": "29656",
+        "name": "Andrew Priest"
+      }
+    },
+    {
+      "tournament_id": "85608",
+      "event_end_date": "2025-03-27",
+      "tournament_name": "PiP - Frenzy @ Pinball In Perwillowen",
+      "event_name": "Main Tournament",
+      "wppr_points": "1.6800",
+      "player_count": "11",
+      "winner": {
+        "player_id": "83012",
+        "name": "Chris Murphy AUS"
+      }
+    },
+    {
+      "tournament_id": "91675",
+      "event_end_date": "2025-03-25",
+      "tournament_name": "Brisbane Pinball Club",
+      "event_name": "Main Tournament",
+      "wppr_points": "37.4100",
+      "player_count": "51",
+      "winner": {
+        "player_id": "16976",
+        "name": "Jason Lambert AUS"
+      }
+    },
+    {
+      "tournament_id": "86539",
+      "event_end_date": "2025-03-21",
+      "tournament_name": "The Pinball Clubhouse Moorooka",
+      "event_name": "Main Tournament",
+      "wppr_points": "3.5400",
+      "player_count": "13",
+      "winner": {
+        "player_id": "66715",
+        "name": "James Drury"
+      }
+    },
+    {
+      "tournament_id": "85621",
+      "event_end_date": "2025-03-20",
+      "tournament_name": "PiP - Frenzy @ Slip Stream Tap House",
+      "event_name": "Main Tournament",
+      "wppr_points": "1.9300",
+      "player_count": "11",
+      "winner": {
+        "player_id": "107031",
+        "name": "Jarod Cornish"
+      }
+    },
+    {
+      "tournament_id": "88594",
+      "event_end_date": "2025-03-17",
+      "tournament_name": "Empire Townsville Pizza + Pinball Strikes",
+      "event_name": "Main Tournament",
+      "wppr_points": "24.7400",
+      "player_count": "58",
+      "winner": {
+        "player_id": "45114",
+        "name": "Jason Lynch AUS"
+      }
+    },
+    {
+      "tournament_id": "93239",
+      "event_end_date": "2025-03-16",
+      "tournament_name": "Pinball Planet Monthly (Fair Strikes)",
+      "event_name": "Main Tournament",
+      "wppr_points": "2.4300",
+      "player_count": "10",
+      "winner": {
+        "player_id": "29656",
+        "name": "Andrew Priest"
+      }
+    },
+    {
+      "tournament_id": "86528",
+      "event_end_date": "2025-03-14",
+      "tournament_name": "White Lies Brewing Pinball Club",
+      "event_name": "Main Tournament",
+      "wppr_points": "4.7100",
+      "player_count": "11",
+      "winner": {
+        "player_id": "40543",
+        "name": "Nicolas Noben"
+      }
+    },
+    {
+      "tournament_id": "85607",
+      "event_end_date": "2025-03-13",
+      "tournament_name": "PiP - Frenzy @ Pinball In Perwillowen",
+      "event_name": "Main Tournament",
+      "wppr_points": "2.6600",
+      "player_count": "14",
+      "winner": {
+        "player_id": "72845",
+        "name": "Chad Bolitho"
+      }
+    },
+    {
+      "tournament_id": "91674",
+      "event_end_date": "2025-03-11",
+      "tournament_name": "Brisbane Pinball Club",
+      "event_name": "Main Tournament",
+      "wppr_points": "40.4900",
+      "player_count": "57",
+      "winner": {
+        "player_id": "30067",
+        "name": "Stuart Thornton"
+      }
+    },
+    {
+      "tournament_id": "88082",
+      "event_end_date": "2025-03-10",
+      "tournament_name": "ParkNplunge",
+      "event_name": "Main Tournament",
+      "wppr_points": "3.3800",
+      "player_count": "9",
+      "winner": {
+        "player_id": "91637",
+        "name": "Shane Parkes"
+      }
+    },
+    {
+      "tournament_id": "90301",
+      "event_end_date": "2025-03-05",
+      "tournament_name": "Gold Coast Pinball Club",
+      "event_name": "Main Tournament",
+      "wppr_points": "0.2400",
+      "player_count": "3",
+      "winner": {
+        "player_id": "91637",
+        "name": "Shane Parkes"
+      }
+    },
+    {
+      "tournament_id": "89766",
+      "event_end_date": "2025-03-02",
+      "tournament_name": "Yaboola on the Road - Group Matchplay 2025 #2",
+      "event_name": "Main Tournament",
+      "wppr_points": "5.0300",
+      "player_count": "9",
+      "winner": {
+        "player_id": "51330",
+        "name": "Ross Pattison"
+      }
+    },
+    {
+      "tournament_id": "85948",
+      "event_end_date": "2025-03-01",
+      "tournament_name": "Netherworld Flip Frenzy",
+      "event_name": "Main Tournament",
+      "wppr_points": "16.7900",
+      "player_count": "31",
+      "winner": {
+        "player_id": "71851",
+        "name": "Justin Hallowes"
+      }
+    },
+    {
+      "tournament_id": "92638",
+      "event_end_date": "2025-03-01",
+      "tournament_name": "PiP Monthly Match Play @ Perewillowen",
+      "event_name": "Main Tournament",
+      "wppr_points": "5.3100",
+      "player_count": "16",
+      "winner": {
+        "player_id": "83012",
+        "name": "Chris Murphy AUS"
+      }
+    },
+    {
+      "tournament_id": "93623",
+      "event_end_date": "2025-03-01",
+      "tournament_name": "Townsville Silverball Alligator March",
+      "event_name": "Main Tournament",
+      "wppr_points": "6.1900",
+      "player_count": "16",
+      "winner": {
+        "player_id": "78561",
+        "name": "Dave Beri"
+      }
+    },
+    {
+      "tournament_id": "92251",
+      "event_end_date": "2025-02-28",
+      "tournament_name": "Pinball Planet Monthly (Flip Frenzy)",
+      "event_name": "Main Tournament",
+      "wppr_points": "1.3100",
+      "player_count": "12",
+      "winner": {
+        "player_id": "83016",
+        "name": "Kieran Braden"
+      }
+    },
+    {
+      "tournament_id": "85611",
+      "event_end_date": "2025-02-27",
+      "tournament_name": "PiP - Frenzy @ Pinball In Perwillowen",
+      "event_name": "Main Tournament",
+      "wppr_points": "1.6900",
+      "player_count": "13",
+      "winner": {
+        "player_id": "107031",
+        "name": "Jarod Cornish"
+      }
+    },
+    {
+      "tournament_id": "90521",
+      "event_end_date": "2025-02-25",
+      "tournament_name": "Brisbane Pinball Club",
+      "event_name": "Main Tournament",
+      "wppr_points": "28.9000",
+      "player_count": "51",
+      "winner": {
+        "player_id": "52103",
+        "name": "Mike Pascale"
+      }
+    },
+    {
+      "tournament_id": "88673",
+      "event_end_date": "2025-02-24",
+      "tournament_name": "Empire Cairns Pizza + Pinball Strikes",
+      "event_name": "Main Tournament",
+      "wppr_points": "5.9100",
+      "player_count": "36",
+      "winner": {
+        "player_id": "118744",
+        "name": "Rose Burgess"
+      }
+    },
+    {
+      "tournament_id": "90662",
+      "event_end_date": "2025-02-23",
+      "tournament_name": "ACS Weekend - Sunday Sesh Side Comp",
+      "event_name": "Main Tournament",
+      "wppr_points": "44.5900",
+      "player_count": "105",
+      "winner": {
+        "player_id": "83016",
+        "name": "Kieran Braden"
+      }
+    },
+    {
+      "tournament_id": "85753",
+      "event_end_date": "2025-02-23",
+      "tournament_name": "IFPA Australian Championship Series",
+      "event_name": "Main Tournament",
+      "wppr_points": "163.3000",
+      "player_count": "64",
+      "winner": {
+        "player_id": "1605",
+        "name": "Escher Lefkoff"
+      }
+    },
+    {
+      "tournament_id": "90664",
+      "event_end_date": "2025-02-22",
+      "tournament_name": "ACS Weekend - Ultimate Side Comp Championship",
+      "event_name": "Main Tournament",
+      "wppr_points": "47.8000",
+      "player_count": "61",
+      "winner": {
+        "player_id": "83538",
+        "name": "Pierakim Lambda"
+      }
+    },
+    {
+      "tournament_id": "86538",
+      "event_end_date": "2025-02-21",
+      "tournament_name": "The Pinball Clubhouse Moorooka",
+      "event_name": "Main Tournament",
+      "wppr_points": "3.8200",
+      "player_count": "17",
+      "winner": {
+        "player_id": "42278",
+        "name": "Dirk Booy"
+      }
+    },
+    {
+      "tournament_id": "90663",
+      "event_end_date": "2025-02-21",
+      "tournament_name": "ACS Weekend - Level 1 Championship",
+      "event_name": "Main Tournament",
+      "wppr_points": "109.2800",
+      "player_count": "120",
+      "winner": {
+        "player_id": "16976",
+        "name": "Jason Lambert AUS"
+      }
+    },
+    {
+      "tournament_id": "85619",
+      "event_end_date": "2025-02-20",
+      "tournament_name": "PiP - Frenzy @ Slip Stream Tap House",
+      "event_name": "Main Tournament",
+      "wppr_points": "0.2900",
+      "player_count": "7",
+      "winner": {
+        "player_id": "83012",
+        "name": "Chris Murphy AUS"
+      }
+    },
+    {
+      "tournament_id": "90645",
+      "event_end_date": "2025-02-20",
+      "tournament_name": "ACS Weekend - Pizza + Pinball Strikes",
+      "event_name": "Main Tournament",
+      "wppr_points": "51.5400",
+      "player_count": "118",
+      "winner": {
+        "player_id": "1605",
+        "name": "Escher Lefkoff"
+      }
+    },
+    {
+      "tournament_id": "91284",
+      "event_end_date": "2025-02-20",
+      "tournament_name": "ACS Weekend Alligator Warm Up Best Game",
+      "event_name": "Main Tournament",
+      "wppr_points": "21.9800",
+      "player_count": "37",
+      "winner": {
+        "player_id": "73965",
+        "name": "Brett Smith WA"
+      }
+    },
+    {
+      "tournament_id": "88593",
+      "event_end_date": "2025-02-17",
+      "tournament_name": "Empire Townsville Pizza + Pinball Strikes",
+      "event_name": "Main Tournament",
+      "wppr_points": "23.1100",
+      "player_count": "49",
+      "winner": {
+        "player_id": "45114",
+        "name": "Jason Lynch AUS"
+      }
+    },
+    {
+      "tournament_id": "85613",
+      "event_end_date": "2025-02-13",
+      "tournament_name": "PiP - Frenzy @ Pinball In Perwillowen",
+      "event_name": "Main Tournament",
+      "wppr_points": "2.2800",
+      "player_count": "14",
+      "winner": {
+        "player_id": "83011",
+        "name": "Jesse Holt"
+      }
+    },
+    {
+      "tournament_id": "90395",
+      "event_end_date": "2025-02-11",
+      "tournament_name": "Brisbane Pinball Club",
+      "event_name": "Main Tournament",
+      "wppr_points": "36.5200",
+      "player_count": "59",
+      "winner": {
+        "player_id": "1605",
+        "name": "Escher Lefkoff"
+      }
+    },
+    {
+      "tournament_id": "88083",
+      "event_end_date": "2025-02-10",
+      "tournament_name": "ParkNplunge",
+      "event_name": "Main Tournament",
+      "wppr_points": "5.2600",
+      "player_count": "17",
+      "winner": {
+        "player_id": "56777",
+        "name": "Anthony Benger"
+      }
+    },
+    {
+      "tournament_id": "88680",
+      "event_end_date": "2025-02-08",
+      "tournament_name": "Townsville Silverball Series Feb Empire - Level 1",
+      "event_name": "Main Tournament",
+      "wppr_points": "24.3700",
+      "player_count": "37",
+      "winner": {
+        "player_id": "78561",
+        "name": "Dave Beri"
+      }
+    },
+    {
+      "tournament_id": "85946",
+      "event_end_date": "2025-02-08",
+      "tournament_name": "Netherworld Flip Frenzy",
+      "event_name": "Main Tournament",
+      "wppr_points": "17.6700",
+      "player_count": "30",
+      "winner": {
+        "player_id": "99800",
+        "name": "Tim Craig"
+      }
+    },
+    {
+      "tournament_id": "86527",
+      "event_end_date": "2025-02-07",
+      "tournament_name": "White Lies Brewing Pinball Club",
+      "event_name": "Main Tournament",
+      "wppr_points": "3.4900",
+      "player_count": "11",
+      "winner": {
+        "player_id": "36282",
+        "name": "Warren Beetham"
+      }
+    },
+    {
+      "tournament_id": "85618",
+      "event_end_date": "2025-02-06",
+      "tournament_name": "PiP - Frenzy @ Slip Stream Tap House",
+      "event_name": "Main Tournament",
+      "wppr_points": "1.6800",
+      "player_count": "13",
+      "winner": {
+        "player_id": "107031",
+        "name": "Jarod Cornish"
+      }
+    },
+    {
+      "tournament_id": "72674",
+      "event_end_date": "2025-02-05",
+      "tournament_name": "Gold Coast Pinball Club",
+      "event_name": "Main Tournament",
+      "wppr_points": "1.7100",
+      "player_count": "10",
+      "winner": {
+        "player_id": "53816",
+        "name": "Adam Wilson"
+      }
+    },
+    {
+      "tournament_id": "85734",
+      "event_end_date": "2025-02-02",
+      "tournament_name": "QLD Invitational",
+      "event_name": "Main Tournament",
+      "wppr_points": "100.2000",
+      "player_count": "79",
+      "winner": {
+        "player_id": "1605",
+        "name": "Escher Lefkoff"
+      }
+    },
+    {
+      "tournament_id": "85750",
+      "event_end_date": "2025-02-01",
+      "tournament_name": "QLD Strikes",
+      "event_name": "Side Tournament",
+      "wppr_points": "39.3200",
+      "player_count": "61",
+      "winner": {
+        "player_id": "58976",
+        "name": "Chris Sommerville AUS"
+      }
+    },
+    {
+      "tournament_id": "85751",
+      "event_end_date": "2025-02-01",
+      "tournament_name": "IFPA QLD State Championship",
+      "event_name": "Main Tournament",
+      "wppr_points": "37.1700",
+      "player_count": "24",
+      "winner": {
+        "player_id": "1605",
+        "name": "Escher Lefkoff"
+      }
+    },
+    {
+      "tournament_id": "85749",
+      "event_end_date": "2025-01-31",
+      "tournament_name": "QLD Matchplay Friday",
+      "event_name": "Main Tournament",
+      "wppr_points": "47.4100",
+      "player_count": "67",
+      "winner": {
+        "player_id": "14515",
+        "name": "Rob Milla"
+      }
+    },
+    {
+      "tournament_id": "85748",
+      "event_end_date": "2025-01-31",
+      "tournament_name": "QLD Frenzy!",
+      "event_name": "Main Tournament",
+      "wppr_points": "22.5200",
+      "player_count": "75",
+      "winner": {
+        "player_id": "26479",
+        "name": "Pat Nichols"
+      }
+    },
+    {
+      "tournament_id": "88684",
+      "event_end_date": "2025-01-28",
+      "tournament_name": "Brisbane Pinball Club",
+      "event_name": "Main Tournament",
+      "wppr_points": "29.3600",
+      "player_count": "56",
+      "winner": {
+        "player_id": "100900",
+        "name": "Tony Fischer"
+      }
+    },
+    {
+      "tournament_id": "88670",
+      "event_end_date": "2025-01-27",
+      "tournament_name": "Empire Cairns Pizza + Pinball Strikes",
+      "event_name": "Main Tournament",
+      "wppr_points": "4.2600",
+      "player_count": "23",
+      "winner": {
+        "player_id": "121914",
+        "name": "Adrian Broad"
+      }
+    },
+    {
+      "tournament_id": "89718",
+      "event_end_date": "2025-01-26",
+      "tournament_name": "Yaboola on the Road - Australia Day Matchplay",
+      "event_name": "Main Tournament",
+      "wppr_points": "6.9200",
+      "player_count": "11",
+      "winner": {
+        "player_id": "71138",
+        "name": "Mitchell Stewart"
+      }
+    },
+    {
+      "tournament_id": "89714",
+      "event_end_date": "2025-01-25",
+      "tournament_name": "Pinball Planet Monthly Matchplay",
+      "event_name": "Main Tournament",
+      "wppr_points": "9.5800",
+      "player_count": "19",
+      "winner": {
+        "player_id": "83016",
+        "name": "Kieran Braden"
+      }
+    },
+    {
+      "tournament_id": "89712",
+      "event_end_date": "2025-01-25",
+      "tournament_name": "Pinball Planet Best Game",
+      "event_name": "Side Tournament",
+      "wppr_points": "1.6300",
+      "player_count": "12",
+      "winner": {
+        "player_id": "107535",
+        "name": "Thomas Priest"
+      }
+    },
+    {
+      "tournament_id": "89715",
+      "event_end_date": "2025-01-25",
+      "tournament_name": "Pinball Planet Flip Frenzy",
+      "event_name": "Side Tournament",
+      "wppr_points": "0.9600",
+      "player_count": "10",
+      "winner": {
+        "player_id": "80924",
+        "name": "Justin Thompson"
+      }
+    },
+    {
+      "tournament_id": "85617",
+      "event_end_date": "2025-01-23",
+      "tournament_name": "PiP - Frenzy @ Slip Stream Tap House",
+      "event_name": "Main Tournament",
+      "wppr_points": "2.6900",
+      "player_count": "19",
+      "winner": {
+        "player_id": "64083",
+        "name": "Dane Stotschek"
+      }
+    },
+    {
+      "tournament_id": "88595",
+      "event_end_date": "2025-01-20",
+      "tournament_name": "Empire Townsville Pizza + Pinball Strikes",
+      "event_name": "Main Tournament",
+      "wppr_points": "22.0200",
+      "player_count": "54",
+      "winner": {
+        "player_id": "45114",
+        "name": "Jason Lynch AUS"
+      }
+    },
+    {
+      "tournament_id": "86537",
+      "event_end_date": "2025-01-17",
+      "tournament_name": "The Pinball Clubhouse Moorooka",
+      "event_name": "Main Tournament",
+      "wppr_points": "6.0600",
+      "player_count": "21",
+      "winner": {
+        "player_id": "83538",
+        "name": "Pierakim Lambda"
+      }
+    },
+    {
+      "tournament_id": "85747",
+      "event_end_date": "2025-01-14",
+      "tournament_name": "Brisbane Pinball Club",
+      "event_name": "Main Tournament",
+      "wppr_points": "31.9600",
+      "player_count": "52",
+      "winner": {
+        "player_id": "44835",
+        "name": "Thandrie Davis"
+      }
+    },
+    {
+      "tournament_id": "88084",
+      "event_end_date": "2025-01-13",
+      "tournament_name": "ParkNplunge",
+      "event_name": "Main Tournament",
+      "wppr_points": "6.5400",
+      "player_count": "16",
+      "winner": {
+        "player_id": "78660",
+        "name": "Gordon MacMaster"
+      }
+    },
+    {
+      "tournament_id": "88045",
+      "event_end_date": "2025-01-11",
+      "tournament_name": "Townsville Silverball Series Jan Mt Low",
+      "event_name": "Main Tournament",
+      "wppr_points": "5.2300",
+      "player_count": "17",
+      "winner": {
+        "player_id": "26283",
+        "name": "Lewis Milla"
+      }
+    },
+    {
+      "tournament_id": "85945",
+      "event_end_date": "2025-01-11",
+      "tournament_name": "Netherworld Flip Frenzy",
+      "event_name": "Main Tournament",
+      "wppr_points": "19.2200",
+      "player_count": "33",
+      "winner": {
+        "player_id": "16976",
+        "name": "Jason Lambert AUS"
+      }
+    },
+    {
+      "tournament_id": "86526",
+      "event_end_date": "2025-01-10",
+      "tournament_name": "White Lies Brewing Pinball Club",
+      "event_name": "Main Tournament",
+      "wppr_points": "7.0300",
+      "player_count": "16",
+      "winner": {
+        "player_id": "66715",
+        "name": "James Drury"
+      }
+    },
+    {
+      "tournament_id": "85616",
+      "event_end_date": "2025-01-09",
+      "tournament_name": "PiP - Frenzy @ Slip Stream Tap House",
+      "event_name": "Main Tournament",
+      "wppr_points": "2.3200",
+      "player_count": "19",
+      "winner": {
+        "player_id": "64083",
+        "name": "Dane Stotschek"
+      }
+    },
+    {
+      "tournament_id": "72663",
+      "event_end_date": "2025-01-08",
+      "tournament_name": "Gold Coast Pinball Club",
+      "event_name": "Main Tournament",
+      "wppr_points": "2.4200",
+      "player_count": "16",
+      "winner": {
+        "player_id": "36282",
+        "name": "Warren Beetham"
+      }
+    }
+  ]
+}

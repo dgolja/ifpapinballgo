@@ -1,0 +1,47 @@
+{
+  "name": "Pete Hendricks",
+  "profile_photo": "",
+  "default_tournament_photo": "https://www.ifpapinball.com/images/ifpa_gray.jpg",
+  "director_id": "13",
+  "player_id": null,
+  "city": null,
+  "stateprov": null,
+  "country_name": null,
+  "country_code": null,
+  "country_id": null,
+  "twitch_username": null,
+  "stats": {
+    "tournament_count": "146",
+    "unique_location_count": "17",
+    "women_tournament_count": "14",
+    "league_count": "75",
+    "highest_value": "61.29",
+    "average_value": "14.85",
+    "total_player_count": "5542",
+    "unique_player_count": "943",
+    "first_time_player_count": "466",
+    "repeat_player_count": "299",
+    "largest_event_count": "177",
+    "single_format_count": "17",
+    "multiple_format_count": "88",
+    "unknown_format_count": "45",
+    "formats": [
+      {
+        "name": "Match Play",
+        "count": "12"
+      },
+      {
+        "name": "Progressive Strike Knockout",
+        "count": "2"
+      },
+      {
+        "name": "Strike Knockout",
+        "count": "2"
+      },
+      {
+        "name": "Target Match Play",
+        "count": "1"
+      }
+    ]
+  }
+}

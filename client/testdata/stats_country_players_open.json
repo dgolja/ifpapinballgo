@@ -1,0 +1,126 @@
+{
+  "type": "Players by Country",
+  "rank_type": "OPEN",
+  "stats": [
+    {
+      "country_name": "United States",
+      "country_code": "US",
+      "player_count": "47944",
+      "stats_rank": 1
+    },
+    {
+      "country_name": "Canada",
+      "country_code": "CA",
+      "player_count": "4559",
+      "stats_rank": 2
+    },
+    {
+      "country_name": "Australia",
+      "country_code": "AU",
+      "player_count": "3487",
+      "stats_rank": 3
+    },
+    {
+      "country_name": "Germany",
+      "country_code": "DE",
+      "player_count": "2025",
+      "stats_rank": 4
+    },
+    {
+      "country_name": "Sweden",
+      "country_code": "SE",
+      "player_count": "1959",
+      "stats_rank": 5
+    },
+    {
+      "country_name": "France",
+      "country_code": "FR",
+      "player_count": "1056",
+      "stats_rank": 6
+    },
+    {
+      "country_name": "Norway",
+      "country_code": "NO",
+      "player_count": "949",
+      "stats_rank": 7
+    },
+    {
+      "country_name": "Finland",
+      "country_code": "FI",
+      "player_count": "704",
+      "stats_rank": 8
+    },
+    {
+      "country_name": "New Zealand",
+      "country_code": "NZ",
+      "player_count": "647",
+      "stats_rank": 9
+    },
+    {
+      "country_name": "United Kingdom",
+      "country_code": "GB",
+      "player_count": "623",
+      "stats_rank": 10
+    },
+    {
+      "country_name": "Spain",
+      "country_code": "ES",
+      "player_count": "599",
+      "stats_rank": 11
+    },
+    {
+      "country_name": "Netherlands",
+      "country_code": "NL",
+      "player_count": "508",
+      "stats_rank": 12
+    },
+    {
+      "country_name": "Austria",
+      "country_code": "AT",
+      "player_count": "476",
+      "stats_rank": 13
+    },
+    {
+      "country_name": "Belgium",
+      "country_code": "BE",
+      "player_count": "415",
+      "stats_rank": 14
+    },
+    {
+      "country_name": "Switzerland",
+      "country_code": "CH",
+      "player_count": "353",
+      "stats_rank": 15
+    },
+    {
+      "country_name": "Hungary",
+      "country_code": "HU",
+      "player_count": "270",
+      "stats_rank": 16
+    },
+    {
+      "country_name": "Italy",
+      "country_code": "IT",
+      "player_count": "214",
+      "stats_rank": 17
+    },
+    {
+      "country_name": "Denmark",
+      "country_code": "DK",
+      "player_count": "200",
+      "stats_rank": 18
+    },
+    {
+      "country_name": "Japan",
+      "country_code": "JP",
+      "player_count": "192",
+      "stats_rank": 19
+    },
+    {
+      "country_name": "Poland",
+      "country_code": "PL",
+      "player_count": "166",
+      "stats_rank": 20
+    }
+  ]
+}

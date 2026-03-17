@@ -1,0 +1,48 @@
+{
+  "series": [
+    {
+      "code": "NACS",
+      "title": "North American Championship Series",
+      "years": [
+        "2022",
+        "2023",
+        "2024",
+        "2025",
+        "2026"
+      ]
+    },
+    {
+      "code": "WNACSO",
+      "title": "Women's North American Championship Series (Open)",
+      "years": [
+        "2022",
+        "2023",
+        "2024",
+        "2025",
+        "2026"
+      ]
+    },
+    {
+      "code": "WNACSW",
+      "title": "Women's North American Championship Series (Women)",
+      "years": [
+        "2022",
+        "2023",
+        "2024",
+        "2025",
+        "2026"
+      ]
+    },
+    {
+      "code": "ACS",
+      "title": "Australian Championship Series",
+      "years": [
+        "2022",
+        "2023",
+        "2024",
+        "2025",
+        "2026"
+      ]
+    }
+  ]
+}
