@@ -1,0 +1,6 @@
+package: client
+generate:
+  client: true
+output-options:
+  skip-prune: true
+output: client/client.gen.go

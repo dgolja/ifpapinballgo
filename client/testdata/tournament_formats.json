@@ -1,0 +1,131 @@
+{
+  "qualifying_formats": [
+    {
+      "format_id": "4",
+      "name": "Best Game",
+      "description": "aka \"Herb\""
+    },
+    {
+      "format_id": "2",
+      "name": "Card Format",
+      "description": "aka \"PAPA Style Qualifying\""
+    },
+    {
+      "format_id": "12",
+      "name": "Fair Strike",
+      "description": "Get a strike for not winning your group, last place in the group gets an additional strike, then eliminated after a certain number of strikes"
+    },
+    {
+      "format_id": "9",
+      "name": "Flip Frenzy",
+      "description": ""
+    },
+    {
+      "format_id": "8",
+      "name": "Matchplay Qualifying",
+      "description": ""
+    },
+    {
+      "format_id": "14",
+      "name": "Max Matchplay Qualifying",
+      "description": "A new tournament format meant as an alternative to Flip Frenzy or as a replacement for Round Robin tournaments. You’ll always have the maximum about of matches going and when games finish you can immediately create new ones to replace them."
+    },
+    {
+      "format_id": "15",
+      "name": "Pin Bowling",
+      "description": ""
+    },
+    {
+      "format_id": "6",
+      "name": "Pin-Golf Qualifying",
+      "description": ""
+    },
+    {
+      "format_id": "11",
+      "name": "Progressive Strike",
+      "description": "Earn a strike for not winning a match for each position that is lost to the group winner, then eliminated after a certain number of strikes"
+    },
+    {
+      "format_id": "10",
+      "name": "Strike Knockout",
+      "description": "Earn a Strike for losing and get eliminated after a certain number of strikes"
+    },
+    {
+      "format_id": "13",
+      "name": "Target Matchplay",
+      "description": "Matchplay format, except Qualifying is over once a player achieves a target number of points earned."
+    }
+  ],
+  "finals_formats": [
+    {
+      "format_id": "28",
+      "name": "Amazing Race",
+      "description": "Amazing Race has all participants playing 1 machine, with the player finishing in last place being eliminated. Assuming this event is played until only 1 player remains, the number of meaningful games towards TGP is one more than the total number of playe"
+    },
+    {
+      "format_id": "24",
+      "name": "Custom League",
+      "description": "Usually a variation of group play formats"
+    },
+    {
+      "format_id": "4",
+      "name": "Double Elimination",
+      "description": ""
+    },
+    {
+      "format_id": "12",
+      "name": "Fair Strike Knockout",
+      "description": ""
+    },
+    {
+      "format_id": "20",
+      "name": "Flip Frenzy",
+      "description": ""
+    },
+    {
+      "format_id": "18",
+      "name": "Ladder Format",
+      "description": ""
+    },
+    {
+      "format_id": "16",
+      "name": "Match Play",
+      "description": ""
+    },
+    {
+      "format_id": "26",
+      "name": "Max Match Play",
+      "description": "A new tournament format meant as an alternative to Flip Frenzy or as a replacement for Round Robin tournaments. You’ll always have the maximum about of matches going and when games finish you can immediately create new ones to replace them."
+    },
+    {
+      "format_id": "27",
+      "name": "Pin Bowling",
+      "description": ""
+    },
+    {
+      "format_id": "29",
+      "name": "PinGolf",
+      "description": ""
+    },
+    {
+      "format_id": "14",
+      "name": "Progressive Strike Knockout",
+      "description": ""
+    },
+    {
+      "format_id": "2",
+      "name": "Single Elimination",
+      "description": ""
+    },
+    {
+      "format_id": "25",
+      "name": "Strike Knockout",
+      "description": ""
+    },
+    {
+      "format_id": "22",
+      "name": "Target Match Play",
+      "description": ""
+    }
+  ]
+}

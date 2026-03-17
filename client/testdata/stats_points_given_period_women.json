@@ -1,0 +1,234 @@
+{
+  "type": "Points given Period",
+  "start_date": "2024-01-01",
+  "end_date": "2024-12-31",
+  "return_count": 25,
+  "rank_type": "WOMEN",
+  "stats": [
+    {
+      "player_id": "47411",
+      "first_name": "Leslie",
+      "last_name": "Ruckman",
+      "country_name": "United States",
+      "country_code": "US",
+      "wppr_points": "508.39",
+      "stats_rank": 1
+    },
+    {
+      "player_id": "53105",
+      "first_name": "Jane",
+      "last_name": "Verwys",
+      "country_name": "United States",
+      "country_code": "US",
+      "wppr_points": "477.78",
+      "stats_rank": 2
+    },
+    {
+      "player_id": "81966",
+      "first_name": "Alice",
+      "last_name": "Young",
+      "country_name": "United States",
+      "country_code": "US",
+      "wppr_points": "461.53",
+      "stats_rank": 3
+    },
+    {
+      "player_id": "40874",
+      "first_name": "Deborah",
+      "last_name": "Tahlman",
+      "country_name": "United States",
+      "country_code": "US",
+      "wppr_points": "435.39",
+      "stats_rank": 4
+    },
+    {
+      "player_id": "39067",
+      "first_name": "Valencia",
+      "last_name": "Kelly",
+      "country_name": "United States",
+      "country_code": "US",
+      "wppr_points": "424.80",
+      "stats_rank": 5
+    },
+    {
+      "player_id": "5363",
+      "first_name": "Zoe",
+      "last_name": "Vrabel",
+      "country_name": "United States",
+      "country_code": "US",
+      "wppr_points": "376.54",
+      "stats_rank": 6
+    },
+    {
+      "player_id": "49083",
+      "first_name": "Ashley",
+      "last_name": "Weaver",
+      "country_name": "United States",
+      "country_code": "US",
+      "wppr_points": "321.99",
+      "stats_rank": 7
+    },
+    {
+      "player_id": "42709",
+      "first_name": "Anna",
+      "last_name": "Neal",
+      "country_name": "United States",
+      "country_code": "US",
+      "wppr_points": "302.55",
+      "stats_rank": 8
+    },
+    {
+      "player_id": "91236",
+      "first_name": "Hope",
+      "last_name": "Love",
+      "country_name": "United States",
+      "country_code": "US",
+      "wppr_points": "286.36",
+      "stats_rank": 9
+    },
+    {
+      "player_id": "42345",
+      "first_name": "Cindy",
+      "last_name": "Grote",
+      "country_name": "United States",
+      "country_code": "US",
+      "wppr_points": "279.63",
+      "stats_rank": 10
+    },
+    {
+      "player_id": "44792",
+      "first_name": "Holly",
+      "last_name": "Koskinen",
+      "country_name": "United States",
+      "country_code": "US",
+      "wppr_points": "264.57",
+      "stats_rank": 11
+    },
+    {
+      "player_id": "37788",
+      "first_name": "Kaite",
+      "last_name": "Martin",
+      "country_name": "United States",
+      "country_code": "US",
+      "wppr_points": "260.62",
+      "stats_rank": 12
+    },
+    {
+      "player_id": "19305",
+      "first_name": "Louise",
+      "last_name": "Wagensonner",
+      "country_name": "United States",
+      "country_code": "US",
+      "wppr_points": "253.50",
+      "stats_rank": 13
+    },
+    {
+      "player_id": "48800",
+      "first_name": "Stephanie",
+      "last_name": "Traub",
+      "country_name": "United States",
+      "country_code": "US",
+      "wppr_points": "248.75",
+      "stats_rank": 14
+    },
+    {
+      "player_id": "36308",
+      "first_name": "Rachel",
+      "last_name": "Karlic",
+      "country_name": "United States",
+      "country_code": "US",
+      "wppr_points": "237.59",
+      "stats_rank": 15
+    },
+    {
+      "player_id": "36799",
+      "first_name": "Miriam",
+      "last_name": "Nadler",
+      "country_name": "United States",
+      "country_code": "US",
+      "wppr_points": "235.10",
+      "stats_rank": 16
+    },
+    {
+      "player_id": "81902",
+      "first_name": "Amanda",
+      "last_name": "Fincher",
+      "country_name": "United States",
+      "country_code": "US",
+      "wppr_points": "234.20",
+      "stats_rank": 17
+    },
+    {
+      "player_id": "24697",
+      "first_name": "Tracy",
+      "last_name": "Lindbergh",
+      "country_name": "United States",
+      "country_code": "US",
+      "wppr_points": "223.14",
+      "stats_rank": 18
+    },
+    {
+      "player_id": "22248",
+      "first_name": "Anna",
+      "last_name": "Wolk",
+      "country_name": "United States",
+      "country_code": "US",
+      "wppr_points": "222.49",
+      "stats_rank": 19
+    },
+    {
+      "player_id": "99758",
+      "first_name": "Ailsa",
+      "last_name": "Riddell",
+      "country_name": "United States",
+      "country_code": "US",
+      "wppr_points": "198.51",
+      "stats_rank": 20
+    },
+    {
+      "player_id": "53587",
+      "first_name": "Elizabeth",
+      "last_name": "Dronet",
+      "country_name": "United States",
+      "country_code": "US",
+      "wppr_points": "195.56",
+      "stats_rank": 21
+    },
+    {
+      "player_id": "44320",
+      "first_name": "Jackie",
+      "last_name": "Olson",
+      "country_name": "United States",
+      "country_code": "US",
+      "wppr_points": "192.79",
+      "stats_rank": 22
+    },
+    {
+      "player_id": "59655",
+      "first_name": "Samantha",
+      "last_name": "Bacon",
+      "country_name": "United States",
+      "country_code": "US",
+      "wppr_points": "191.57",
+      "stats_rank": 23
+    },
+    {
+      "player_id": "90102",
+      "first_name": "Elyza",
+      "last_name": "Brillantes",
+      "country_name": "United States",
+      "country_code": "US",
+      "wppr_points": "184.16",
+      "stats_rank": 24
+    },
+    {
+      "player_id": "34416",
+      "first_name": "Kaylee",
+      "last_name": "Campbell",
+      "country_name": "United States",
+      "country_code": "US",
+      "wppr_points": "176.45",
+      "stats_rank": 25
+    }
+  ]
+}

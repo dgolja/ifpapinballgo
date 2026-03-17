@@ -1,0 +1,263 @@
+{
+  "search_term": "Andrew",
+  "count": 16,
+  "total_results": "16",
+  "directors": [
+    {
+      "director_id": "3478",
+      "name": "Andrew Gliatis",
+      "city": "",
+      "stateprov": "",
+      "country_name": "Australia",
+      "country_code": "AU",
+      "profile_photo": "https://www.ifpapinball.com/images/profiles/director/3478.jpg",
+      "stats": {
+        "event_count": "50",
+        "future_event_count": "51",
+        "unique_player_count": "149",
+        "total_player_count": "1159",
+        "last_event_date": "2026-02-26"
+      }
+    },
+    {
+      "director_id": "2861",
+      "name": "Andrew Robishaw",
+      "city": "Valrico",
+      "stateprov": "FL",
+      "country_name": "United States",
+      "country_code": "US",
+      "profile_photo": "https://www.ifpapinball.com/images/profiles/director/2861.jpg",
+      "stats": {
+        "event_count": "75",
+        "future_event_count": "2",
+        "unique_player_count": "264",
+        "total_player_count": "1309",
+        "last_event_date": "2026-02-21"
+      }
+    },
+    {
+      "director_id": "3343",
+      "name": "Andrew Pegg-Wheat",
+      "city": null,
+      "stateprov": null,
+      "country_name": null,
+      "country_code": null,
+      "profile_photo": null,
+      "stats": {
+        "event_count": "24",
+        "future_event_count": "2",
+        "unique_player_count": "55",
+        "total_player_count": "176",
+        "last_event_date": "2026-02-19"
+      }
+    },
+    {
+      "director_id": "1105",
+      "name": "Andrew Stevens",
+      "city": null,
+      "stateprov": null,
+      "country_name": null,
+      "country_code": null,
+      "profile_photo": null,
+      "stats": {
+        "event_count": "242",
+        "future_event_count": "10",
+        "unique_player_count": "629",
+        "total_player_count": "5482",
+        "last_event_date": "2026-02-13"
+      }
+    },
+    {
+      "director_id": "3744",
+      "name": "Andrew Alvino",
+      "city": null,
+      "stateprov": null,
+      "country_name": null,
+      "country_code": null,
+      "profile_photo": null,
+      "stats": {
+        "event_count": "1",
+        "future_event_count": "0",
+        "unique_player_count": "14",
+        "total_player_count": "14",
+        "last_event_date": "2026-01-31"
+      }
+    },
+    {
+      "director_id": "3286",
+      "name": "Andrew Reamer",
+      "city": null,
+      "stateprov": null,
+      "country_name": null,
+      "country_code": null,
+      "profile_photo": null,
+      "stats": {
+        "event_count": "3",
+        "future_event_count": "0",
+        "unique_player_count": "89",
+        "total_player_count": "130",
+        "last_event_date": "2025-11-01"
+      }
+    },
+    {
+      "director_id": "3037",
+      "name": "Andrew Wilkening",
+      "city": "Chicago",
+      "stateprov": "IL",
+      "country_name": "United States",
+      "country_code": "US",
+      "profile_photo": "https://www.ifpapinball.com/images/profiles/director/3037.jpg",
+      "stats": {
+        "event_count": "12",
+        "future_event_count": "0",
+        "unique_player_count": "172",
+        "total_player_count": "450",
+        "last_event_date": "2025-10-31"
+      }
+    },
+    {
+      "director_id": "3339",
+      "name": "Andrew Priest",
+      "city": "Hervey Bay",
+      "stateprov": "QLD",
+      "country_name": "Australia",
+      "country_code": "AU",
+      "profile_photo": null,
+      "stats": {
+        "event_count": "13",
+        "future_event_count": "3",
+        "unique_player_count": "43",
+        "total_player_count": "132",
+        "last_event_date": "2025-10-19"
+      }
+    },
+    {
+      "director_id": "3588",
+      "name": "Andrew Goulson",
+      "city": null,
+      "stateprov": null,
+      "country_name": null,
+      "country_code": null,
+      "profile_photo": null,
+      "stats": {
+        "event_count": "2",
+        "future_event_count": "0",
+        "unique_player_count": "12",
+        "total_player_count": "16",
+        "last_event_date": "2025-09-23"
+      }
+    },
+    {
+      "director_id": "3630",
+      "name": "Andrew Tarrant",
+      "city": null,
+      "stateprov": null,
+      "country_name": null,
+      "country_code": null,
+      "profile_photo": null,
+      "stats": {
+        "event_count": "1",
+        "future_event_count": "0",
+        "unique_player_count": "23",
+        "total_player_count": "23",
+        "last_event_date": "2025-09-19"
+      }
+    },
+    {
+      "director_id": "2614",
+      "name": "Andrew Lee",
+      "city": null,
+      "stateprov": null,
+      "country_name": null,
+      "country_code": null,
+      "profile_photo": null,
+      "stats": {
+        "event_count": "4",
+        "future_event_count": "0",
+        "unique_player_count": "50",
+        "total_player_count": "96",
+        "last_event_date": "2025-01-18"
+      }
+    },
+    {
+      "director_id": "2957",
+      "name": "Andrew Kassan",
+      "city": null,
+      "stateprov": null,
+      "country_name": null,
+      "country_code": null,
+      "profile_photo": null,
+      "stats": {
+        "event_count": "2",
+        "future_event_count": "0",
+        "unique_player_count": "8",
+        "total_player_count": "8",
+        "last_event_date": "2023-12-14"
+      }
+    },
+    {
+      "director_id": "1262",
+      "name": "Andrew Mulkey",
+      "city": null,
+      "stateprov": null,
+      "country_name": null,
+      "country_code": null,
+      "profile_photo": null,
+      "stats": {
+        "event_count": "10",
+        "future_event_count": "0",
+        "unique_player_count": "128",
+        "total_player_count": "260",
+        "last_event_date": "2020-03-01"
+      }
+    },
+    {
+      "director_id": "1412",
+      "name": "Andrew Garand",
+      "city": null,
+      "stateprov": null,
+      "country_name": null,
+      "country_code": null,
+      "profile_photo": null,
+      "stats": {
+        "event_count": "1",
+        "future_event_count": "0",
+        "unique_player_count": "10",
+        "total_player_count": "10",
+        "last_event_date": "2020-01-20"
+      }
+    },
+    {
+      "director_id": "1814",
+      "name": "Andrew Ferguson",
+      "city": null,
+      "stateprov": null,
+      "country_name": null,
+      "country_code": null,
+      "profile_photo": null,
+      "stats": {
+        "event_count": "2",
+        "future_event_count": "0",
+        "unique_player_count": "33",
+        "total_player_count": "57",
+        "last_event_date": "2015-12-13"
+      }
+    },
+    {
+      "director_id": "1813",
+      "name": "Andrew Shear",
+      "city": null,
+      "stateprov": null,
+      "country_name": null,
+      "country_code": null,
+      "profile_photo": null,
+      "stats": {
+        "event_count": "2",
+        "future_event_count": "0",
+        "unique_player_count": "18",
+        "total_player_count": "18",
+        "last_event_date": "2015-11-13"
+      }
+    }
+  ]
+}

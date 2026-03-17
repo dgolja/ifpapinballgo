@@ -1,0 +1,52 @@
+{
+  "player_id": 44334,
+  "results_type": "active",
+  "results_count": 4,
+  "rank_type": "MAIN",
+  "results": [
+    {
+      "tournament_name": "Flippermania II",
+      "tournament_id": "96729",
+      "country_name": "Australia",
+      "country_code": "AU",
+      "event_name": "Main Tournament",
+      "event_date": "2025-06-21",
+      "position": "17",
+      "original_points": "0.9700",
+      "current_points": "0.97"
+    },
+    {
+      "tournament_name": "Flipper Fellowship Max Matchplay",
+      "tournament_id": "94250",
+      "country_name": "Australia",
+      "country_code": "AU",
+      "event_name": "Main Tournament",
+      "event_date": "2025-04-26",
+      "position": "4",
+      "original_points": "5.2400",
+      "current_points": "5.24"
+    },
+    {
+      "tournament_name": "Beercade 7- 29/03/25",
+      "tournament_id": "87526",
+      "country_name": "Australia",
+      "country_code": "AU",
+      "event_name": "Main Tournament",
+      "event_date": "2025-03-29",
+      "position": "13",
+      "original_points": "0.3600",
+      "current_points": "0.36"
+    },
+    {
+      "tournament_name": "Beercade 1- 04/01/25",
+      "tournament_id": "87532",
+      "country_name": "Australia",
+      "country_code": "AU",
+      "event_name": "Main Tournament",
+      "event_date": "2025-01-04",
+      "position": "10",
+      "original_points": "0.0200",
+      "current_points": "0.02"
+    }
+  ]
+}

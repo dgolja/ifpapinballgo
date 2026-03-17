@@ -1,0 +1,69 @@
+{
+  "series_code": "ACS",
+  "representative": [
+    {
+      "player_key": "55833",
+      "player_id": "55833",
+      "name": "James Todd AUS",
+      "region_code": "ACT",
+      "region_name": "Australian Capital Territory",
+      "profile_photo": "https://www.ifpapinball.com/images/profiles/players/55833.jpg"
+    },
+    {
+      "player_key": "90228",
+      "player_id": "90228",
+      "name": "Andrew Gliatis",
+      "region_code": "NSW",
+      "region_name": "New South Wales",
+      "profile_photo": "https://www.ifpapinball.com/images/profiles/players/90228.jpg"
+    },
+    {
+      "player_key": "83014",
+      "player_id": "83014",
+      "name": "Alexander Henriksen",
+      "region_code": "QLD",
+      "region_name": "Queensland",
+      "profile_photo": ""
+    },
+    {
+      "player_key": "84507",
+      "player_id": "84507",
+      "name": "Jan Saurbrey",
+      "region_code": "SA",
+      "region_name": "South Australia",
+      "profile_photo": "https://www.ifpapinball.com/images/profiles/players/84507.jpg"
+    },
+    {
+      "player_key": "22413",
+      "player_id": "22413",
+      "name": "Scottie Taylor",
+      "region_code": "SA",
+      "region_name": "South Australia",
+      "profile_photo": "https://www.ifpapinball.com/images/profiles/players/22413.jpg"
+    },
+    {
+      "player_key": "35630",
+      "player_id": "35630",
+      "name": "Stacey Borg",
+      "region_code": "Vic",
+      "region_name": "Victoria",
+      "profile_photo": "https://www.ifpapinball.com/images/profiles/players/35630.jpg"
+    },
+    {
+      "player_key": "29636",
+      "player_id": "29636",
+      "name": "Ryan Cee",
+      "region_code": "Vic",
+      "region_name": "Victoria",
+      "profile_photo": "https://www.ifpapinball.com/images/profiles/players/29636.jpg"
+    },
+    {
+      "player_key": "82530",
+      "player_id": "82530",
+      "name": "Brett Paton",
+      "region_code": "WA",
+      "region_name": "Western Australia",
+      "profile_photo": "https://www.ifpapinball.com/images/profiles/players/82530.jpg"
+    }
+  ]
+}

@@ -1,0 +1,169 @@
+{
+  "series_code": "ACS",
+  "region_code": "NSW",
+  "year": 2025,
+  "player_id": "90228",
+  "player_name": "Andrew Gliatis",
+  "player_card": [
+    {
+      "tournament_id": "92732",
+      "tournament_name": "Pinawarra 31",
+      "event_name": "Main Tournament",
+      "event_end_date": "2025-12-13",
+      "wppr_points": "18.2800",
+      "region_event_rank": "12"
+    },
+    {
+      "tournament_id": "96595",
+      "tournament_name": "Flipper Fellowship Thursday Max Matchplay",
+      "event_name": "Main Tournament",
+      "event_end_date": "2025-12-04",
+      "wppr_points": "11.9300",
+      "region_event_rank": "17"
+    },
+    {
+      "tournament_id": "101776",
+      "tournament_name": "Australian Open Classics",
+      "event_name": "Classics",
+      "event_end_date": "2025-11-29",
+      "wppr_points": "40.6100",
+      "region_event_rank": "2"
+    },
+    {
+      "tournament_id": "101777",
+      "tournament_name": "Australian Pinball Open",
+      "event_name": "Main Tournament",
+      "event_end_date": "2025-11-29",
+      "wppr_points": "23.0600",
+      "region_event_rank": "9"
+    },
+    {
+      "tournament_id": "101775",
+      "tournament_name": "Aus Pinball Open Target Matchplay",
+      "event_name": "Side Tournament",
+      "event_end_date": "2025-11-27",
+      "wppr_points": "29.8200",
+      "region_event_rank": "5"
+    },
+    {
+      "tournament_id": "100490",
+      "tournament_name": "Flipper Fellowship Thursday Max Matchplay",
+      "event_name": "Main Tournament",
+      "event_end_date": "2025-11-20",
+      "wppr_points": "10.6800",
+      "region_event_rank": "20"
+    },
+    {
+      "tournament_id": "96809",
+      "tournament_name": "Flippermania",
+      "event_name": "Main Tournament",
+      "event_end_date": "2025-11-15",
+      "wppr_points": "35.6600",
+      "region_event_rank": "3"
+    },
+    {
+      "tournament_id": "98566",
+      "tournament_name": "Flippermania",
+      "event_name": "Main Tournament",
+      "event_end_date": "2025-10-18",
+      "wppr_points": "30.6600",
+      "region_event_rank": "4"
+    },
+    {
+      "tournament_id": "96605",
+      "tournament_name": "Flipper Fellowship Thursday Group Matchplay",
+      "event_name": "Main Tournament",
+      "event_end_date": "2025-10-09",
+      "wppr_points": "11.2000",
+      "region_event_rank": "18"
+    },
+    {
+      "tournament_id": "92729",
+      "tournament_name": "Pinawarra 28",
+      "event_name": "Main Tournament",
+      "event_end_date": "2025-09-13",
+      "wppr_points": "28.1900",
+      "region_event_rank": "7"
+    },
+    {
+      "tournament_id": "92728",
+      "tournament_name": "Pinawarra 27",
+      "event_name": "Main Tournament",
+      "event_end_date": "2025-08-09",
+      "wppr_points": "29.7600",
+      "region_event_rank": "6"
+    },
+    {
+      "tournament_id": "99226",
+      "tournament_name": "Flippermania",
+      "event_name": "Main Tournament",
+      "event_end_date": "2025-07-26",
+      "wppr_points": "24.9100",
+      "region_event_rank": "8"
+    },
+    {
+      "tournament_id": "96729",
+      "tournament_name": "Flippermania II",
+      "event_name": "Main Tournament",
+      "event_end_date": "2025-06-21",
+      "wppr_points": "10.9000",
+      "region_event_rank": "19"
+    },
+    {
+      "tournament_id": "92725",
+      "tournament_name": "Pinawarra 25",
+      "event_name": "Main Tournament",
+      "event_end_date": "2025-06-14",
+      "wppr_points": "13.9400",
+      "region_event_rank": "15"
+    },
+    {
+      "tournament_id": "92723",
+      "tournament_name": "Pinawarra 24",
+      "event_name": "Main Tournament",
+      "event_end_date": "2025-05-10",
+      "wppr_points": "19.7300",
+      "region_event_rank": "11"
+    },
+    {
+      "tournament_id": "94247",
+      "tournament_name": "Illawarra Masters Group Matchplay",
+      "event_name": "Main Tournament",
+      "event_end_date": "2025-04-20",
+      "wppr_points": "41.8800",
+      "region_event_rank": "1"
+    },
+    {
+      "tournament_id": "94246",
+      "tournament_name": "Illawarra Masters Card-based Best Game",
+      "event_name": "Side Tournament",
+      "event_end_date": "2025-04-20",
+      "wppr_points": "12.2600",
+      "region_event_rank": "16"
+    },
+    {
+      "tournament_id": "94245",
+      "tournament_name": "Illawarra Masters Target Matchplay",
+      "event_name": "Side Tournament",
+      "event_end_date": "2025-04-18",
+      "wppr_points": "16.4300",
+      "region_event_rank": "13"
+    },
+    {
+      "tournament_id": "92460",
+      "tournament_name": "Illawarra Tuesday Season 2 2025",
+      "event_name": "League",
+      "event_end_date": "2025-04-15",
+      "wppr_points": "21.0500",
+      "region_event_rank": "10"
+    },
+    {
+      "tournament_id": "92719",
+      "tournament_name": "Pinawarra 22",
+      "event_name": "Main Tournament",
+      "event_end_date": "2025-03-08",
+      "wppr_points": "15.6100",
+      "region_event_rank": "14"
+    }
+  ]
+}

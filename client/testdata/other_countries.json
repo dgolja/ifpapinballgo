@@ -1,0 +1,376 @@
+{
+  "country": [
+    {
+      "country_id": "5",
+      "country_name": "Argentina",
+      "country_code": "AR",
+      "active_flag": "Y"
+    },
+    {
+      "country_id": "7",
+      "country_name": "Australia",
+      "country_code": "AU",
+      "active_flag": "Y"
+    },
+    {
+      "country_id": "8",
+      "country_name": "Austria",
+      "country_code": "AT",
+      "active_flag": "Y"
+    },
+    {
+      "country_id": "9",
+      "country_name": "Azerbaijan",
+      "country_code": "AZ",
+      "active_flag": "Y"
+    },
+    {
+      "country_id": "15",
+      "country_name": "Belgium",
+      "country_code": "BE",
+      "active_flag": "Y"
+    },
+    {
+      "country_id": "20",
+      "country_name": "Bosnia",
+      "country_code": "BA",
+      "active_flag": "Y"
+    },
+    {
+      "country_id": "22",
+      "country_name": "Brazil",
+      "country_code": "BR",
+      "active_flag": "Y"
+    },
+    {
+      "country_id": "29",
+      "country_name": "Canada",
+      "country_code": "CA",
+      "active_flag": "Y"
+    },
+    {
+      "country_id": "32",
+      "country_name": "Chile",
+      "country_code": "CL",
+      "active_flag": "Y"
+    },
+    {
+      "country_id": "33",
+      "country_name": "China",
+      "country_code": "CN",
+      "active_flag": "Y"
+    },
+    {
+      "country_id": "38",
+      "country_name": "Croatia",
+      "country_code": "HR",
+      "active_flag": "Y"
+    },
+    {
+      "country_id": "41",
+      "country_name": "Czech Republic",
+      "country_code": "CZ",
+      "active_flag": "Y"
+    },
+    {
+      "country_id": "42",
+      "country_name": "Denmark",
+      "country_code": "DK",
+      "active_flag": "Y"
+    },
+    {
+      "country_id": "46",
+      "country_name": "Ecuador",
+      "country_code": "EC",
+      "active_flag": "Y"
+    },
+    {
+      "country_id": "51",
+      "country_name": "Estonia",
+      "country_code": "EE",
+      "active_flag": "Y"
+    },
+    {
+      "country_id": "54",
+      "country_name": "Finland",
+      "country_code": "FI",
+      "active_flag": "Y"
+    },
+    {
+      "country_id": "55",
+      "country_name": "France",
+      "country_code": "FR",
+      "active_flag": "Y"
+    },
+    {
+      "country_id": "59",
+      "country_name": "Germany",
+      "country_code": "DE",
+      "active_flag": "Y"
+    },
+    {
+      "country_id": "61",
+      "country_name": "Greece",
+      "country_code": "GR",
+      "active_flag": "Y"
+    },
+    {
+      "country_id": "69",
+      "country_name": "Hong Kong",
+      "country_code": "HK",
+      "active_flag": "Y"
+    },
+    {
+      "country_id": "70",
+      "country_name": "Hungary",
+      "country_code": "HU",
+      "active_flag": "Y"
+    },
+    {
+      "country_id": "72",
+      "country_name": "India",
+      "country_code": "IN",
+      "active_flag": "Y"
+    },
+    {
+      "country_id": "73",
+      "country_name": "Indonesia",
+      "country_code": "ID",
+      "active_flag": "Y"
+    },
+    {
+      "country_id": "76",
+      "country_name": "Ireland",
+      "country_code": "IE",
+      "active_flag": "Y"
+    },
+    {
+      "country_id": "77",
+      "country_name": "Israel",
+      "country_code": "IL",
+      "active_flag": "Y"
+    },
+    {
+      "country_id": "78",
+      "country_name": "Italy",
+      "country_code": "IT",
+      "active_flag": "Y"
+    },
+    {
+      "country_id": "80",
+      "country_name": "Japan",
+      "country_code": "JP",
+      "active_flag": "Y"
+    },
+    {
+      "country_id": "83",
+      "country_name": "Kenya",
+      "country_code": "KE",
+      "active_flag": "Y"
+    },
+    {
+      "country_id": "88",
+      "country_name": "Latvia",
+      "country_code": "LV",
+      "active_flag": "Y"
+    },
+    {
+      "country_id": "91",
+      "country_name": "Liechtenstein",
+      "country_code": "LI",
+      "active_flag": "Y"
+    },
+    {
+      "country_id": "92",
+      "country_name": "Lithuania",
+      "country_code": "LT",
+      "active_flag": "Y"
+    },
+    {
+      "country_id": "93",
+      "country_name": "Luxembourg",
+      "country_code": "LU",
+      "active_flag": "Y"
+    },
+    {
+      "country_id": "100",
+      "country_name": "Malta",
+      "country_code": "MT",
+      "active_flag": "Y"
+    },
+    {
+      "country_id": "103",
+      "country_name": "Mexico",
+      "country_code": "MX",
+      "active_flag": "Y"
+    },
+    {
+      "country_id": "112",
+      "country_name": "Nepal",
+      "country_code": "NP",
+      "active_flag": "Y"
+    },
+    {
+      "country_id": "113",
+      "country_name": "Netherlands",
+      "country_code": "NL",
+      "active_flag": "Y"
+    },
+    {
+      "country_id": "114",
+      "country_name": "New Zealand",
+      "country_code": "NZ",
+      "active_flag": "Y"
+    },
+    {
+      "country_id": "119",
+      "country_name": "Norway",
+      "country_code": "NO",
+      "active_flag": "Y"
+    },
+    {
+      "country_id": "126",
+      "country_name": "Philippines",
+      "country_code": "PH",
+      "active_flag": "Y"
+    },
+    {
+      "country_id": "127",
+      "country_name": "Poland",
+      "country_code": "PL",
+      "active_flag": "Y"
+    },
+    {
+      "country_id": "128",
+      "country_name": "Portugal",
+      "country_code": "PT",
+      "active_flag": "Y"
+    },
+    {
+      "country_id": "131",
+      "country_name": "Romania",
+      "country_code": "RO",
+      "active_flag": "Y"
+    },
+    {
+      "country_id": "132",
+      "country_name": "Russian Federation",
+      "country_code": "RU",
+      "active_flag": "Y"
+    },
+    {
+      "country_id": "135",
+      "country_name": "Serbia",
+      "country_code": "CS",
+      "active_flag": "Y"
+    },
+    {
+      "country_id": "138",
+      "country_name": "Singapore",
+      "country_code": "SG",
+      "active_flag": "Y"
+    },
+    {
+      "country_id": "140",
+      "country_name": "Slovenia",
+      "country_code": "SI",
+      "active_flag": "Y"
+    },
+    {
+      "country_id": "144",
+      "country_name": "South Africa",
+      "country_code": "ZA",
+      "active_flag": "Y"
+    },
+    {
+      "country_id": "145",
+      "country_name": "Spain",
+      "country_code": "ES",
+      "active_flag": "Y"
+    },
+    {
+      "country_id": "150",
+      "country_name": "Sweden",
+      "country_code": "SE",
+      "active_flag": "Y"
+    },
+    {
+      "country_id": "151",
+      "country_name": "Switzerland",
+      "country_code": "CH",
+      "active_flag": "Y"
+    },
+    {
+      "country_id": "153",
+      "country_name": "Taiwan",
+      "country_code": "TW",
+      "active_flag": "Y"
+    },
+    {
+      "country_id": "155",
+      "country_name": "Tanzania",
+      "country_code": "TZ",
+      "active_flag": "Y"
+    },
+    {
+      "country_id": "156",
+      "country_name": "Thailand",
+      "country_code": "TH",
+      "active_flag": "Y"
+    },
+    {
+      "country_id": "160",
+      "country_name": "Turkey",
+      "country_code": "TR",
+      "active_flag": "Y"
+    },
+    {
+      "country_id": "163",
+      "country_name": "United Arab Emirates",
+      "country_code": "AE",
+      "active_flag": "Y"
+    },
+    {
+      "country_id": "165",
+      "country_name": "United Kingdom",
+      "country_code": "GB",
+      "active_flag": "Y"
+    },
+    {
+      "country_id": "166",
+      "country_name": "Ukraine",
+      "country_code": "UA",
+      "active_flag": "Y"
+    },
+    {
+      "country_id": "167",
+      "country_name": "Uruguay",
+      "country_code": "UY",
+      "active_flag": "Y"
+    },
+    {
+      "country_id": "168",
+      "country_name": "United States",
+      "country_code": "US",
+      "active_flag": "Y"
+    },
+    {
+      "country_id": "200",
+      "country_name": "European Union",
+      "country_code": "EU",
+      "active_flag": "Y"
+    },
+    {
+      "country_id": "202",
+      "country_name": "Ivory Coast",
+      "country_code": "CI",
+      "active_flag": "Y"
+    },
+    {
+      "country_id": "203",
+      "country_name": "San Marino",
+      "country_code": "SM",
+      "active_flag": "Y"
+    }
+  ]
+}

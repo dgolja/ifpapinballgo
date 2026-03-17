@@ -1,0 +1,146 @@
+{
+  "type": "Largest Tournaments",
+  "rank_type": "OPEN",
+  "stats": [
+    {
+      "country_name": "Sweden",
+      "country_code": "SE",
+      "player_count": "317",
+      "tournament_id": "100743",
+      "tournament_name": "Flipper-SM Svenska Mästerskapen 2025 CLASSICS",
+      "event_name": "Classics",
+      "tournament_date": "2025-11-16",
+      "stats_rank": 1
+    },
+    {
+      "country_name": "Sweden",
+      "country_code": "SE",
+      "player_count": "316",
+      "tournament_id": "100744",
+      "tournament_name": "Flipper-SM Svenska Mästerskapen 2025 MAIN",
+      "event_name": "Main Tournament",
+      "tournament_date": "2025-11-16",
+      "stats_rank": 2
+    },
+    {
+      "country_name": "Sweden",
+      "country_code": "SE",
+      "player_count": "280",
+      "tournament_id": "35839",
+      "tournament_name": "The Swedish Championships",
+      "event_name": "Main Tournament",
+      "tournament_date": "2019-11-24",
+      "stats_rank": 3
+    },
+    {
+      "country_name": "Sweden",
+      "country_code": "SE",
+      "player_count": "274",
+      "tournament_id": "83704",
+      "tournament_name": "Flipper-SM Svenska Mästerskapen 2024 CLASSICS",
+      "event_name": "Classics",
+      "tournament_date": "2024-11-24",
+      "stats_rank": 4
+    },
+    {
+      "country_name": "Sweden",
+      "country_code": "SE",
+      "player_count": "272",
+      "tournament_id": "35840",
+      "tournament_name": "The Swedish Championships",
+      "event_name": "Classics",
+      "tournament_date": "2019-11-24",
+      "stats_rank": 5
+    },
+    {
+      "country_name": "Sweden",
+      "country_code": "SE",
+      "player_count": "272",
+      "tournament_id": "83703",
+      "tournament_name": "Flipper-SM Svenska Mästerskapen 2024 MAIN",
+      "event_name": "Main Tournament",
+      "tournament_date": "2024-11-24",
+      "stats_rank": 6
+    },
+    {
+      "country_name": "Sweden",
+      "country_code": "SE",
+      "player_count": "255",
+      "tournament_id": "27902",
+      "tournament_name": "The Swedish Championships",
+      "event_name": "Main Tournament",
+      "tournament_date": "2018-12-02",
+      "stats_rank": 7
+    },
+    {
+      "country_name": "Sweden",
+      "country_code": "SE",
+      "player_count": "255",
+      "tournament_id": "53351",
+      "tournament_name": "European Pinball Championship 2022",
+      "event_name": "Classics",
+      "tournament_date": "2022-10-23",
+      "stats_rank": 8
+    },
+    {
+      "country_name": "Sweden",
+      "country_code": "SE",
+      "player_count": "255",
+      "tournament_id": "53352",
+      "tournament_name": "European Pinball Championship",
+      "event_name": "Main Tournament",
+      "tournament_date": "2022-10-23",
+      "stats_rank": 9
+    },
+    {
+      "country_name": "Sweden",
+      "country_code": "SE",
+      "player_count": "254",
+      "tournament_id": "21000",
+      "tournament_name": "European Pinball Championship",
+      "event_name": "Main Tournament",
+      "tournament_date": "2017-10-22",
+      "stats_rank": 10
+    },
+    {
+      "country_name": "Sweden",
+      "country_code": "SE",
+      "player_count": "252",
+      "tournament_id": "21001",
+      "tournament_name": "European Pinball Championship 2017",
+      "event_name": "Classics",
+      "tournament_date": "2017-10-22",
+      "stats_rank": 11
+    },
+    {
+      "country_name": "Sweden",
+      "country_code": "SE",
+      "player_count": "251",
+      "tournament_id": "27903",
+      "tournament_name": "The Swedish Championships",
+      "event_name": "Classics",
+      "tournament_date": "2018-12-02",
+      "stats_rank": 12
+    },
+    {
+      "country_name": "Sweden",
+      "country_code": "SE",
+      "player_count": "239",
+      "tournament_id": "21063",
+      "tournament_name": "The Swedish Championships",
+      "event_name": "Main Tournament",
+      "tournament_date": "2017-11-12",
+      "stats_rank": 13
+    },
+    {
+      "country_name": "Sweden",
+      "country_code": "SE",
+      "player_count": "239",
+      "tournament_id": "66725",
+      "tournament_name": "The Swedish Championships",
+      "event_name": "Main Tournament",
+      "tournament_date": "2023-11-24",
+      "stats_rank": 14
+    }
+  ]
+}

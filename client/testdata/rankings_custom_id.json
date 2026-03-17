@@ -1,0 +1,276 @@
+{
+  "view_id": "365",
+  "title": "2024 - IFPA Slovenian Championship Series",
+  "description": "WPPR points earned for all events within Slovenia during 2024",
+  "start_position": 1,
+  "return_count": 13,
+  "total_count": 109,
+  "view_results": [
+    {
+      "player_id": "21106",
+      "name": "Arno Nöbl",
+      "country_code": "AT",
+      "country_name": null,
+      "city": "",
+      "stateprov": "",
+      "wppr_rank": "454",
+      "wppr_points": "90.82",
+      "event_count": "3",
+      "position": 1
+    },
+    {
+      "player_id": "39336",
+      "name": "Andrej Rižner",
+      "country_code": "SI",
+      "country_name": null,
+      "city": "Koper",
+      "stateprov": "Kop",
+      "wppr_rank": "767",
+      "wppr_points": "87.45",
+      "event_count": "13",
+      "position": 2
+    },
+    {
+      "player_id": "75290",
+      "name": "Timotej Ponjevic",
+      "country_code": "SI",
+      "country_name": null,
+      "city": "Ljubljana",
+      "stateprov": "Lju",
+      "wppr_rank": "618",
+      "wppr_points": "82.27",
+      "event_count": "12",
+      "position": 3
+    },
+    {
+      "player_id": "63238",
+      "name": "Erik Palfi",
+      "country_code": "HU",
+      "country_name": null,
+      "city": "Budapest",
+      "stateprov": "",
+      "wppr_rank": "100",
+      "wppr_points": "82.17",
+      "event_count": "3",
+      "position": 4
+    },
+    {
+      "player_id": "40790",
+      "name": "Vid Kuklec",
+      "country_code": "SI",
+      "country_name": null,
+      "city": "Ljubljana",
+      "stateprov": "Lju",
+      "wppr_rank": "272",
+      "wppr_points": "71.67",
+      "event_count": "11",
+      "position": 5
+    },
+    {
+      "player_id": "38378",
+      "name": "Andrej Demsar",
+      "country_code": "SI",
+      "country_name": null,
+      "city": "",
+      "stateprov": "",
+      "wppr_rank": "1691",
+      "wppr_points": "42.61",
+      "event_count": "12",
+      "position": 6
+    },
+    {
+      "player_id": "29726",
+      "name": "Zsolt Mészáros",
+      "country_code": "HU",
+      "country_name": null,
+      "city": "Érd",
+      "stateprov": "",
+      "wppr_rank": "149",
+      "wppr_points": "42.59",
+      "event_count": "3",
+      "position": 7
+    },
+    {
+      "player_id": "39333",
+      "name": "Željko Vasic",
+      "country_code": "SI",
+      "country_name": null,
+      "city": "Portorož",
+      "stateprov": "Pir",
+      "wppr_rank": "676",
+      "wppr_points": "35.77",
+      "event_count": "13",
+      "position": 8
+    },
+    {
+      "player_id": "16421",
+      "name": "Robert Glashuettner",
+      "country_code": "AT",
+      "country_name": null,
+      "city": "Vienna",
+      "stateprov": "Vie",
+      "wppr_rank": "1685",
+      "wppr_points": "31.25",
+      "event_count": "3",
+      "position": 9
+    },
+    {
+      "player_id": "6604",
+      "name": "Sandor Varga",
+      "country_code": "HU",
+      "country_name": null,
+      "city": "",
+      "stateprov": "",
+      "wppr_rank": "516",
+      "wppr_points": "27.16",
+      "event_count": "3",
+      "position": 10
+    },
+    {
+      "player_id": "102898",
+      "name": "Žan Siter",
+      "country_code": "SI",
+      "country_name": null,
+      "city": "Ljubljana",
+      "stateprov": "Lju",
+      "wppr_rank": "819",
+      "wppr_points": "20.77",
+      "event_count": "11",
+      "position": 11
+    },
+    {
+      "player_id": "94194",
+      "name": "Julia Palfi",
+      "country_code": "HU",
+      "country_name": null,
+      "city": "Budapest",
+      "stateprov": "",
+      "wppr_rank": "734",
+      "wppr_points": "20.53",
+      "event_count": "3",
+      "position": 12
+    },
+    {
+      "player_id": "41245",
+      "name": "Mirko Bogic",
+      "country_code": "SI",
+      "country_name": null,
+      "city": "Ljubljana",
+      "stateprov": "",
+      "wppr_rank": "2428",
+      "wppr_points": "19.04",
+      "event_count": "12",
+      "position": 13
+    }
+  ],
+  "tournaments": [
+    {
+      "tournament_id": "71194",
+      "tournament_name": "LOO-BLAH-NAH 2024 kickoff",
+      "event_name": "Main Tournament",
+      "event_date": "2024-01-13",
+      "city": "Ljubljana"
+    },
+    {
+      "tournament_id": "73954",
+      "tournament_name": "LOO-BLAH-NAH February Pinball",
+      "event_name": "Main Tournament",
+      "event_date": "2024-02-24",
+      "city": "Ljubljana"
+    },
+    {
+      "tournament_id": "75295",
+      "tournament_name": "Obala Pinball Party",
+      "event_name": "Main Tournament",
+      "event_date": "2024-03-09",
+      "city": "Piran"
+    },
+    {
+      "tournament_id": "75125",
+      "tournament_name": "LOO-BLAH-NAH March Pinball",
+      "event_name": "Main Tournament",
+      "event_date": "2024-03-30",
+      "city": "Ljubljana"
+    },
+    {
+      "tournament_id": "76958",
+      "tournament_name": "LOO-BLAH-NAH April Pinball",
+      "event_name": "Main Tournament",
+      "event_date": "2024-04-20",
+      "city": "Ljubljana"
+    },
+    {
+      "tournament_id": "77693",
+      "tournament_name": "LOO-BLAH-NAH May Pinball",
+      "event_name": "Main Tournament",
+      "event_date": "2024-05-25",
+      "city": "Ljubljana"
+    },
+    {
+      "tournament_id": "79040",
+      "tournament_name": "Kevdr June Pinball",
+      "event_name": "Main Tournament",
+      "event_date": "2024-06-22",
+      "city": "Ljubljana"
+    },
+    {
+      "tournament_id": "80362",
+      "tournament_name": "Kevdr July Pinball",
+      "event_name": "Main Tournament",
+      "event_date": "2024-07-27",
+      "city": "Ljubljana"
+    },
+    {
+      "tournament_id": "81735",
+      "tournament_name": "Slovenia Pinball Open 24 - Warm-Up",
+      "event_name": "Main Tournament",
+      "event_date": "2024-10-04",
+      "city": "Ljubljana"
+    },
+    {
+      "tournament_id": "81736",
+      "tournament_name": "Slovenia Pinball Open 24 - Main",
+      "event_name": "Main Tournament",
+      "event_date": "2024-10-05",
+      "city": "Ljubljana"
+    },
+    {
+      "tournament_id": "81737",
+      "tournament_name": "Slovenia Pinball Open 24 - Sunday strikes",
+      "event_name": "Main Tournament",
+      "event_date": "2024-10-06",
+      "city": "Ljubljana"
+    },
+    {
+      "tournament_id": "84735",
+      "tournament_name": "Kevdr November Drains",
+      "event_name": "Main Tournament",
+      "event_date": "2024-11-16",
+      "city": "Ljubljana"
+    },
+    {
+      "tournament_id": "85841",
+      "tournament_name": "Obala Pinball Party",
+      "event_name": "Main Tournament",
+      "event_date": "2024-11-29",
+      "city": "Portorož"
+    },
+    {
+      "tournament_id": "85688",
+      "tournament_name": "Kevdr December Gathering",
+      "event_name": "Main Tournament",
+      "event_date": "2024-12-21",
+      "city": "Ljubljana"
+    }
+  ],
+  "view_filters": [
+    {
+      "name": "Tournament Year",
+      "setting": "2024"
+    },
+    {
+      "name": "Tournament Country\r\n",
+      "setting": "140"
+    }
+  ]
+}

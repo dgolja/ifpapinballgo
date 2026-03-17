@@ -1,0 +1,116 @@
+{
+  "type": "Players by State (North America)",
+  "rank_type": "WOMEN",
+  "stats": [
+    {
+      "stateprov": "Unknown",
+      "player_count": "5257",
+      "stats_rank": 1
+    },
+    {
+      "stateprov": "CA",
+      "player_count": "132",
+      "stats_rank": 2
+    },
+    {
+      "stateprov": "OH",
+      "player_count": "120",
+      "stats_rank": 3
+    },
+    {
+      "stateprov": "WA",
+      "player_count": "112",
+      "stats_rank": 4
+    },
+    {
+      "stateprov": "TX",
+      "player_count": "105",
+      "stats_rank": 5
+    },
+    {
+      "stateprov": "IL",
+      "player_count": "77",
+      "stats_rank": 6
+    },
+    {
+      "stateprov": "MI",
+      "player_count": "75",
+      "stats_rank": 7
+    },
+    {
+      "stateprov": "PA",
+      "player_count": "71",
+      "stats_rank": 8
+    },
+    {
+      "stateprov": "MO",
+      "player_count": "70",
+      "stats_rank": 9
+    },
+    {
+      "stateprov": "OR",
+      "player_count": "69",
+      "stats_rank": 10
+    },
+    {
+      "stateprov": "NC",
+      "player_count": "68",
+      "stats_rank": 11
+    },
+    {
+      "stateprov": "NY",
+      "player_count": "66",
+      "stats_rank": 12
+    },
+    {
+      "stateprov": "FL",
+      "player_count": "61",
+      "stats_rank": 13
+    },
+    {
+      "stateprov": "CO",
+      "player_count": "58",
+      "stats_rank": 14
+    },
+    {
+      "stateprov": "VA",
+      "player_count": "56",
+      "stats_rank": 15
+    },
+    {
+      "stateprov": "SC",
+      "player_count": "53",
+      "stats_rank": 16
+    },
+    {
+      "stateprov": "WI",
+      "player_count": "51",
+      "stats_rank": 17
+    },
+    {
+      "stateprov": "MN",
+      "player_count": "48",
+      "stats_rank": 18
+    },
+    {
+      "stateprov": "AZ",
+      "player_count": "43",
+      "stats_rank": 19
+    },
+    {
+      "stateprov": "IN",
+      "player_count": "41",
+      "stats_rank": 20
+    },
+    {
+      "stateprov": "TN",
+      "player_count": "41",
+      "stats_rank": 21
+    },
+    {
+      "stateprov": "UT",
+      "player_count": "40",
+      "stats_rank": 22
+    }
+  ]
+}

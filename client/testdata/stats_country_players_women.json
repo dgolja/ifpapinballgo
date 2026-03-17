@@ -1,0 +1,24 @@
+{
+  "type": "Players by Country",
+  "rank_type": "WOMEN",
+  "stats": [
+    {
+      "country_name": "United States",
+      "country_code": "US",
+      "player_count": "7354",
+      "stats_rank": 1
+    },
+    {
+      "country_name": "Canada",
+      "country_code": "CA",
+      "player_count": "896",
+      "stats_rank": 2
+    },
+    {
+      "country_name": "Australia",
+      "country_code": "AU",
+      "player_count": "308",
+      "stats_rank": 3
+    }
+  ]
+}

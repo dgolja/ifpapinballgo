@@ -1,0 +1,209 @@
+{
+  "type": "Tournaments by State (North America)",
+  "rank_type": "WOMEN",
+  "stats": [
+    {
+      "stateprov": "TX",
+      "tournament_count": "492",
+      "total_points_all": "27267.9700",
+      "total_points_tournament_value": "5758.3300",
+      "stats_rank": 1
+    },
+    {
+      "stateprov": "MI",
+      "tournament_count": "375",
+      "total_points_all": "2632.8900",
+      "total_points_tournament_value": "1204.1300",
+      "stats_rank": 2
+    },
+    {
+      "stateprov": "OH",
+      "tournament_count": "366",
+      "total_points_all": "12925.3600",
+      "total_points_tournament_value": "3668.9600",
+      "stats_rank": 3
+    },
+    {
+      "stateprov": "WA",
+      "tournament_count": "356",
+      "total_points_all": "15289.8300",
+      "total_points_tournament_value": "3365.9400",
+      "stats_rank": 4
+    },
+    {
+      "stateprov": "GA",
+      "tournament_count": "354",
+      "total_points_all": "2871.7400",
+      "total_points_tournament_value": "1155.3100",
+      "stats_rank": 5
+    },
+    {
+      "stateprov": "CA",
+      "tournament_count": "326",
+      "total_points_all": "11764.7100",
+      "total_points_tournament_value": "3137.7200",
+      "stats_rank": 6
+    },
+    {
+      "stateprov": "IN",
+      "tournament_count": "240",
+      "total_points_all": "4957.5000",
+      "total_points_tournament_value": "1405.2700",
+      "stats_rank": 7
+    },
+    {
+      "stateprov": "FL",
+      "tournament_count": "208",
+      "total_points_all": "4123.5800",
+      "total_points_tournament_value": "1501.5700",
+      "stats_rank": 8
+    },
+    {
+      "stateprov": "OR",
+      "tournament_count": "200",
+      "total_points_all": "2409.8400",
+      "total_points_tournament_value": "963.8000",
+      "stats_rank": 9
+    },
+    {
+      "stateprov": "PA",
+      "tournament_count": "194",
+      "total_points_all": "9790.2100",
+      "total_points_tournament_value": "2200.7400",
+      "stats_rank": 10
+    },
+    {
+      "stateprov": "VA",
+      "tournament_count": "185",
+      "total_points_all": "4426.1600",
+      "total_points_tournament_value": "1549.8400",
+      "stats_rank": 11
+    },
+    {
+      "stateprov": "NC",
+      "tournament_count": "182",
+      "total_points_all": "1685.7900",
+      "total_points_tournament_value": "665.8500",
+      "stats_rank": 12
+    },
+    {
+      "stateprov": "IL",
+      "tournament_count": "179",
+      "total_points_all": "13602.3200",
+      "total_points_tournament_value": "2686.6400",
+      "stats_rank": 13
+    },
+    {
+      "stateprov": "CO",
+      "tournament_count": "147",
+      "total_points_all": "6213.6800",
+      "total_points_tournament_value": "1334.6900",
+      "stats_rank": 14
+    },
+    {
+      "stateprov": "NY",
+      "tournament_count": "146",
+      "total_points_all": "5255.0600",
+      "total_points_tournament_value": "1537.2500",
+      "stats_rank": 15
+    },
+    {
+      "stateprov": "WI",
+      "tournament_count": "136",
+      "total_points_all": "2225.0800",
+      "total_points_tournament_value": "708.4800",
+      "stats_rank": 16
+    },
+    {
+      "stateprov": "MO",
+      "tournament_count": "136",
+      "total_points_all": "2965.2300",
+      "total_points_tournament_value": "1089.7100",
+      "stats_rank": 17
+    },
+    {
+      "stateprov": "SC",
+      "tournament_count": "134",
+      "total_points_all": "1138.4500",
+      "total_points_tournament_value": "507.0900",
+      "stats_rank": 18
+    },
+    {
+      "stateprov": "AZ",
+      "tournament_count": "127",
+      "total_points_all": "7395.3000",
+      "total_points_tournament_value": "1798.0100",
+      "stats_rank": 19
+    },
+    {
+      "stateprov": "OK",
+      "tournament_count": "122",
+      "total_points_all": "727.1200",
+      "total_points_tournament_value": "355.9000",
+      "stats_rank": 20
+    },
+    {
+      "stateprov": "MN",
+      "tournament_count": "116",
+      "total_points_all": "3876.1800",
+      "total_points_tournament_value": "1030.8300",
+      "stats_rank": 21
+    },
+    {
+      "stateprov": "NV",
+      "tournament_count": "109",
+      "total_points_all": "1171.2700",
+      "total_points_tournament_value": "503.4600",
+      "stats_rank": 22
+    },
+    {
+      "stateprov": "TN",
+      "tournament_count": "102",
+      "total_points_all": "1485.2100",
+      "total_points_tournament_value": "630.7600",
+      "stats_rank": 23
+    },
+    {
+      "stateprov": "KS",
+      "tournament_count": "76",
+      "total_points_all": "1610.4600",
+      "total_points_tournament_value": "647.3200",
+      "stats_rank": 24
+    },
+    {
+      "stateprov": "IA",
+      "tournament_count": "75",
+      "total_points_all": "359.5900",
+      "total_points_tournament_value": "175.3800",
+      "stats_rank": 25
+    },
+    {
+      "stateprov": "UT",
+      "tournament_count": "73",
+      "total_points_all": "970.6800",
+      "total_points_tournament_value": "353.5400",
+      "stats_rank": 26
+    },
+    {
+      "stateprov": "MA",
+      "tournament_count": "62",
+      "total_points_all": "3204.8900",
+      "total_points_tournament_value": "709.7400",
+      "stats_rank": 27
+    },
+    {
+      "stateprov": "MT",
+      "tournament_count": "61",
+      "total_points_all": "473.7300",
+      "total_points_tournament_value": "212.1400",
+      "stats_rank": 28
+    },
+    {
+      "stateprov": "ID",
+      "tournament_count": "61",
+      "total_points_all": "434.8900",
+      "total_points_tournament_value": "195.4400",
+      "stats_rank": 29
+    }
+  ]
+}

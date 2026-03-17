@@ -1,0 +1,156 @@
+{
+  "type": "Largest Tournaments",
+  "rank_type": "WOMEN",
+  "stats": [
+    {
+      "country_name": "United States",
+      "country_code": "US",
+      "player_count": "127",
+      "tournament_id": "34627",
+      "tournament_name": "Women's International Pinball Tournament",
+      "event_name": "Main Tournament",
+      "tournament_date": "2019-08-04",
+      "stats_rank": 1
+    },
+    {
+      "country_name": "United States",
+      "country_code": "US",
+      "player_count": "110",
+      "tournament_id": "98866",
+      "tournament_name": "SW Belle Pinball Rodeo 2026: Hoedown Throwdown",
+      "event_name": "Womens Division",
+      "tournament_date": "2026-01-31",
+      "stats_rank": 2
+    },
+    {
+      "country_name": "United States",
+      "country_code": "US",
+      "player_count": "106",
+      "tournament_id": "98838",
+      "tournament_name": "SW Belle Pinball Rodeo 2026: The Magnificent Seven",
+      "event_name": "Womens Division",
+      "tournament_date": "2026-02-01",
+      "stats_rank": 3
+    },
+    {
+      "country_name": "United States",
+      "country_code": "US",
+      "player_count": "106",
+      "tournament_id": "98839",
+      "tournament_name": "SW Belle Pinball Rodeo 2026: Texas Two-Step",
+      "event_name": "Womens Division",
+      "tournament_date": "2026-01-30",
+      "stats_rank": 4
+    },
+    {
+      "country_name": "United States",
+      "country_code": "US",
+      "player_count": "100",
+      "tournament_id": "98867",
+      "tournament_name": "SW Belle Pinball Rodeo 2026: Rodeo Roundup",
+      "event_name": "Womens Division",
+      "tournament_date": "2026-02-01",
+      "stats_rank": 5
+    },
+    {
+      "country_name": "United States",
+      "country_code": "US",
+      "player_count": "94",
+      "tournament_id": "98868",
+      "tournament_name": "SW Belle Pinball Rodeo 2026: Do-Si-Do 3x",
+      "event_name": "Womens Division",
+      "tournament_date": "2026-02-01",
+      "stats_rank": 6
+    },
+    {
+      "country_name": "United States",
+      "country_code": "US",
+      "player_count": "86",
+      "tournament_id": "103188",
+      "tournament_name": "Expo flipOUT! Womens Big Bracket",
+      "event_name": "Womens Division",
+      "tournament_date": "2025-10-18",
+      "stats_rank": 7
+    },
+    {
+      "country_name": "United States",
+      "country_code": "US",
+      "player_count": "84",
+      "tournament_id": "83856",
+      "tournament_name": "Expo flipOUT! Womens Mini Big Bracket",
+      "event_name": "Womens Division",
+      "tournament_date": "2024-10-19",
+      "stats_rank": 8
+    },
+    {
+      "country_name": "United States",
+      "country_code": "US",
+      "player_count": "81",
+      "tournament_id": "98794",
+      "tournament_name": "Colorado Annual Women's Weekend: Golden Egg",
+      "event_name": "Womens Division",
+      "tournament_date": "2025-10-05",
+      "stats_rank": 9
+    },
+    {
+      "country_name": "United States",
+      "country_code": "US",
+      "player_count": "80",
+      "tournament_id": "84382",
+      "tournament_name": "SW Belle Pinball Rodeo 2025: The Magnificent Seven",
+      "event_name": "Womens Division",
+      "tournament_date": "2025-02-02",
+      "stats_rank": 10
+    },
+    {
+      "country_name": "United States",
+      "country_code": "US",
+      "player_count": "80",
+      "tournament_id": "84383",
+      "tournament_name": "SW Belle Pinball Rodeo 2025: Texas Two-Step",
+      "event_name": "Womens Division",
+      "tournament_date": "2025-01-31",
+      "stats_rank": 11
+    },
+    {
+      "country_name": "United States",
+      "country_code": "US",
+      "player_count": "79",
+      "tournament_id": "98793",
+      "tournament_name": "Colorado Annual Women's Weekend: Join the Flock",
+      "event_name": "Womens Division",
+      "tournament_date": "2025-10-04",
+      "stats_rank": 12
+    },
+    {
+      "country_name": "United States",
+      "country_code": "US",
+      "player_count": "79",
+      "tournament_id": "98795",
+      "tournament_name": "Colorado Annual Women's Weekend: Rule the Roost",
+      "event_name": "Womens Division",
+      "tournament_date": "2025-10-05",
+      "stats_rank": 13
+    },
+    {
+      "country_name": "United States",
+      "country_code": "US",
+      "player_count": "78",
+      "tournament_id": "84384",
+      "tournament_name": "SW Belle Pinball Rodeo 2025: Hoedown Throwdown",
+      "event_name": "Womens Division",
+      "tournament_date": "2025-02-01",
+      "stats_rank": 14
+    },
+    {
+      "country_name": "United States",
+      "country_code": "US",
+      "player_count": "77",
+      "tournament_id": "84385",
+      "tournament_name": "SW Belle Pinball Rodeo 2025: Rodeo Round-Up",
+      "event_name": "Womens Division",
+      "tournament_date": "2025-02-02",
+      "stats_rank": 15
+    }
+  ]
+}

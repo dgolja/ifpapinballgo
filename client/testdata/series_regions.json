@@ -1,0 +1,34 @@
+{
+  "year": 2025,
+  "series_code": "ACS",
+  "active_regions": [
+    {
+      "region_name": "Australian Capital Territory",
+      "region_code": "ACT"
+    },
+    {
+      "region_name": "New South Wales",
+      "region_code": "NSW"
+    },
+    {
+      "region_name": "Queensland",
+      "region_code": "QLD"
+    },
+    {
+      "region_name": "South Australia",
+      "region_code": "SA"
+    },
+    {
+      "region_name": "Tasmania",
+      "region_code": "Tas"
+    },
+    {
+      "region_name": "Victoria",
+      "region_code": "Vic"
+    },
+    {
+      "region_name": "Western Australia",
+      "region_code": "WA"
+    }
+  ]
+}

@@ -1,0 +1,196 @@
+{
+  "type": "Players by State (North America)",
+  "rank_type": "OPEN",
+  "stats": [
+    {
+      "stateprov": "Unknown",
+      "player_count": "38712",
+      "stats_rank": 1
+    },
+    {
+      "stateprov": "CA",
+      "player_count": "678",
+      "stats_rank": 2
+    },
+    {
+      "stateprov": "OH",
+      "player_count": "572",
+      "stats_rank": 3
+    },
+    {
+      "stateprov": "WA",
+      "player_count": "555",
+      "stats_rank": 4
+    },
+    {
+      "stateprov": "TX",
+      "player_count": "419",
+      "stats_rank": 5
+    },
+    {
+      "stateprov": "MI",
+      "player_count": "373",
+      "stats_rank": 6
+    },
+    {
+      "stateprov": "IL",
+      "player_count": "344",
+      "stats_rank": 7
+    },
+    {
+      "stateprov": "PA",
+      "player_count": "339",
+      "stats_rank": 8
+    },
+    {
+      "stateprov": "FL",
+      "player_count": "329",
+      "stats_rank": 9
+    },
+    {
+      "stateprov": "NY",
+      "player_count": "312",
+      "stats_rank": 10
+    },
+    {
+      "stateprov": "WI",
+      "player_count": "306",
+      "stats_rank": 11
+    },
+    {
+      "stateprov": "NC",
+      "player_count": "290",
+      "stats_rank": 12
+    },
+    {
+      "stateprov": "CO",
+      "player_count": "288",
+      "stats_rank": 13
+    },
+    {
+      "stateprov": "MO",
+      "player_count": "285",
+      "stats_rank": 14
+    },
+    {
+      "stateprov": "OR",
+      "player_count": "277",
+      "stats_rank": 15
+    },
+    {
+      "stateprov": "VA",
+      "player_count": "273",
+      "stats_rank": 16
+    },
+    {
+      "stateprov": "IN",
+      "player_count": "256",
+      "stats_rank": 17
+    },
+    {
+      "stateprov": "AZ",
+      "player_count": "229",
+      "stats_rank": 18
+    },
+    {
+      "stateprov": "MN",
+      "player_count": "221",
+      "stats_rank": 19
+    },
+    {
+      "stateprov": "TN",
+      "player_count": "210",
+      "stats_rank": 20
+    },
+    {
+      "stateprov": "SC",
+      "player_count": "195",
+      "stats_rank": 21
+    },
+    {
+      "stateprov": "GA",
+      "player_count": "177",
+      "stats_rank": 22
+    },
+    {
+      "stateprov": "MD",
+      "player_count": "175",
+      "stats_rank": 23
+    },
+    {
+      "stateprov": "MA",
+      "player_count": "164",
+      "stats_rank": 24
+    },
+    {
+      "stateprov": "NV",
+      "player_count": "126",
+      "stats_rank": 25
+    },
+    {
+      "stateprov": "UT",
+      "player_count": "126",
+      "stats_rank": 26
+    },
+    {
+      "stateprov": "KS",
+      "player_count": "114",
+      "stats_rank": 27
+    },
+    {
+      "stateprov": "IA",
+      "player_count": "113",
+      "stats_rank": 28
+    },
+    {
+      "stateprov": "NJ",
+      "player_count": "104",
+      "stats_rank": 29
+    },
+    {
+      "stateprov": "AL",
+      "player_count": "101",
+      "stats_rank": 30
+    },
+    {
+      "stateprov": "OK",
+      "player_count": "100",
+      "stats_rank": 31
+    },
+    {
+      "stateprov": "CT",
+      "player_count": "92",
+      "stats_rank": 32
+    },
+    {
+      "stateprov": "KY",
+      "player_count": "85",
+      "stats_rank": 33
+    },
+    {
+      "stateprov": "NE",
+      "player_count": "81",
+      "stats_rank": 34
+    },
+    {
+      "stateprov": "ID",
+      "player_count": "81",
+      "stats_rank": 35
+    },
+    {
+      "stateprov": "NM",
+      "player_count": "76",
+      "stats_rank": 36
+    },
+    {
+      "stateprov": "ME",
+      "player_count": "75",
+      "stats_rank": 37
+    },
+    {
+      "stateprov": "NH",
+      "player_count": "72",
+      "stats_rank": 38
+    }
+  ]
+}

@@ -1,0 +1,84 @@
+{
+  "player": [
+    {
+      "player_id": "83231",
+      "first_name": "Katja",
+      "last_name": "Rižner",
+      "initials": "CAT",
+      "excluded_flag": "false",
+      "age": "",
+      "city": "Koper",
+      "stateprov": "Kop",
+      "country_name": "Slovenia",
+      "country_code": "SI",
+      "ifpa_registered": "true",
+      "womens_flag": "true",
+      "virtual_player_flag": "false",
+      "profile_photo": "",
+      "matchplay_events": {
+        "id": "19045",
+        "rating": "1446",
+        "rank": "15015"
+      },
+      "twitch_username": null,
+      "pinside_username": null,
+      "player_stats": {
+        "system": {
+          "open": {
+            "current_rank": "4266",
+            "last_month_rank": "4243",
+            "last_year_rank": "4748",
+            "highest_rank": "3214",
+            "highest_rank_date": "2022-10-01",
+            "pro_rank": "",
+            "current_points": "61.8900",
+            "all_time_points": "145.04",
+            "active_points": "121.6100",
+            "inactive_points": "23.4400",
+            "best_finish": "4",
+            "best_finish_count": "2",
+            "average_finish": "56",
+            "average_finish_last_year": "73",
+            "total_events_all_time": "94",
+            "total_active_events": "73",
+            "total_events_away": "55",
+            "total_wins_last_3_years": "0",
+            "top_3_last_3_years": "0",
+            "top_10_last_3_years": "15",
+            "ratings_rank": "31292",
+            "ratings_value": "1186.59",
+            "efficiency_rank": "32767",
+            "efficiency_value": "2.560"
+          },
+          "womens": {
+            "current_rank": "2502",
+            "last_month_rank": "2501",
+            "last_year_rank": "3354",
+            "highest_rank": "1588",
+            "highest_rank_date": "2023-06-01",
+            "pro_rank": "",
+            "current_points": "2.72",
+            "all_time_points": "3.20",
+            "active_points": "121.6000",
+            "inactive_points": "23.4400",
+            "best_finish": "11",
+            "best_finish_count": "1",
+            "average_finish": "13",
+            "average_finish_last_year": "14",
+            "total_events_all_time": "3",
+            "total_active_events": "3",
+            "total_events_away": "3",
+            "total_wins_last_3_years": "0",
+            "top_3_last_3_years": "0",
+            "top_10_last_3_years": "0",
+            "ratings_rank": "31292",
+            "ratings_value": "1186.59",
+            "efficiency_rank": "2948",
+            "efficiency_value": "6.630"
+          }
+        },
+        "years_active": "4"
+      }
+    }
+  ]
+}

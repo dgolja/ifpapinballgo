@@ -1,0 +1,233 @@
+{
+  "type": "Events attended over a period of time",
+  "start_date": "2024-01-01",
+  "end_date": "2024-12-31",
+  "return_count": 25,
+  "stats": [
+    {
+      "player_id": "39336",
+      "first_name": "Andrej",
+      "last_name": "Rižner",
+      "country_name": "Slovenia",
+      "country_code": "SI",
+      "tournament_count": "25",
+      "stats_rank": 1
+    },
+    {
+      "player_id": "40790",
+      "first_name": "Vid",
+      "last_name": "Kuklec",
+      "country_name": "Slovenia",
+      "country_code": "SI",
+      "tournament_count": "25",
+      "stats_rank": 2
+    },
+    {
+      "player_id": "38378",
+      "first_name": "Andrej",
+      "last_name": "Demsar",
+      "country_name": "Slovenia",
+      "country_code": "SI",
+      "tournament_count": "24",
+      "stats_rank": 3
+    },
+    {
+      "player_id": "83231",
+      "first_name": "Katja",
+      "last_name": "Rižner",
+      "country_name": "Slovenia",
+      "country_code": "SI",
+      "tournament_count": "20",
+      "stats_rank": 4
+    },
+    {
+      "player_id": "41245",
+      "first_name": "Mirko",
+      "last_name": "Bogic",
+      "country_name": "Slovenia",
+      "country_code": "SI",
+      "tournament_count": "19",
+      "stats_rank": 5
+    },
+    {
+      "player_id": "75290",
+      "first_name": "Timotej",
+      "last_name": "Ponjevic",
+      "country_name": "Slovenia",
+      "country_code": "SI",
+      "tournament_count": "19",
+      "stats_rank": 6
+    },
+    {
+      "player_id": "39333",
+      "first_name": "Željko",
+      "last_name": "Vasic",
+      "country_name": "Slovenia",
+      "country_code": "SI",
+      "tournament_count": "18",
+      "stats_rank": 7
+    },
+    {
+      "player_id": "102898",
+      "first_name": "Žan",
+      "last_name": "Siter",
+      "country_name": "Slovenia",
+      "country_code": "SI",
+      "tournament_count": "14",
+      "stats_rank": 8
+    },
+    {
+      "player_id": "54656",
+      "first_name": "Zana",
+      "last_name": "Hrastovsek",
+      "country_name": "Slovenia",
+      "country_code": "SI",
+      "tournament_count": "12",
+      "stats_rank": 9
+    },
+    {
+      "player_id": "40791",
+      "first_name": "Igor",
+      "last_name": "Pavletic",
+      "country_name": "Slovenia",
+      "country_code": "SI",
+      "tournament_count": "11",
+      "stats_rank": 10
+    },
+    {
+      "player_id": "52240",
+      "first_name": "Matej",
+      "last_name": "Kos",
+      "country_name": "Slovenia",
+      "country_code": "SI",
+      "tournament_count": "11",
+      "stats_rank": 11
+    },
+    {
+      "player_id": "67510",
+      "first_name": "Franci",
+      "last_name": "Dov?",
+      "country_name": "Slovenia",
+      "country_code": "SI",
+      "tournament_count": "11",
+      "stats_rank": 12
+    },
+    {
+      "player_id": "113360",
+      "first_name": "Gregory",
+      "last_name": "Kiker",
+      "country_name": "Slovenia",
+      "country_code": "SI",
+      "tournament_count": "11",
+      "stats_rank": 13
+    },
+    {
+      "player_id": "93259",
+      "first_name": "Filip",
+      "last_name": "Spremo",
+      "country_name": "Slovenia",
+      "country_code": "SI",
+      "tournament_count": "10",
+      "stats_rank": 14
+    },
+    {
+      "player_id": "113359",
+      "first_name": "Nadia",
+      "last_name": "Kiker",
+      "country_name": "Slovenia",
+      "country_code": "SI",
+      "tournament_count": "10",
+      "stats_rank": 15
+    },
+    {
+      "player_id": "47460",
+      "first_name": "Chuck",
+      "last_name": "Tour",
+      "country_name": "Slovenia",
+      "country_code": "SI",
+      "tournament_count": "8",
+      "stats_rank": 16
+    },
+    {
+      "player_id": "47462",
+      "first_name": "Jani",
+      "last_name": "Juvancic",
+      "country_name": "Slovenia",
+      "country_code": "SI",
+      "tournament_count": "7",
+      "stats_rank": 17
+    },
+    {
+      "player_id": "59138",
+      "first_name": "Simon",
+      "last_name": "Zorman",
+      "country_name": "Slovenia",
+      "country_code": "SI",
+      "tournament_count": "7",
+      "stats_rank": 18
+    },
+    {
+      "player_id": "42308",
+      "first_name": "Peter",
+      "last_name": "Krajnc",
+      "country_name": "Slovenia",
+      "country_code": "SI",
+      "tournament_count": "6",
+      "stats_rank": 19
+    },
+    {
+      "player_id": "106303",
+      "first_name": "Leo",
+      "last_name": "Rižner",
+      "country_name": "Slovenia",
+      "country_code": "SI",
+      "tournament_count": "6",
+      "stats_rank": 20
+    },
+    {
+      "player_id": "24127",
+      "first_name": "Ales",
+      "last_name": "Rebec",
+      "country_name": "Slovenia",
+      "country_code": "SI",
+      "tournament_count": "4",
+      "stats_rank": 21
+    },
+    {
+      "player_id": "39334",
+      "first_name": "Andrej",
+      "last_name": "Bukovšek",
+      "country_name": "Slovenia",
+      "country_code": "SI",
+      "tournament_count": "4",
+      "stats_rank": 22
+    },
+    {
+      "player_id": "106301",
+      "first_name": "Taj",
+      "last_name": "Rižner",
+      "country_name": "Slovenia",
+      "country_code": "SI",
+      "tournament_count": "4",
+      "stats_rank": 23
+    },
+    {
+      "player_id": "39329",
+      "first_name": "Matjaž",
+      "last_name": "Kussel",
+      "country_name": "Slovenia",
+      "country_code": "SI",
+      "tournament_count": "3",
+      "stats_rank": 24
+    },
+    {
+      "player_id": "49150",
+      "first_name": "Jože",
+      "last_name": "Nagode",
+      "country_name": "Slovenia",
+      "country_code": "SI",
+      "tournament_count": "3",
+      "stats_rank": 25
+    }
+  ]
+}

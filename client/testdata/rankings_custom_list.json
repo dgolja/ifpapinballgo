@@ -1,0 +1,395 @@
+{
+  "total_count": 78,
+  "custom_view": [
+    {
+      "view_id": "14",
+      "title": "Lund Pinball Academy Rankings",
+      "description": "WPPR points earned at all Lund Pinball Academy events"
+    },
+    {
+      "view_id": "68",
+      "title": "UK Pinball League - Scotland",
+      "description": "UK Pinball League Scotland regions for all years"
+    },
+    {
+      "view_id": "69",
+      "title": "UK Pinball League - South East",
+      "description": "UK Pinball League South East region for all years"
+    },
+    {
+      "view_id": "70",
+      "title": "UK Pinball League - South West",
+      "description": "UK Pinball League South West region for all years"
+    },
+    {
+      "view_id": "76",
+      "title": "Ranking of Skåne",
+      "description": "WPPR's earned by residents of Skåne - 2023"
+    },
+    {
+      "view_id": "154",
+      "title": "Youth Ranking",
+      "description": "Ranking for those under 16"
+    },
+    {
+      "view_id": "155",
+      "title": "2026 - IFPA Swiss Championship Series",
+      "description": "Top 64 qualify for IFPA Swiss National Championship"
+    },
+    {
+      "view_id": "168",
+      "title": "SFPD League",
+      "description": "Total WPPR points for all SFPD League events"
+    },
+    {
+      "view_id": "173",
+      "title": "Add-a-Ball Weekly Wednesday Flip Off - ALL TIME",
+      "description": "WPPR points earned for all Add-a-Ball Weekly Wednesday Flip Off tournaments"
+    },
+    {
+      "view_id": "176",
+      "title": "2022 - UK Rankings",
+      "description": "WPPR points earned from events within the UK"
+    },
+    {
+      "view_id": "195",
+      "title": "San Francisco Pinball Department - ALL TIME",
+      "description": "WPPR points earned for the San Francisco Pinball Department league for all time"
+    },
+    {
+      "view_id": "205",
+      "title": "Finland - All events for 2025",
+      "description": "WPPR points earned within Finland for all years"
+    },
+    {
+      "view_id": "211",
+      "title": "2019 Stern Pro Circuit",
+      "description": "WPPR's earned at the 20 Stern Pro Circuit events - top 20 qualify for the SPC Final"
+    },
+    {
+      "view_id": "213",
+      "title": "Washington State Women's Rankings [MAIN]",
+      "description": "Women's WPPR points earned within Washington State"
+    },
+    {
+      "view_id": "242",
+      "title": "2025 - IFPA French Championship Series Rankings",
+      "description": "Top 32 qualify for IFPA French Country Championship"
+    },
+    {
+      "view_id": "248",
+      "title": "2020 Victoria British Columbia Rankings",
+      "description": "WPPR's earned within Victoria, BC during 2019"
+    },
+    {
+      "view_id": "250",
+      "title": "San Francisco Super Selfie League",
+      "description": "San Francisco Super Selfie League"
+    },
+    {
+      "view_id": "262",
+      "title": "2025 - Fort Collins, CO Rankings",
+      "description": "WPPR points earned for events held within Fort Collins, CO for 2025"
+    },
+    {
+      "view_id": "268",
+      "title": "Capitol Corridor Pinball League Rankings",
+      "description": "WPPR points earned in any CCPL league"
+    },
+    {
+      "view_id": "269",
+      "title": "Capitol Corridor Pinball League Rankings - Folsom",
+      "description": "WPPR points earned in any CCPL Folsom league"
+    },
+    {
+      "view_id": "270",
+      "title": "Capitol Corridor Pinball League Rankings - Lodi",
+      "description": "WPPR points earned in any CCPL Lodi league"
+    },
+    {
+      "view_id": "277",
+      "title": "2026 - IFPA Swedish Championship Series",
+      "description": "WPPR points earned in all Swedish events for 2026. Top 64 qualify for SWECS Final"
+    },
+    {
+      "view_id": "278",
+      "title": "2026 - IFPA Norwegian Championship Series",
+      "description": "WPPR points earned in all Norwegian events for 2026. Top 40 qualify for NCS Final"
+    },
+    {
+      "view_id": "280",
+      "title": "Pinball Wizard Rankings",
+      "description": "Custom Ranking for Beau Pendleton"
+    },
+    {
+      "view_id": "281",
+      "title": "2020-2022 Stern Pro Circuit",
+      "description": "WPPR's earned at the 20 Stern Pro Circuit events - top 32 qualify for the SPC Final"
+    },
+    {
+      "view_id": "282",
+      "title": "2025 - IFPA Finnish Championship Series",
+      "description": "WPPR points earned from FINCS events within Finland during 2025"
+    },
+    {
+      "view_id": "347",
+      "title": "Minnesota State Ranking 2020-2021",
+      "description": "WPPR points earned for 2020 and 2021 season."
+    },
+    {
+      "view_id": "348",
+      "title": "2021-2022 Ontario Unofficial Championship Rankings",
+      "description": "Rankings for 2020, 2021 Unofficial tournament "
+    },
+    {
+      "view_id": "353",
+      "title": "2026 Madison Wisconsin Rankings",
+      "description": "WPPR points earned in events held in Madison, WI"
+    },
+    {
+      "view_id": "354",
+      "title": "Peter Dahlman Group",
+      "description": "WPPR points earned all-time for specific group of players"
+    },
+    {
+      "view_id": "355",
+      "title": "Lahti Pinball Society Ranking",
+      "description": "WPPR points earned by players living in Lahti, Finland"
+    },
+    {
+      "view_id": "358",
+      "title": "2022 - IFPA German Championship Series",
+      "description": "Top 64 qualify for IFPA Germany Country Championship"
+    },
+    {
+      "view_id": "359",
+      "title": "2025 - IFPA Austrian Championship Series",
+      "description": "Top 48 qualify for IFPA Austrian Country Championship"
+    },
+    {
+      "view_id": "360",
+      "title": "Senior Rankings (Age 65+)",
+      "description": "WPPR points earned over the past 3 years for players aged 65+"
+    },
+    {
+      "view_id": "362",
+      "title": "2023 - Stern Pro Circuit",
+      "description": "WPPRs earned at the 20 Stern Pro Circuit events - top 32 qualify for the SPC Final"
+    },
+    {
+      "view_id": "365",
+      "title": "2024 - IFPA Slovenian Championship Series",
+      "description": "WPPR points earned for all events within Slovenia during 2024"
+    },
+    {
+      "view_id": "366",
+      "title": "2026 - IFPA Danish Championship Series",
+      "description": "WPPRs earned within Denmark for 2026"
+    },
+    {
+      "view_id": "368",
+      "title": "Ranking of Halland",
+      "description": "WPPR's earned by residents of Halland - 2023"
+    },
+    {
+      "view_id": "369",
+      "title": "Ranking of Blekinge",
+      "description": "WPPRs earned by residents of Blekinge - 2023"
+    },
+    {
+      "view_id": "370",
+      "title": "Ranking of Småland",
+      "description": "WPPRs earned by residents of Småland - 2023"
+    },
+    {
+      "view_id": "371",
+      "title": "2025 - IFPA Netherlands Championship Series",
+      "description": "WPPR points earned from events within Netherlands during 2025"
+    },
+    {
+      "view_id": "372",
+      "title": "2025 - IFPA Polish Championship Series",
+      "description": "WPPRs earned within Poland for 2025"
+    },
+    {
+      "view_id": "373",
+      "title": "Ranking of Västerbotten",
+      "description": "WPPRs earned by residents of Västerbotten"
+    },
+    {
+      "view_id": "374",
+      "title": "Ranking of Jämtland",
+      "description": "WPPRs earned by residents of Jämtland - 2023"
+    },
+    {
+      "view_id": "375",
+      "title": "2025 - European Rankings - Womens Events",
+      "description": "Womens WPPRs earned at all events held within Europe for 2025."
+    },
+    {
+      "view_id": "376",
+      "title": "2023 - IFPA German Championship Series",
+      "description": "Top 64 qualify for IFPA Germany Country Championship"
+    },
+    {
+      "view_id": "377",
+      "title": "Switzerland - ALL TIME",
+      "description": "WPPR points earned in Switzerland"
+    },
+    {
+      "view_id": "378",
+      "title": "Liechtenstein - ALL TIME",
+      "description": "Wppr points earned in Liechtenstein"
+    },
+    {
+      "view_id": "380",
+      "title": "Switzerland and Liechtenstein - ALL TIME",
+      "description": "WPPR points earned in Switzerland and Liechtenstein"
+    },
+    {
+      "view_id": "381",
+      "title": "Emerald City Pinball League - ALL TIME",
+      "description": "WPPR points earned for any Emerald City Pinball League"
+    },
+    {
+      "view_id": "382",
+      "title": "Eugene Oregon - ALL TIME",
+      "description": "WPPR points earned for any event held in Eugene Oregon"
+    },
+    {
+      "view_id": "383",
+      "title": "2019 - IL Events",
+      "description": "Total IL events for 2019"
+    },
+    {
+      "view_id": "384",
+      "title": "2018 - IL Events",
+      "description": "Total IL events for 2018"
+    },
+    {
+      "view_id": "385",
+      "title": "2026 - Stockholm Sweden Rankings",
+      "description": "Total WPPRs earned in 2026 for events held in Stockholm Sweden"
+    },
+    {
+      "view_id": "386",
+      "title": "2025 - IFPA United Kingdom Championship Series (not UKCS)",
+      "description": "WPPRs earned across all UK events for 2025"
+    },
+    {
+      "view_id": "389",
+      "title": "Cape Fear Flipper Club - 2023",
+      "description": "WPPR points earned at events organized by Eric Sutton and Dale Becker - 2023"
+    },
+    {
+      "view_id": "390",
+      "title": "Cape Fear Flipper Club - 2024",
+      "description": "WPPR points earned at events organized by Eric Sutton and Dale Becker - 2024"
+    },
+    {
+      "view_id": "391",
+      "title": "Cape Fear Flipper Club - 2023 - WOMEN",
+      "description": "Womens WPPR points earned at events organized by Eric Sutton and Dale Becker - 2023"
+    },
+    {
+      "view_id": "392",
+      "title": "Cape Fear Flipper Club - 2024 - WOMEN",
+      "description": "Womens WPPR points earned at events organized by Eric Sutton and Dale Becker - 2024"
+    },
+    {
+      "view_id": "393",
+      "title": "Murrells Inlet Pinheads",
+      "description": "WPPR points awarded for all tournaments and leagues organized by Kevin Myers"
+    },
+    {
+      "view_id": "394",
+      "title": "2023 - Japan Championship Series",
+      "description": "WPPRs earned in Japan for 2023"
+    },
+    {
+      "view_id": "395",
+      "title": "2024 - Stern Pro Circuit",
+      "description": "WPPRs earned at the 20 Stern Pro Circuit events - top 32 qualify for the SPC Final"
+    },
+    {
+      "view_id": "397",
+      "title": "Old Gilbert Rd Rankings",
+      "description": "WPPR points earned at Matts Tournament Pinball Old Gilbert Rd events for 2024."
+    },
+    {
+      "view_id": "400",
+      "title": "RedStone Pinball Rankings - All Time",
+      "description": "WPPRs earned at RedStone Pinball events - ALL TIME"
+    },
+    {
+      "view_id": "401",
+      "title": "RedStone Pinball Rankings - 2024",
+      "description": "WPPRs earned at RedStone Pinball events - 2024"
+    },
+    {
+      "view_id": "407",
+      "title": "2024 - IFPA Belgium Championship Series",
+      "description": "WPPRs earned within Belgium for 2024"
+    },
+    {
+      "view_id": "408",
+      "title": "Cape Fear Flipper Club - 2025",
+      "description": "WPPR points earned at events organized by Eric Sutton, Sean Taylor and Dale Becker - 2025"
+    },
+    {
+      "view_id": "409",
+      "title": "Cape Fear Flipper Club - 2025 - WOMEN",
+      "description": "Womens WPPR points earned at events organized by Eric Sutton and Dale Becker - 2025"
+    },
+    {
+      "view_id": "414",
+      "title": "Ground Kontrol Championship Ranking",
+      "description": "WPPR points earned during 2025 at Ground Kontrol in Portland, OR"
+    },
+    {
+      "view_id": "415",
+      "title": "2025 - Stern Pro Circuit",
+      "description": "WPPRs earned at the 20 Stern Pro Circuit events - top 32 qualify for the SPC Final"
+    },
+    {
+      "view_id": "416",
+      "title": "2025 - IFPA Women’s European Championship Series",
+      "description": "top 16 qualify for the IFPA Women’s European Pinball Championship."
+    },
+    {
+      "view_id": "417",
+      "title": "2025 - IFPA European Championship Series (ECS)",
+      "description": "Top 49 players qualify for the IFPA European Pinball Championship"
+    },
+    {
+      "view_id": "418",
+      "title": "Trondheim Norway Rankings",
+      "description": "WPPR points earned by players who live in Trondheim Norway"
+    },
+    {
+      "view_id": "419",
+      "title": "2025 - Over 40 Michigan Rankings",
+      "description": "WPPRs earned in Michigan for players aged 40 or older for 2025"
+    },
+    {
+      "view_id": "420",
+      "title": "2025 - IFPA German Championship Series",
+      "description": "Top 64 qualify for IFPA Germany Country Championship"
+    },
+    {
+      "view_id": "421",
+      "title": "2025 - Argentina Rankings",
+      "description": "WPPR points earned for events played in Argentina in 2025"
+    },
+    {
+      "view_id": "422",
+      "title": "Senior Rankings (Age 60+)",
+      "description": "WPPR points earned over the past 3 years for players aged 60+"
+    },
+    {
+      "view_id": "423",
+      "title": "2025 - Women\\'s French Championship Series (WFCS)",
+      "description": "WPPR's earned in France for 2025 (Women's events)"
+    }
+  ]
+}

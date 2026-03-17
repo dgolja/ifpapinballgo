@@ -1,0 +1,164 @@
+{
+  "series_code": "ACS",
+  "region_code": "NSW",
+  "year": 2025,
+  "monthly_stats": [
+    {
+      "month": "1",
+      "tournament_count": "5",
+      "player_count": "100",
+      "unique_player_count": "77",
+      "prize_fund": "65.00"
+    },
+    {
+      "month": "2",
+      "tournament_count": "11",
+      "player_count": "185",
+      "unique_player_count": "96",
+      "prize_fund": "120.25"
+    },
+    {
+      "month": "3",
+      "tournament_count": "6",
+      "player_count": "105",
+      "unique_player_count": "77",
+      "prize_fund": "68.25"
+    },
+    {
+      "month": "4",
+      "tournament_count": "14",
+      "player_count": "389",
+      "unique_player_count": "149",
+      "prize_fund": "252.85"
+    },
+    {
+      "month": "5",
+      "tournament_count": "11",
+      "player_count": "183",
+      "unique_player_count": "102",
+      "prize_fund": "118.95"
+    },
+    {
+      "month": "6",
+      "tournament_count": "12",
+      "player_count": "229",
+      "unique_player_count": "117",
+      "prize_fund": "148.85"
+    },
+    {
+      "month": "7",
+      "tournament_count": "14",
+      "player_count": "259",
+      "unique_player_count": "128",
+      "prize_fund": "168.35"
+    },
+    {
+      "month": "8",
+      "tournament_count": "10",
+      "player_count": "208",
+      "unique_player_count": "110",
+      "prize_fund": "135.20"
+    },
+    {
+      "month": "9",
+      "tournament_count": "12",
+      "player_count": "249",
+      "unique_player_count": "122",
+      "prize_fund": "161.85"
+    },
+    {
+      "month": "10",
+      "tournament_count": "13",
+      "player_count": "302",
+      "unique_player_count": "122",
+      "prize_fund": "196.30"
+    },
+    {
+      "month": "11",
+      "tournament_count": "12",
+      "player_count": "559",
+      "unique_player_count": "172",
+      "prize_fund": "363.35"
+    },
+    {
+      "month": "12",
+      "tournament_count": "11",
+      "player_count": "267",
+      "unique_player_count": "124",
+      "prize_fund": "173.55"
+    }
+  ],
+  "yearly_stats": {
+    "player_count": "372",
+    "unique_player_count": "372",
+    "tournament_count": 131,
+    "prize_fund": 1972.7499999999998,
+    "field_size": 16
+  },
+  "payouts": [
+    {
+      "position": 1,
+      "prize_fund": 591.8249999999999
+    },
+    {
+      "position": 2,
+      "prize_fund": 355.09499999999997
+    },
+    {
+      "position": 3,
+      "prize_fund": 236.72999999999996
+    },
+    {
+      "position": 4,
+      "prize_fund": 157.82
+    },
+    {
+      "position": 5,
+      "prize_fund": 78.91
+    },
+    {
+      "position": 6,
+      "prize_fund": 78.91
+    },
+    {
+      "position": 7,
+      "prize_fund": 78.91
+    },
+    {
+      "position": 8,
+      "prize_fund": 78.91
+    },
+    {
+      "position": 9,
+      "prize_fund": 39.455
+    },
+    {
+      "position": 10,
+      "prize_fund": 39.455
+    },
+    {
+      "position": 11,
+      "prize_fund": 39.455
+    },
+    {
+      "position": 12,
+      "prize_fund": 39.455
+    },
+    {
+      "position": 13,
+      "prize_fund": 39.455
+    },
+    {
+      "position": 14,
+      "prize_fund": 39.455
+    },
+    {
+      "position": 15,
+      "prize_fund": 39.455
+    },
+    {
+      "position": 16,
+      "prize_fund": 39.455
+    }
+  ]
+}

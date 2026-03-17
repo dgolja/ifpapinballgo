@@ -1,0 +1,234 @@
+{
+  "type": "Points given Period",
+  "start_date": "2024-01-01",
+  "end_date": "2024-12-31",
+  "return_count": 25,
+  "rank_type": "OPEN",
+  "stats": [
+    {
+      "player_id": "16004",
+      "first_name": "Viggo",
+      "last_name": "Löwgren",
+      "country_name": "Sweden",
+      "country_code": "SE",
+      "wppr_points": "3049.84",
+      "stats_rank": 1
+    },
+    {
+      "player_id": "49549",
+      "first_name": "Arvid",
+      "last_name": "Flygare",
+      "country_name": "Sweden",
+      "country_code": "SE",
+      "wppr_points": "2770.40",
+      "stats_rank": 2
+    },
+    {
+      "player_id": "880",
+      "first_name": "Marcus",
+      "last_name": "Hugosson",
+      "country_name": "Sweden",
+      "country_code": "SE",
+      "wppr_points": "1038.58",
+      "stats_rank": 3
+    },
+    {
+      "player_id": "46471",
+      "first_name": "Johnny",
+      "last_name": "Mårtensson",
+      "country_name": "Sweden",
+      "country_code": "SE",
+      "wppr_points": "811.90",
+      "stats_rank": 4
+    },
+    {
+      "player_id": "882",
+      "first_name": "Christian",
+      "last_name": "Holmsten",
+      "country_name": "Sweden",
+      "country_code": "SE",
+      "wppr_points": "792.47",
+      "stats_rank": 5
+    },
+    {
+      "player_id": "9125",
+      "first_name": "Jonas",
+      "last_name": "Valström",
+      "country_name": "Sweden",
+      "country_code": "SE",
+      "wppr_points": "782.96",
+      "stats_rank": 6
+    },
+    {
+      "player_id": "734",
+      "first_name": "Linus",
+      "last_name": "Persson",
+      "country_name": "Sweden",
+      "country_code": "SE",
+      "wppr_points": "737.21",
+      "stats_rank": 7
+    },
+    {
+      "player_id": "392",
+      "first_name": "Thomas",
+      "last_name": "Mästerman",
+      "country_name": "Sweden",
+      "country_code": "SE",
+      "wppr_points": "702.53",
+      "stats_rank": 8
+    },
+    {
+      "player_id": "2805",
+      "first_name": "Andreas",
+      "last_name": "Frid",
+      "country_name": "Sweden",
+      "country_code": "SE",
+      "wppr_points": "555.79",
+      "stats_rank": 9
+    },
+    {
+      "player_id": "88294",
+      "first_name": "Kristoffer",
+      "last_name": "Pålsson",
+      "country_name": "Sweden",
+      "country_code": "SE",
+      "wppr_points": "509.35",
+      "stats_rank": 10
+    },
+    {
+      "player_id": "9041",
+      "first_name": "Johan",
+      "last_name": "Lööv",
+      "country_name": "Sweden",
+      "country_code": "SE",
+      "wppr_points": "455.51",
+      "stats_rank": 11
+    },
+    {
+      "player_id": "65395",
+      "first_name": "Roger",
+      "last_name": "Karlsson",
+      "country_name": "Sweden",
+      "country_code": "SE",
+      "wppr_points": "449.05",
+      "stats_rank": 12
+    },
+    {
+      "player_id": "4327",
+      "first_name": "Fredrik",
+      "last_name": "Löwgren",
+      "country_name": "Sweden",
+      "country_code": "SE",
+      "wppr_points": "444.00",
+      "stats_rank": 13
+    },
+    {
+      "player_id": "123",
+      "first_name": "Anders",
+      "last_name": "Carlsson",
+      "country_name": "Sweden",
+      "country_code": "SE",
+      "wppr_points": "435.16",
+      "stats_rank": 14
+    },
+    {
+      "player_id": "56356",
+      "first_name": "Mattias",
+      "last_name": "Borgström",
+      "country_name": "Sweden",
+      "country_code": "SE",
+      "wppr_points": "430.54",
+      "stats_rank": 15
+    },
+    {
+      "player_id": "7309",
+      "first_name": "David",
+      "last_name": "Dahl-Hansson",
+      "country_name": "Sweden",
+      "country_code": "SE",
+      "wppr_points": "408.16",
+      "stats_rank": 16
+    },
+    {
+      "player_id": "8677",
+      "first_name": "Karyn",
+      "last_name": "Kiser",
+      "country_name": "Sweden",
+      "country_code": "SE",
+      "wppr_points": "405.22",
+      "stats_rank": 17
+    },
+    {
+      "player_id": "13",
+      "first_name": "Mats",
+      "last_name": "Runsten",
+      "country_name": "Sweden",
+      "country_code": "SE",
+      "wppr_points": "388.31",
+      "stats_rank": 18
+    },
+    {
+      "player_id": "4328",
+      "first_name": "Patrik",
+      "last_name": "Nilsson",
+      "country_name": "Sweden",
+      "country_code": "SE",
+      "wppr_points": "374.89",
+      "stats_rank": 19
+    },
+    {
+      "player_id": "103",
+      "first_name": "Helena",
+      "last_name": "Walter Higgins",
+      "country_name": "Sweden",
+      "country_code": "SE",
+      "wppr_points": "355.13",
+      "stats_rank": 20
+    },
+    {
+      "player_id": "11291",
+      "first_name": "Peter",
+      "last_name": "Franck",
+      "country_name": "Sweden",
+      "country_code": "SE",
+      "wppr_points": "353.08",
+      "stats_rank": 21
+    },
+    {
+      "player_id": "48158",
+      "first_name": "Joakim",
+      "last_name": "Sjöblom",
+      "country_name": "Sweden",
+      "country_code": "SE",
+      "wppr_points": "319.36",
+      "stats_rank": 22
+    },
+    {
+      "player_id": "16476",
+      "first_name": "Krister",
+      "last_name": "Skoglund",
+      "country_name": "Sweden",
+      "country_code": "SE",
+      "wppr_points": "308.25",
+      "stats_rank": 23
+    },
+    {
+      "player_id": "32900",
+      "first_name": "Martin",
+      "last_name": "Arenlind",
+      "country_name": "Sweden",
+      "country_code": "SE",
+      "wppr_points": "307.56",
+      "stats_rank": 24
+    },
+    {
+      "player_id": "11575",
+      "first_name": "Michael",
+      "last_name": "Mattsson",
+      "country_name": "Sweden",
+      "country_code": "SE",
+      "wppr_points": "291.12",
+      "stats_rank": 25
+    }
+  ]
+}

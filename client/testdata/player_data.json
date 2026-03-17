@@ -1,0 +1,87 @@
+{
+  "player": [
+    {
+      "player_id": "44334",
+      "first_name": "Dejan",
+      "last_name": "Golja",
+      "initials": "DGO",
+      "excluded_flag": "false",
+      "age": 46,
+      "city": "",
+      "stateprov": "NSW",
+      "country_name": "Australia",
+      "country_code": "AU",
+      "ifpa_registered": "true",
+      "womens_flag": "false",
+      "virtual_player_flag": "false",
+      "profile_photo": "",
+      "matchplay_events": {
+        "id": "3581",
+        "rating": "1547",
+        "rank": "8780"
+      },
+      "twitch_username": null,
+      "pinside_username": null,
+      "player_stats": {
+        "system": {
+          "open": {
+            "current_rank": "5618",
+            "last_month_rank": "6061",
+            "last_year_rank": "5389",
+            "highest_rank": "2045",
+            "highest_rank_date": "2017-12-01",
+            "pro_rank": "",
+            "current_points": "41.7425",
+            "all_time_points": "124.05",
+            "active_points": "58.3900",
+            "inactive_points": "65.6600",
+            "best_finish": "2",
+            "best_finish_count": "6",
+            "average_finish": "19",
+            "average_finish_last_year": "13",
+            "total_events_all_time": "95",
+            "total_active_events": "18",
+            "total_events_away": "24",
+            "total_wins_last_3_years": "0",
+            "top_3_last_3_years": "0",
+            "top_10_last_3_years": "6",
+            "ratings_rank": "3581",
+            "ratings_value": "1457.86",
+            "efficiency_rank": "10310",
+            "efficiency_value": "8.080"
+          }
+        },
+        "years_active": "9"
+      },
+      "series": [
+        {
+          "series_code": "ACS",
+          "region_code": "NSW",
+          "region_name": "New South Wales",
+          "year": "2023",
+          "total_points": "8.15",
+          "series_rank": "54",
+          "system": "open"
+        },
+        {
+          "series_code": "ACS",
+          "region_code": "NSW",
+          "region_name": "New South Wales",
+          "year": "2025",
+          "total_points": "11.67",
+          "series_rank": "113",
+          "system": "open"
+        },
+        {
+          "series_code": "ACS",
+          "region_code": "NSW",
+          "region_name": "New South Wales",
+          "year": "2026",
+          "total_points": "6.26",
+          "series_rank": "45",
+          "system": "open"
+        }
+      ]
+    }
+  ]
+}
