@@ -11,7 +11,7 @@ The official spec (v2.1) has several issues. The most notable ones are:
 - Missing type annotations: some numeric fields are returned by the API as strings (or inconsistently as both strings and numbers).
 - Missing or misspelled fields.
 
-I reached out to the IFPA to see if some of these issues can be fixed. Once they are resolved, I will update the client library.
+I reached out to the IFPA to see if some of these issues can be fixed. Once they are resolved, I will update the client library. Full CHANGELOG available [here](./CHANGELOG.SPEC.md).
 
 ## Backwards compatibility guarantee
 
