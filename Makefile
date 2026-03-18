@@ -78,6 +78,10 @@ test: ## Run all tests
 	@echo "Running tests..."
 	go test -v -race -cover ./client ./types
 
+.PHONY: fmt
+fmt: ## format GO files
+	@test -z "$(shell gofmt -l .)" || (echo "Code is not formatted. Run 'make fmt'"; exit 1)
+
 .PHONY: clean
 clean: ## Removes the /.bin directory.
 	rm -rf $(TOOLS_BIN)
