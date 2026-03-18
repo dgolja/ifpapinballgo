@@ -9,6 +9,22 @@ on:
 
 jobs:
 
+  gen-client:
+    runs-on: ubuntu-latest
+    steps:
+    - uses: actions/checkout@v6
+
+    - name: Set up Go
+      uses: actions/setup-go@v6
+      with:
+        go-version: '1.25'
+
+    - name: Generate client
+      run: make gen-client
+
+    - name: Check if git is dirty
+      run: make ci-check-dirty
+
   test:
     runs-on: ubuntu-latest
     steps:

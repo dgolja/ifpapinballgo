@@ -81,3 +81,8 @@ test: ## Run all tests
 .PHONY: clean
 clean: ## Removes the /.bin directory.
 	rm -rf $(TOOLS_BIN)
+
+.PHONY: ci-check-dirty
+ci-check-dirty:
+	git status || true
+	git diff --quiet || (echo 'dirty files found' && exit 1)
