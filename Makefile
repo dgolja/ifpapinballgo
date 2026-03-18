@@ -79,8 +79,8 @@ test: ## Run all tests
 	go test -v -race -cover ./client ./types
 
 .PHONY: fmt
-fmt: ## format GO files
-	@test -z "$(shell gofmt -l .)" || (echo "Code is not formatted. Run 'make fmt'"; exit 1)
+fmt: ## Check if GO files are formatted
+	@test -z "$(shell gofmt -l .)" || (echo "Code is not formatted. Run 'gofmt -s -w .'"; exit 1)
 
 .PHONY: clean
 clean: ## Removes the /.bin directory.

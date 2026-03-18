@@ -7,6 +7,9 @@ on:
   pull_request:
     branches: [ "main" ]
 
+env:
+  GO_VERSION: '1.25'
+
 jobs:
 
   apply-overlay:
@@ -17,13 +20,25 @@ jobs:
     - name: Set up Go
       uses: actions/setup-go@v6
       with:
-        go-version: '1.25'
+        go-version: ${{ env.GO_VERSION }}
 
     - name: Apply overlay on the spec
       run: make apply-overlay
 
     - name: Check if git is dirty
       run: make ci-check-dirty
+
+  fmt:
+    runs-on: ubuntu-latest
+    steps:
+    - uses: actions/checkout@v6
+
+    - name: Set up Go
+      uses: actions/setup-go@v6
+      with:
+        go-version: ${{ env.GO_VERSION }}
+
+    - run: make fmt
 
   gen-client:
     runs-on: ubuntu-latest
@@ -33,7 +48,7 @@ jobs:
     - name: Set up Go
       uses: actions/setup-go@v6
       with:
-        go-version: '1.25'
+        go-version: ${{ env.GO_VERSION }}
 
     - name: Generate client
       run: make gen-client
@@ -49,7 +64,7 @@ jobs:
     - name: Set up Go
       uses: actions/setup-go@v6
       with:
-        go-version: '1.25'
+        go-version: ${{ env.GO_VERSION }}
 
     - name: Test
       run: make test
