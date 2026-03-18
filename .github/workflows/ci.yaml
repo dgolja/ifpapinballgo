@@ -9,6 +9,22 @@ on:
 
 jobs:
 
+  apply-overlay:
+    runs-on: ubuntu-latest
+    steps:
+    - uses: actions/checkout@v6
+
+    - name: Set up Go
+      uses: actions/setup-go@v6
+      with:
+        go-version: '1.25'
+
+    - name: Apply overlay on the spec
+      run: make apply-overlay
+
+    - name: Check if git is dirty
+      run: make ci-check-dirty
+
   gen-client:
     runs-on: ubuntu-latest
     steps:
