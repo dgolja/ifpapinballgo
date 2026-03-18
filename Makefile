@@ -78,6 +78,15 @@ test: ## Run all tests
 	@echo "Running tests..."
 	go test -v -race -cover ./client ./types
 
+.PHONY: fmt
+fmt: ## Check if GO files are formatted
+	@test -z "$(shell gofmt -l .)" || (echo "Code is not formatted. Run 'gofmt -s -w .'"; exit 1)
+
 .PHONY: clean
 clean: ## Removes the /.bin directory.
 	rm -rf $(TOOLS_BIN)
+
+.PHONY: ci-check-dirty
+ci-check-dirty:
+	git status || true
+	git diff --quiet || (echo 'dirty files found' && exit 1)

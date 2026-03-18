@@ -227,10 +227,10 @@ func TestStringBool(t *testing.T) {
 			wantErr:  false,
 		},
 		{
-			name:    "null value",
-			input:   `null`,
+			name:     "null value",
+			input:    `null`,
 			expected: StringBool(false),
-			wantErr: false,
+			wantErr:  false,
 		},
 		{
 			name:    "invalid string",
@@ -292,10 +292,10 @@ func TestTourRelatedWinner(t *testing.T) {
 
 // Example of how to use these types in a struct
 type PlayerExample struct {
-	PlayerID    string         `json:"player_id"`
-	FirstName   string         `json:"first_name"`
-	LastName    string         `json:"last_name"`
-	Age         FlexibleInt    `json:"age"`          // Can be number or empty string
+	PlayerID  string      `json:"player_id"`
+	FirstName string      `json:"first_name"`
+	LastName  string      `json:"last_name"`
+	Age       FlexibleInt `json:"age"` // Can be number or empty string
 }
 
 func TestPlayerExampleUnmarshal(t *testing.T) {

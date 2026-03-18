@@ -2,6 +2,12 @@
 
 A Go client library for the IFPA (International Flippper Pinball Association) [API](https://api.ifpapinball.com/docs/).
 
+#### Build status
+
+![CI](https://github.com/dgolja/ifpapinballgo/actions/workflows/ci.yaml/badge.svg?branch=main)
+
+## Description
+
 The Go client is generated from the *modified* [spec](ifpapinball-official-api.modified.yaml), not the official one.
 
 The [official IFPA OpenAPI spec 2.1](https://api.ifpapinball.com/docs/) is incomplete (missing fields) and contains structural errors that are incompatible with code generation for statically typed languages. The overlay ([ifpapinball-overlay.yaml](ifpapinball-overlay.yaml)) patches these issues before generation.
