@@ -7,8 +7,8 @@ on:
 
 jobs:
 
-  apply-overlay:
-    if: github.event.repository.fork == false
+  check-ifpa-api:
+    if: github.repository == 'dgolja/ifpapinballgo'
     runs-on: ubuntu-latest
     steps:
     - uses: actions/checkout@v6
