@@ -1,0 +1,20 @@
+name: Weekly check for newer IFPA API spec
+
+on:
+  schedule:
+    - cron: '0 11 * * 2'
+  workflow_dispatch:
+
+jobs:
+
+  apply-overlay:
+    if: github.event.repository.fork == false
+    runs-on: ubuntu-latest
+    steps:
+    - uses: actions/checkout@v6
+
+    - name: Retrieve IFPA API from ifpapinball.com
+      run: make get-ifpa-api
+
+    - name: Check if IFPA API changed
+      run: make ci-check-dirty
