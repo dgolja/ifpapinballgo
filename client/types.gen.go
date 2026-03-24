@@ -541,7 +541,7 @@ type SeriesPlayersCardParams struct {
 // SeriesRegionsParams defines parameters for SeriesRegions.
 type SeriesRegionsParams struct {
 	// Year Speific Year for the Series (defaults to current year)
-	Year *float32 `form:"year,omitempty" json:"year,omitempty"`
+	Year *int `form:"year,omitempty" json:"year,omitempty"`
 }
 
 // SeriesRegionsParamsSeriesCode defines parameters for SeriesRegions.
