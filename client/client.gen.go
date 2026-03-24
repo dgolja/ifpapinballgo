@@ -2078,7 +2078,7 @@ func NewSeriesRegionsRequest(server string, seriesCode SeriesRegionsParamsSeries
 
 		if params.Year != nil {
 
-			if queryFrag, err := runtime.StyleParamWithOptions("form", true, "year", *params.Year, runtime.StyleParamOptions{ParamLocation: runtime.ParamLocationQuery, Type: "number", Format: ""}); err != nil {
+			if queryFrag, err := runtime.StyleParamWithOptions("form", true, "year", *params.Year, runtime.StyleParamOptions{ParamLocation: runtime.ParamLocationQuery, Type: "integer", Format: ""}); err != nil {
 				return nil, err
 			} else if parsed, err := url.ParseQuery(queryFrag); err != nil {
 				return nil, err
@@ -4846,8 +4846,8 @@ type SeriesRegionsResponse struct {
 			RegionCode *string `json:"region_code,omitempty"`
 			RegionName *string `json:"region_name,omitempty"`
 		} `json:"active_regions,omitempty"`
-		SeriesCode *string  `json:"series_code,omitempty"`
-		Year       *float32 `json:"year,omitempty"`
+		SeriesCode *string `json:"series_code,omitempty"`
+		Year       *int    `json:"year,omitempty"`
 	}
 }
 
@@ -5181,7 +5181,7 @@ type StatsOverallResponse struct {
 	HTTPResponse *http.Response
 	JSON200      *struct {
 		Stats *struct {
-			ActivePlayerCount *float32 `json:"active_player_count,omitempty"`
+			ActivePlayerCount *int `json:"active_player_count,omitempty"`
 			Age               *struct {
 				Age18To29  *float32 `json:"age_18_to_29,omitempty"`
 				Age30To39  *float32 `json:"age_30_to_39,omitempty"`
@@ -5189,11 +5189,11 @@ type StatsOverallResponse struct {
 				Age50To99  *float32 `json:"age_50_to_99,omitempty"`
 				AgeUnder18 *float32 `json:"age_under_18,omitempty"`
 			} `json:"age,omitempty"`
-			OverallPlayerCount           *float32 `json:"overall_player_count,omitempty"`
-			TournamentCount              *float32 `json:"tournament_count,omitempty"`
-			TournamentCountLastMonth     *float32 `json:"tournament_count_last_month,omitempty"`
-			TournamentCountThisYear      *float32 `json:"tournament_count_this_year,omitempty"`
-			TournamentPlayerCount        *float32 `json:"tournament_player_count,omitempty"`
+			OverallPlayerCount           *int     `json:"overall_player_count,omitempty"`
+			TournamentCount              *int     `json:"tournament_count,omitempty"`
+			TournamentCountLastMonth     *int     `json:"tournament_count_last_month,omitempty"`
+			TournamentCountThisYear      *int     `json:"tournament_count_this_year,omitempty"`
+			TournamentPlayerCount        *int     `json:"tournament_player_count,omitempty"`
 			TournamentPlayerCountAverage *float32 `json:"tournament_player_count_average,omitempty"`
 		} `json:"stats,omitempty"`
 		SystemCode *string `json:"system_code,omitempty"`
@@ -7370,8 +7370,8 @@ func ParseSeriesRegionsResponse(rsp *http.Response) (*SeriesRegionsResponse, err
 				RegionCode *string `json:"region_code,omitempty"`
 				RegionName *string `json:"region_name,omitempty"`
 			} `json:"active_regions,omitempty"`
-			SeriesCode *string  `json:"series_code,omitempty"`
-			Year       *float32 `json:"year,omitempty"`
+			SeriesCode *string `json:"series_code,omitempty"`
+			Year       *int    `json:"year,omitempty"`
 		}
 		if err := json.Unmarshal(bodyBytes, &dest); err != nil {
 			return nil, err
@@ -7741,7 +7741,7 @@ func ParseStatsOverallResponse(rsp *http.Response) (*StatsOverallResponse, error
 	case strings.Contains(rsp.Header.Get("Content-Type"), "json") && rsp.StatusCode == 200:
 		var dest struct {
 			Stats *struct {
-				ActivePlayerCount *float32 `json:"active_player_count,omitempty"`
+				ActivePlayerCount *int `json:"active_player_count,omitempty"`
 				Age               *struct {
 					Age18To29  *float32 `json:"age_18_to_29,omitempty"`
 					Age30To39  *float32 `json:"age_30_to_39,omitempty"`
@@ -7749,11 +7749,11 @@ func ParseStatsOverallResponse(rsp *http.Response) (*StatsOverallResponse, error
 					Age50To99  *float32 `json:"age_50_to_99,omitempty"`
 					AgeUnder18 *float32 `json:"age_under_18,omitempty"`
 				} `json:"age,omitempty"`
-				OverallPlayerCount           *float32 `json:"overall_player_count,omitempty"`
-				TournamentCount              *float32 `json:"tournament_count,omitempty"`
-				TournamentCountLastMonth     *float32 `json:"tournament_count_last_month,omitempty"`
-				TournamentCountThisYear      *float32 `json:"tournament_count_this_year,omitempty"`
-				TournamentPlayerCount        *float32 `json:"tournament_player_count,omitempty"`
+				OverallPlayerCount           *int     `json:"overall_player_count,omitempty"`
+				TournamentCount              *int     `json:"tournament_count,omitempty"`
+				TournamentCountLastMonth     *int     `json:"tournament_count_last_month,omitempty"`
+				TournamentCountThisYear      *int     `json:"tournament_count_this_year,omitempty"`
+				TournamentPlayerCount        *int     `json:"tournament_player_count,omitempty"`
 				TournamentPlayerCountAverage *float32 `json:"tournament_player_count_average,omitempty"`
 			} `json:"stats,omitempty"`
 			SystemCode *string `json:"system_code,omitempty"`

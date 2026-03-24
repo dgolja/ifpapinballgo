@@ -2471,7 +2471,7 @@ paths:
                   in: query
                   description: Speific Year for the Series (defaults to current year)
                   schema:
-                    type: number
+                    type: integer
                   required: false
             responses:
                 "200":
@@ -2481,7 +2481,7 @@ paths:
                             schema:
                                 properties:
                                     year:
-                                        type: number
+                                        type: integer
                                         example: 2024
                                     series_code:
                                         type: string
@@ -3645,44 +3645,44 @@ paths:
                                         type: object
                                         properties:
                                             overall_player_count:
-                                                type: number
+                                                type: integer
                                                 example: 51515
                                             active_player_count:
-                                                type: number
+                                                type: integer
                                                 example: 44145
                                             tournament_count:
-                                                type: number
+                                                type: integer
                                                 example: 1241
                                             tournament_count_last_month:
-                                                type: number
+                                                type: integer
                                                 example: 161
                                             tournament_count_this_year:
-                                                type: number
+                                                type: integer
                                                 example: 1616
                                             tournament_player_count:
-                                                type: number
+                                                type: integer
                                                 example: 51516
                                             tournament_player_count_average:
                                                 type: number
-                                                example: 11241
+                                                example: 22.9
                                             age:
                                                 type: object
                                                 properties:
                                                     age_under_18:
                                                         type: number
-                                                        example: 145
+                                                        example: 3.57
                                                     age_18_to_29:
                                                         type: number
-                                                        example: 616
+                                                        example: 9.74
                                                     age_30_to_39:
                                                         type: number
-                                                        example: 12414
+                                                        example: 22.86
                                                     age_40_to_49:
                                                         type: number
-                                                        example: 26712
+                                                        example: 30.81
                                                     age_50_to_99:
                                                         type: number
-                                                        example: 1451
+                                                        example: 33.02
     /tournament/formats:
         get:
             tags:
