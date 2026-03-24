@@ -316,7 +316,8 @@ Current changes between [ifpapinball-official-api.yaml](./ifpapinball-official-a
 ## `/series/{series_code}/regions`
 
 ### Spec changes
-- Parameter `year` — marked `required: false`
+- Parameter `year` — marked `required: false`; type changed from `number` to `integer`
+- Response `year` field — type changed from `number` to `integer`
 - `active_regions` — **fixed**: changed from `type: object` to `type: array` with proper `items` schema
 - Removed top-level `type` from response schema
 
@@ -512,6 +513,8 @@ Current changes between [ifpapinball-official-api.yaml](./ifpapinball-official-a
 ### Spec changes
 - Parameter `year` — marked `required: false`
 - `stats.age_gender` — **removed**; replaced with `stats.age` object containing explicit age bracket fields: `age_under_18`, `age_18_to_29`, `age_30_to_39`, `age_40_to_49`, `age_50_to_99`
+- `stats.overall_player_count`, `active_player_count`, `tournament_count`, `tournament_count_last_month`, `tournament_count_this_year`, `tournament_player_count` — type changed from `number` to `integer`
+- `stats.tournament_player_count_average` example corrected to decimal (`22.9`); age bracket examples corrected to decimal percentages
 
 ---
 
@@ -600,3 +603,12 @@ Current changes between [ifpapinball-official-api.yaml](./ifpapinball-official-a
 - `total_results` — type changed from implicit to `number`
 - `tournaments` — **fixed**: changed from `type: object` to `type: array` with significantly expanded `items` schema
 - **Added** new tournament search result fields: `event_type`, `address1`, `address2`, `postal_code`, `event_start_date`, `latitude`, `longitude`, `raw_address`, `preregistration_date`, `qualifying_format`, `finals_format`, `director_id`, `director_name`, `website`, `details`, `profile_photo`, `certified_flag`, `winner` (object with `player_id`, `player_name`, `wppr_points`, `profile_photo`, `excluded_flag`, `country_cd`)
+
+---
+
+## History
+
+### 2026-03-24
+
+- `/series/{series_code}/regions`: `year` parameter and response field type changed from `number` to `integer`
+- `/stats/overall`: count fields (`overall_player_count`, `active_player_count`, `tournament_count`, `tournament_count_last_month`, `tournament_count_this_year`, `tournament_player_count`) type changed from `number` to `integer`; corrected `tournament_player_count_average` example to decimal (`22.9`) and age bracket examples to decimal percentages
