@@ -8,6 +8,7 @@ TOOLS_BIN := $(PWD)/.bin
 YQ_VERSION := v4.52.4
 OAPI_CODEGEN_VERSION := v2.6.0
 SPEAKEASY_OAPI_VERSION := v0.0.0-20260301231816-65621191fc9d
+GOVULNCHECK_VERSION := v1.8.0
 
 # Detect OS and architecture
 OS := $(shell uname -s | tr '[:upper:]' '[:lower:]')
@@ -33,7 +34,7 @@ help: ## Show this help
 		awk 'BEGIN {FS = ":.*?## "}; {printf "\033[36m%-20s\033[0m %s\n", $$1, $$2}'
 
 .PHONY: install-tools ## Install all tools
-install-tools: $(TOOLS_BIN)/yq $(TOOLS_BIN)/oapi-codegen $(TOOLS_BIN)/openapi ## Install all required tools
+install-tools: $(TOOLS_BIN)/yq $(TOOLS_BIN)/oapi-codegen $(TOOLS_BIN)/openapi $(TOOLS_BIN)/govulncheck ## Install all required tools
 
 $(TOOLS_BIN)/yq: ## install yq
 	@mkdir -p $(TOOLS_BIN)
@@ -48,6 +49,10 @@ $(TOOLS_BIN)/openapi: ## install openapi
 $(TOOLS_BIN)/oapi-codegen: ## install oapi-codegen
 	@mkdir -p $(TOOLS_BIN)
 	GOBIN=$(TOOLS_BIN) go install github.com/oapi-codegen/oapi-codegen/v2/cmd/oapi-codegen@$(OAPI_CODEGEN_VERSION)
+
+$(TOOLS_BIN)/govulncheck: ## install govulncheck
+	@mkdir -p $(TOOLS_BIN)
+	GOBIN=$(TOOLS_BIN) go install golang.org/x/vuln/cmd/govulncheck@$(GOVULNCHECK_VERSION)
 
 .PHONY: apply-overlay
 apply-overlay: $(TOOLS_BIN)/openapi ## Apply ifpapinball-overlay.yaml to the official API spec to produce the modified spec
@@ -81,6 +86,10 @@ test: ## Run all tests
 .PHONY: fmt
 fmt: ## Check if GO files are formatted
 	@test -z "$(shell gofmt -l .)" || (echo "Code is not formatted. Run 'gofmt -s -w .'"; exit 1)
+
+.PHONY: vulncheck
+vulncheck: $(TOOLS_BIN)/govulncheck ## Scan dependencies and stdlib for known vulnerabilities
+	$(TOOLS_BIN)/govulncheck ./...
 
 .PHONY: clean
 clean: ## Removes the /.bin directory.

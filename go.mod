@@ -1,8 +1,8 @@
 module github.com/dgolja/ifpapinballgo
 
-go 1.25
+go 1.26
 
-toolchain go1.25.8
+toolchain go1.26.8
 
 require github.com/oapi-codegen/runtime v1.2.0
 
