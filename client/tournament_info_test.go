@@ -13,6 +13,18 @@ var sampleTournamentInfoResponse string
 //go:embed testdata/tournament_info_past.json
 var sampleTournamentInfoPastResponse string
 
+//go:embed testdata/tournament_info_future_rich.json
+var sampleTournamentInfoFutureRichResponse string
+
+//go:embed testdata/tournament_info_future_women.json
+var sampleTournamentInfoFutureWomenResponse string
+
+//go:embed testdata/tournament_info_future_youth.json
+var sampleTournamentInfoFutureYouthResponse string
+
+//go:embed testdata/tournament_info_future_registration.json
+var sampleTournamentInfoFutureRegistrationResponse string
+
 func TestTourInfoWithResponse(t *testing.T) {
 	client, mockClient := newTestClient(t, sampleTournamentInfoResponse)
 	ctx := context.Background()
@@ -98,14 +110,31 @@ func TestTourInfoWithResponse(t *testing.T) {
 		t.Errorf("expected ranking_system 'MAIN', got %v", info.RankingSystem)
 	}
 
-	// Verify null field is handled gracefully
-	if info.TournamentValue != nil {
-		t.Errorf("expected tournament_value to be nil, got %v", info.TournamentValue)
+	// Verify values and player counts now that the tournament has been played
+	if info.TournamentValue == nil || float64(*info.TournamentValue) != 8.06 {
+		t.Errorf("expected tournament_value 8.06, got %v", info.TournamentValue)
+	}
+	if info.PlayerCount == nil || int(*info.PlayerCount) != 19 {
+		t.Errorf("expected player_count 19, got %v", info.PlayerCount)
+	}
+	if info.EligiblePlayerCount == nil || int(*info.EligiblePlayerCount) != 17 {
+		t.Errorf("expected eligible_player_count 17, got %v", info.EligiblePlayerCount)
 	}
 
 	// Verify matchplay_id
 	if info.MatchplayId == nil || int(*info.MatchplayId) != 0 {
 		t.Errorf("expected matchplay_id 0, got %v", info.MatchplayId)
+	}
+
+	// Verify newer fields
+	if info.EventClass == nil || *info.EventClass != "NORMAL" {
+		t.Errorf("expected event_class 'NORMAL', got %v", info.EventClass)
+	}
+	if info.ReservedSpots == nil || int(*info.ReservedSpots) != 0 {
+		t.Errorf("expected reserved_spots 0, got %v", info.ReservedSpots)
+	}
+	if info.LocationName != nil || info.RegistrationCost != nil || info.TournamentSystemUrl != nil {
+		t.Errorf("expected null location_name, registration_cost and tournament_system_url to be nil")
 	}
 }
 
@@ -187,5 +216,78 @@ func TestTourInfoPastWithResponse(t *testing.T) {
 	}
 	if info.FinalsFormat == nil || *info.FinalsFormat != "Match Play" {
 		t.Errorf("expected finals_format 'Match Play', got %v", info.FinalsFormat)
+	}
+}
+
+func TestTourInfoFutureWithResponse(t *testing.T) {
+	tests := []struct {
+		name         string
+		body         string
+		id           int
+		rankingSys   string
+		playerLimit  int
+		playerCount  int
+		startTime    string // "" means null
+		tiebreaker   string // "" means null
+		regDate      string
+		costPresent  bool
+		systemPreset bool
+	}{
+		{"rich", sampleTournamentInfoFutureRichResponse, 119159, "MAIN", 64, 42, "13:30:00", "1 Full Game", "", true, true},
+		{"women", sampleTournamentInfoFutureWomenResponse, 115621, "WOMEN", 92, 0, "", "", "", false, false},
+		{"youth", sampleTournamentInfoFutureYouthResponse, 119792, "YOUTH", 0, 0, "", "1 Full Game", "", false, false},
+		{"registration", sampleTournamentInfoFutureRegistrationResponse, 120432, "MAIN", 30, 0, "", "1 Full Game", "2026-07-15", false, false},
+	}
+
+	for _, tc := range tests {
+		t.Run(tc.name, func(t *testing.T) {
+			client, _ := newTestClient(t, tc.body)
+			resp, err := client.TourInfoWithResponse(context.Background(), float32(tc.id))
+			if err != nil {
+				t.Fatalf("unexpected error: %v", err)
+			}
+			if resp.JSON200 == nil {
+				t.Fatal("expected JSON200 to be non-nil")
+			}
+			info := resp.JSON200
+
+			if info.TournamentId == nil || int(*info.TournamentId) != tc.id {
+				t.Errorf("expected tournament_id %d, got %v", tc.id, info.TournamentId)
+			}
+			if info.RankingSystem == nil || *info.RankingSystem != tc.rankingSys {
+				t.Errorf("expected ranking_system %s, got %v", tc.rankingSys, info.RankingSystem)
+			}
+			if info.PlayerLimit == nil || int(*info.PlayerLimit) != tc.playerLimit {
+				t.Errorf("expected player_limit %d, got %v", tc.playerLimit, info.PlayerLimit)
+			}
+			// future tournaments have no computed value yet; player_count is the registered count
+			if info.TournamentValue != nil {
+				t.Errorf("expected tournament_value to be nil, got %v", info.TournamentValue)
+			}
+			if info.PlayerCount == nil || int(*info.PlayerCount) != tc.playerCount {
+				t.Errorf("expected player_count %d, got %v", tc.playerCount, info.PlayerCount)
+			}
+			if info.EventClass == nil || *info.EventClass != "NORMAL" {
+				t.Errorf("expected event_class NORMAL, got %v", info.EventClass)
+			}
+
+			if (tc.startTime == "") != (info.StartTime == nil) || (tc.startTime != "" && *info.StartTime != tc.startTime) {
+				t.Errorf("expected start_time %q, got %v", tc.startTime, info.StartTime)
+			}
+			if (tc.tiebreaker == "") != (info.TiebreakerFormat == nil) || (tc.tiebreaker != "" && *info.TiebreakerFormat != tc.tiebreaker) {
+				t.Errorf("expected tiebreaker_format %q, got %v", tc.tiebreaker, info.TiebreakerFormat)
+			}
+			if info.RegistrationDate == nil || *info.RegistrationDate != tc.regDate {
+				t.Errorf("expected registration_date %q, got %v", tc.regDate, info.RegistrationDate)
+			}
+			if tc.costPresent {
+				if info.RegistrationCost == nil || float64(*info.RegistrationCost) != 10 {
+					t.Errorf("expected registration_cost 10, got %v", info.RegistrationCost)
+				}
+			}
+			if tc.systemPreset && (info.TournamentSystem == nil || *info.TournamentSystem != "Match Play Events") {
+				t.Errorf("expected tournament_system 'Match Play Events', got %v", info.TournamentSystem)
+			}
+		})
 	}
 }

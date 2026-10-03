@@ -4,6 +4,7 @@
   "tournament_type": "Tournament",
   "prestige_flag": "false",
   "private_flag": "false",
+  "location_name": null,
   "address1": "54 Forest Road",
   "address2": "",
   "city": "Arncliffe",
@@ -21,6 +22,8 @@
   "event_name": "Main Tournament",
   "event_start_date": "2026-03-05",
   "event_end_date": "2026-03-05",
+  "start_time": null,
+  "event_class": "NORMAL",
   "event_weight": "1.00",
   "ratings_strength": "1.80",
   "rankings_strength": "0.48",
@@ -37,7 +40,13 @@
   "details": "Thursday Group Matchplay\r\n\r\n5:45pm – Rego & free play.\r\n\r\n6:30pm - Comp begins.\r\n\r\n7/5/3/1 - 7/4/1 scoring\r\n\r\nQualifying: 4 rounds x 2 games / round\r\n\r\nSemi-final: Top 8 (or top 4 if less than 16 players). 1 game semi final. Top 2 players from each group proceed to the Final. Machines randomly selected by Matchplay\r\n\r\nFinal: 4 players will play 1 sudden death final, highest seeded qualifier(s) pick machine\r\n\r\nCost: $25 cash\r\n\r\nWinner trophy. Prizes for final 4\r\n\r\nNote: # of Rounds, Semifinal & Final may be amended - time pending",
   "qualifying_format": "Matchplay Qualifying",
   "finals_format": "Match Play",
+  "tiebreaker_format": null,
   "player_limit": "0",
+  "reserved_spots": "0",
+  "matchplay_id": "0",
+  "registration_cost": null,
   "registration_date": "",
-  "matchplay_id": "0"
+  "registration_website": null,
+  "tournament_system": null,
+  "tournament_system_url": null
 }

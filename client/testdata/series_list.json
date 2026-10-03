@@ -3,6 +3,7 @@
     {
       "code": "NACS",
       "title": "North American Championship Series",
+      "has_regions_flag": "true",
       "years": [
         "2022",
         "2023",
@@ -14,6 +15,7 @@
     {
       "code": "WNACSO",
       "title": "Women's North American Championship Series (Open)",
+      "has_regions_flag": "true",
       "years": [
         "2022",
         "2023",
@@ -25,6 +27,7 @@
     {
       "code": "WNACSW",
       "title": "Women's North American Championship Series (Women)",
+      "has_regions_flag": "true",
       "years": [
         "2022",
         "2023",
@@ -36,6 +39,7 @@
     {
       "code": "ACS",
       "title": "Australian Championship Series",
+      "has_regions_flag": "true",
       "years": [
         "2022",
         "2023",

@@ -307,8 +307,12 @@ Current changes between [ifpapinball-official-api.yaml](./ifpapinball-official-a
 
 ## `/series/list`
 
+### x-go-type annotations
+- `series[].has_regions_flag` — added `x-go-type: types.StringBool` *(2026-10-03)*
+
 ### Spec changes
 - `series` — **fixed**: changed from `type: object` to `type: array` with proper `items` schema; `years` sub-field properly typed as `type: array` of strings
+- **Added** `series[].has_regions_flag` (boolean) — documented in the official spec since 2026-10-03, but the overlay's `items` replacement dropped it; re-declared in the overlay *(2026-10-03)*
 - Removed top-level `type` from response schema
 
 ---
@@ -534,12 +538,17 @@ Current changes between [ifpapinball-official-api.yaml](./ifpapinball-official-a
 
 ### x-go-type annotations
 - `tournament_id`, `director_id`, `qualify_hours`, `eligible_player_count`, `player_count`, `player_limit`, `matchplay_id`, `games_to_win` — added `x-go-type: types.StringInt`
+- `reserved_spots` — added `x-go-type: types.StringInt` *(2026-10-03)*
+- `registration_cost` — added `x-go-type: types.StringFloat64` *(2026-10-03)*
 - `private_flag`, `qualify_flag`, `prestige_flag`, `unlimited_qualifying_flag` — added `x-go-type: types.StringBool`
 - `latitude`, `longitude`, `ratings_strength`, `rankings_strength`, `base_value`, `tournament_percentage_grade`, `tournament_value`, `event_weight` — added `x-go-type: types.StringFloat64`
 
 ### Spec changes
 - **Added** new fields: `prestige_flag`, `event_weight`, `games_to_win`, `unlimited_qualifying_flag`
+- **Added** new fields (not in the official spec, returned by the live API; `null` unless noted) *(2026-10-03)*: `start_time` (nullable string, e.g. `"13:30:00"`), `event_class` (string, e.g. `NORMAL`), `reserved_spots` (integer)
 - **Removed** field: `unlimited_qualify_flag` (replaced by `unlimited_qualifying_flag`)
+- `tournament_system_url` — **type fixed** from the invalid `url` to `string` *(2026-10-03)*
+- Fields **added to the official spec** on 2026-10-03 and passed through unchanged (all nullable in live data): `location_name`, `tiebreaker_format`, `registration_cost`, `registration_website`, `tournament_system`, `tournament_system_url`
 - `event_name` example corrected; `details` example updated; `player_limit` example changed to `0`
 
 ---
@@ -603,6 +612,7 @@ Current changes between [ifpapinball-official-api.yaml](./ifpapinball-official-a
 - `total_results` — type changed from implicit to `number`
 - `tournaments` — **fixed**: changed from `type: object` to `type: array` with significantly expanded `items` schema
 - **Added** new tournament search result fields: `event_type`, `address1`, `address2`, `postal_code`, `event_start_date`, `latitude`, `longitude`, `raw_address`, `preregistration_date`, `qualifying_format`, `finals_format`, `director_id`, `director_name`, `website`, `details`, `profile_photo`, `certified_flag`, `winner` (object with `player_id`, `player_name`, `wppr_points`, `profile_photo`, `excluded_flag`, `country_cd`)
+- **Added** `tournaments[].location_name` (nullable string) — documented in the official spec since 2026-10-03, but the overlay's `items` replacement dropped it; re-declared in the overlay *(2026-10-03)*
 
 ---
 
@@ -612,3 +622,12 @@ Current changes between [ifpapinball-official-api.yaml](./ifpapinball-official-a
 
 - `/series/{series_code}/regions`: `year` parameter and response field type changed from `number` to `integer`
 - `/stats/overall`: count fields (`overall_player_count`, `active_player_count`, `tournament_count`, `tournament_count_last_month`, `tournament_count_this_year`, `tournament_player_count`) type changed from `number` to `integer`; corrected `tournament_player_count_average` example to decimal (`22.9`) and age bracket examples to decimal percentages
+
+### 2026-10-03
+
+Official spec refreshed (`make get-ifpa-api`). Test data under `client/testdata` re-captured from the live API.
+
+- `/series/list`: official spec added `has_regions_flag`; overlay now keeps it and types it `types.StringBool` (the API returns `"true"`/`"false"` strings). Endpoint description now notes that by default only traditional multi-region series are returned.
+- `/tournament/{id}`: official spec added `location_name`, `tiebreaker_format`, `registration_cost`, `registration_website`, `tournament_system`, `tournament_system_url`. Overlay adds fields the spec still lacks (`start_time`, `event_class`, `reserved_spots`), types `registration_cost` as `types.StringFloat64` and `reserved_spots` as `types.StringInt`, and fixes `tournament_system_url` from `type: url` to `string`.
+- `/tournament/search`: official spec added `location_name`; overlay now keeps it as a nullable string.
+- Generated client (`client/client.gen.go`): new fields `HasRegionsFlag`, `LocationName`, `TiebreakerFormat`, `RegistrationCost`, `RegistrationWebsite`, `TournamentSystem`, `TournamentSystemUrl`, `StartTime`, `EventClass`, `ReservedSpots`.

@@ -17,6 +17,9 @@ The official spec (v2.1) has several issues. The most notable ones are:
 - Missing type annotations: some numeric fields are returned by the API as strings (or inconsistently as both strings and numbers).
 - Missing or misspelled fields.
 
+> [!NOTE]
+> The official API does not bump its version number (it still reports 2.1) when the spec changes. Fields are added to the spec without any version change, so be aware the spec can change under the same version. A [GitHub Action](.github/workflows) checks weekly whether the official spec has changed, and every change is recorded in the [CHANGELOG](./CHANGELOG.SPEC.md).
+
 I reached out to the IFPA to see if some of these issues can be fixed. Once they are resolved, I will update the client library. Full CHANGELOG available [here](./CHANGELOG.SPEC.md).
 
 ## Backwards compatibility guarantee

@@ -2423,7 +2423,7 @@ paths:
             tags:
                 - series
             summary: Get a list of regions that are being tracked
-            description: Get a list of regions that are being tracked
+            description: Get a list of regions that are being tracked. This will only bring back traditional Championship Series that were multi-region (NACS, ACS, etc) by default.
             operationId: seriesList
             responses:
                 "200":
@@ -2443,6 +2443,10 @@ paths:
                                                 title:
                                                     type: string
                                                     example: North American Championship Series
+                                                has_regions_flag:
+                                                    type: boolean
+                                                    example: true
+                                                    x-go-type: types.StringBool
                                                 years:
                                                     type: array
                                                     items:
@@ -3764,6 +3768,9 @@ paths:
                                         type: boolean
                                         example: false
                                         x-go-type: types.StringBool
+                                    location_name:
+                                        type: string
+                                        example: Bar and Kitchen
                                     address1:
                                         type: string
                                         example: 123 main st
@@ -3866,16 +3873,32 @@ paths:
                                     finals_format:
                                         type: string
                                         example: Strike Knockout
+                                    tiebreaker_format:
+                                        type: string
+                                        example: Coin Flip
                                     player_limit:
                                         type: number
                                         example: 0
                                         x-go-type: types.StringInt
+                                    registration_cost:
+                                        type: number
+                                        example: 150
+                                        x-go-type: types.StringFloat64
                                     registration_date:
                                         type: string
                                         example: "2024-01-01T00:00:00.000Z"
+                                    registration_website:
+                                        type: string
+                                        example: https://www.eventbrite.com
                                     matchplay_id:
                                         type: integer
                                         x-go-type: types.StringInt
+                                    tournament_system:
+                                        type: string
+                                        example: Matchplay.Events
+                                    tournament_system_url:
+                                        type: string
+                                        example: https://app.matchplay.events/tournaments/000000
                                     prestige_flag:
                                         type: boolean
                                         example: false
@@ -3892,6 +3915,17 @@ paths:
                                         type: boolean
                                         example: true
                                         x-go-type: types.StringBool
+                                    start_time:
+                                        type: string
+                                        nullable: true
+                                        example: "19:00:00"
+                                    event_class:
+                                        type: string
+                                        example: NORMAL
+                                    reserved_spots:
+                                        type: number
+                                        example: 0
+                                        x-go-type: types.StringInt
                 "400":
                     description: Invalid Tournament ID provided
                     content: {}
@@ -4366,6 +4400,10 @@ paths:
                                                 event_type:
                                                     type: string
                                                     example: Tournament
+                                                location_name:
+                                                    type: string
+                                                    nullable: true
+                                                    example: Bar and Kitchen
                                                 address1:
                                                     type: string
                                                     example: 123 main st

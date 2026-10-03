@@ -164,28 +164,28 @@ func TestTournamentSearchFutureMainAU(t *testing.T) {
 		t.Fatal("expected JSON200 to be non-nil")
 	}
 
-	if resp.JSON200.TotalResults == nil || int(*resp.JSON200.TotalResults) != 22 {
-		t.Errorf("expected total_results 22, got %v", resp.JSON200.TotalResults)
+	if resp.JSON200.TotalResults == nil || int(*resp.JSON200.TotalResults) != 27 {
+		t.Errorf("expected total_results 27, got %v", resp.JSON200.TotalResults)
 	}
 
 	if resp.JSON200.Tournaments == nil {
 		t.Fatal("expected tournaments to be non-nil")
 	}
 	tournaments := *resp.JSON200.Tournaments
-	if len(tournaments) != 22 {
-		t.Errorf("expected 22 tournaments, got %d", len(tournaments))
+	if len(tournaments) != 27 {
+		t.Errorf("expected 27 tournaments, got %d", len(tournaments))
 	}
 
 	// verify first tournament
 	first := tournaments[0]
-	if first.TournamentId == nil || int(*first.TournamentId) != 106130 {
-		t.Errorf("expected first tournament_id 106130, got %v", first.TournamentId)
+	if first.TournamentId == nil || int(*first.TournamentId) != 119707 {
+		t.Errorf("expected first tournament_id 119707, got %v", first.TournamentId)
 	}
-	if first.TournamentName == nil || *first.TournamentName != "Central Coast Pinball @Lost Souls" {
-		t.Errorf("expected first tournament_name 'Central Coast Pinball @Lost Souls', got %v", first.TournamentName)
+	if first.TournamentName == nil || *first.TournamentName != "Tower Tuesdays" {
+		t.Errorf("expected first tournament_name 'Tower Tuesdays', got %v", first.TournamentName)
 	}
-	if first.EventStartDate == nil || *first.EventStartDate != "2026-04-01" {
-		t.Errorf("expected first event_start_date '2026-04-01', got %v", first.EventStartDate)
+	if first.EventStartDate == nil || *first.EventStartDate != "2026-11-03" {
+		t.Errorf("expected first event_start_date '2026-11-03', got %v", first.EventStartDate)
 	}
 
 	// future tournaments: player_count should be 0 and winner.player_id should be nil
@@ -223,9 +223,9 @@ func TestTournamentSearchPastWomenUS(t *testing.T) {
 		t.Fatal("expected JSON200 to be non-nil")
 	}
 
-	// total_results reflects server total (133), not number in response array (50)
-	if resp.JSON200.TotalResults == nil || int(*resp.JSON200.TotalResults) != 133 {
-		t.Errorf("expected total_results 133, got %v", resp.JSON200.TotalResults)
+	// total_results reflects server total (134), not number in response array (50)
+	if resp.JSON200.TotalResults == nil || int(*resp.JSON200.TotalResults) != 134 {
+		t.Errorf("expected total_results 134, got %v", resp.JSON200.TotalResults)
 	}
 
 	if resp.JSON200.SearchFilter == nil {

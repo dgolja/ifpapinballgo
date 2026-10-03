@@ -2023,7 +2023,7 @@ paths:
       tags:
         - series
       summary: Get a list of regions that are being tracked
-      description: Get a list of regions that are being tracked
+      description: Get a list of regions that are being tracked. This will only bring back traditional Championship Series that were multi-region (NACS, ACS, etc) by default.
       operationId: seriesList
       responses:
         "200":
@@ -2042,6 +2042,9 @@ paths:
                       title:
                         type: string
                         example: North American Championship Series
+                      has_regions_flag:
+                        type: boolean
+                        example: true
                       years:
                         type: number
   /series/{series_code}/regions:
@@ -3237,6 +3240,9 @@ paths:
                   private_flag:
                     type: boolean
                     example: false
+                  location_name:
+                    type: string
+                    example: Bar and Kitchen
                   address1:
                     type: string
                     example: 123 main st
@@ -3330,14 +3336,29 @@ paths:
                   finals_format:
                     type: string
                     example: Strike Knockout
+                  tiebreaker_format:
+                    type: string
+                    example: Coin Flip
                   player_limit:
                     type: number
                     example: 80
+                  registration_cost:
+                    type: number
+                    example: 150
                   registration_date:
                     type: string
                     example: "2024-01-01T00:00:00.000Z"
+                  registration_website:
+                    type: string
+                    example: https://www.eventbrite.com
                   matchplay_id:
                     type: integer
+                  tournament_system:
+                    type: string
+                    example: Matchplay.Events
+                  tournament_system_url:
+                    type: url
+                    example: https://app.matchplay.events/tournaments/000000
         "400":
           description: Invalid Tournament ID provided
           content: {}
@@ -3772,6 +3793,9 @@ paths:
                       event_type:
                         type: string
                         example: Tournament
+                      location_name:
+                        type: string
+                        example: Bar and Kitchen
                       address1:
                         type: string
                         example: 123 main st
