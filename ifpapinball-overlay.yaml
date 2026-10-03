@@ -1849,6 +1849,10 @@ actions:
           title:
             type: string
             example: North American Championship Series
+          has_regions_flag:
+            type: boolean
+            example: true
+            x-go-type: types.StringBool
           years:
             type: array
             items:
@@ -2704,6 +2708,24 @@ actions:
   - target: $["paths"]["/tournament/{id}"]["get"]["responses"]["200"]["content"]["application/json"]["schema"]["properties"]["matchplay_id"]
     update:
       x-go-type: types.StringInt
+  - target: $["paths"]["/tournament/{id}"]["get"]["responses"]["200"]["content"]["application/json"]["schema"]["properties"]["registration_cost"]
+    update:
+      x-go-type: types.StringFloat64
+  - target: $["paths"]["/tournament/{id}"]["get"]["responses"]["200"]["content"]["application/json"]["schema"]["properties"]["tournament_system_url"]["type"]
+    update: string
+  - target: $["paths"]["/tournament/{id}"]["get"]["responses"]["200"]["content"]["application/json"]["schema"]["properties"]
+    update:
+      start_time:
+        type: string
+        nullable: true
+        example: "19:00:00"
+      event_class:
+        type: string
+        example: NORMAL
+      reserved_spots:
+        type: number
+        example: 0
+        x-go-type: types.StringInt
   - target: $["paths"]["/tournament/{id}"]["get"]["responses"]["200"]["content"]["application/json"]["schema"]["properties"]["unlimited_qualify_flag"]
     remove: true
   - target: $["paths"]["/tournament/{id}/related"]["get"]["responses"]["200"]["content"]["application/json"]["schema"]["properties"]["tournament"]["type"]
@@ -2980,6 +3002,10 @@ actions:
           event_type:
             type: string
             example: Tournament
+          location_name:
+            type: string
+            nullable: true
+            example: Bar and Kitchen
           address1:
             type: string
             example: 123 main st
