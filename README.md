@@ -4,6 +4,7 @@ A Go client library for the IFPA (International Flippper Pinball Association) [A
 
 #### Build status
 
+![CI](https://github.com/dgolja/ifpapinballgo/actions/workflows/check-ifpa-api.yaml/badge.svg?branch=main)
 ![CI](https://github.com/dgolja/ifpapinballgo/actions/workflows/ci.yaml/badge.svg?branch=main)
 
 ## Description
