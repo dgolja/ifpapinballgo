@@ -110,7 +110,7 @@ func TestRankingsCustomID(t *testing.T) {
 	if firstTournament.TournamentName == nil || *firstTournament.TournamentName != "LOO-BLAH-NAH 2024 kickoff" {
 		t.Errorf("expected first tournament_name 'LOO-BLAH-NAH 2024 kickoff', got %v", firstTournament.TournamentName)
 	}
-	if firstTournament.EventDate == nil || *firstTournament.EventDate != "2024-01-13" {
+	if firstTournament.EventDate == nil || (*firstTournament.EventDate).String() != "2024-01-13" {
 		t.Errorf("expected first event_date '2024-01-13', got %v", firstTournament.EventDate)
 	}
 

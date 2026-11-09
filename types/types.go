@@ -11,6 +11,7 @@ import (
 	"encoding/json"
 	"fmt"
 	"strconv"
+	"time"
 )
 
 // Ptr returns a pointer to v. It is a convenience helper for passing literal
@@ -264,4 +265,106 @@ func (w *TourRelatedWinner) UnmarshalJSON(data []byte) error {
 	}
 	*w = TourRelatedWinner(alias)
 	return nil
+}
+
+// Date is a calendar date that unmarshals from the date formats the IFPA API
+// uses: "2006-01-02", RFC 3339 timestamps ("2006-01-02T15:04:05.000Z"),
+// "2006-01-02 15:04:05", empty strings, MySQL zero dates ("0000-00-00"), or
+// null. Those last three leave the Date as the zero value; use [Date.IsZero] to test for that.
+//
+// Date marshals to "2006-01-02", or null when zero.
+type Date struct {
+	time.Time
+}
+
+var dateLayouts = []string{
+	"2006-01-02",
+	time.RFC3339Nano,
+	"2006-01-02 15:04:05",
+	"2006-01-02T15:04:05",
+}
+
+// UnmarshalJSON implements [json.Unmarshaler].
+func (d *Date) UnmarshalJSON(data []byte) error {
+	if string(data) == "null" {
+		d.Time = time.Time{}
+		return nil
+	}
+	var s string
+	if err := json.Unmarshal(data, &s); err != nil {
+		return fmt.Errorf("cannot unmarshal %s into Date", string(data))
+	}
+	if s == "" || s == "0000-00-00" || s == "0000-00-00 00:00:00" {
+		d.Time = time.Time{}
+		return nil
+	}
+	for _, layout := range dateLayouts {
+		if t, err := time.Parse(layout, s); err == nil {
+			d.Time = t
+			return nil
+		}
+	}
+	return fmt.Errorf("cannot unmarshal %s into Date", string(data))
+}
+
+// MarshalJSON implements [json.Marshaler].
+func (d Date) MarshalJSON() ([]byte, error) {
+	if d.Time.IsZero() {
+		return []byte("null"), nil
+	}
+	return json.Marshal(d.Time.Format("2006-01-02"))
+}
+
+// String returns the date as "2006-01-02", or "" when zero.
+func (d Date) String() string {
+	if d.Time.IsZero() {
+		return ""
+	}
+	return d.Time.Format("2006-01-02")
+}
+
+// TimeOfDay is a wall-clock time without a date, as in "13:30:00". It
+// unmarshals from "15:04:05", "15:04", empty strings, or null (→ zero value).
+// The embedded time.Time carries the date 0000-01-01 (UTC).
+type TimeOfDay struct {
+	time.Time
+}
+
+// UnmarshalJSON implements [json.Unmarshaler].
+func (d *TimeOfDay) UnmarshalJSON(data []byte) error {
+	if string(data) == "null" {
+		d.Time = time.Time{}
+		return nil
+	}
+	var s string
+	if err := json.Unmarshal(data, &s); err != nil {
+		return fmt.Errorf("cannot unmarshal %s into TimeOfDay", string(data))
+	}
+	if s == "" {
+		d.Time = time.Time{}
+		return nil
+	}
+	for _, layout := range []string{"15:04:05", "15:04"} {
+		if t, err := time.Parse(layout, s); err == nil {
+			d.Time = t
+			return nil
+		}
+	}
+	return fmt.Errorf("cannot unmarshal %s into TimeOfDay", string(data))
+}
+
+// MarshalJSON implements [json.Marshaler].
+func (d TimeOfDay) MarshalJSON() ([]byte, error) {
+	if d.Time.IsZero() {
+		return []byte("null"), nil
+	}
+	return json.Marshal(d.Time.Format("15:04:05"))
+}
+
+// String returns the time as "15:04:05", or "" when zero.
+func (d TimeOfDay) String() string {
+	if d.Time.IsZero() {
+		return ""
+	}
+	return d.Time.Format("15:04:05")
 }

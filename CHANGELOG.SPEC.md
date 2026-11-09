@@ -25,6 +25,7 @@ Current changes between [ifpapinball-official-api.yaml](./ifpapinball-official-a
 ### x-go-type annotations
 - `director_id` — added `x-go-type: types.StringInt`
 - `tournaments[].tournament_id`, `player_count` — added `x-go-type: types.StringInt`
+- `tournaments[].event_start_date`, `event_end_date` — added `x-go-type: types.Date`
 
 ### Spec changes
 - `tournaments` — **fixed**: changed from `type: object` to `type: array` with proper `items` schema
@@ -47,6 +48,7 @@ Current changes between [ifpapinball-official-api.yaml](./ifpapinball-official-a
 ### x-go-type annotations
 - `directors[].director_id` — added `x-go-type: types.StringInt`
 - `directors[].stats.event_count`, `future_event_count`, `unique_player_count`, `total_player_count` — added `x-go-type: types.StringInt`
+- `directors[].stats.last_event_date` — added `x-go-type: types.Date`
 
 ### Spec changes
 - All query parameters (`name`, `count`) — marked `required: false`
@@ -88,6 +90,7 @@ Current changes between [ifpapinball-official-api.yaml](./ifpapinball-official-a
 - `pro_rank` (new field within `open`/`womens`) — added `x-go-type: types.StringInt`
 - `player_stats.years_active` — added `x-go-type: types.StringInt`
 - `player[].series` — all numeric series fields annotated with `x-go-type`
+- `player_stats.{open,womens}.highest_rank_date` — added `x-go-type: types.Date`
 
 ### Spec changes
 - `player` — **fixed**: changed from `type: object` to `type: array` with proper `items` schema
@@ -135,6 +138,7 @@ Current changes between [ifpapinball-official-api.yaml](./ifpapinball-official-a
 - `rank_history[].wppr_points` — added `x-go-type: types.StringFloat64`
 - `rank_history[].tournaments_played_count` — added `x-go-type: types.StringInt`
 - `rating_history[].rating` — added `x-go-type: types.StringFloat64`
+- `rank_history[].rank_date`, `rating_history[].rating_date` — added `x-go-type: types.Date`
 
 ### Spec changes
 - `rank_history` — **fixed**: changed from `type: object` to `type: array` with proper `items` schema
@@ -149,6 +153,7 @@ Current changes between [ifpapinball-official-api.yaml](./ifpapinball-official-a
 ### x-go-type annotations
 - `results[].tournament_id`, `position` — added `x-go-type: types.StringInt`
 - `results[].original_points`, `current_points` — added `x-go-type: types.StringFloat64`
+- `results[].event_date` — added `x-go-type: types.Date`
 
 ### Spec changes
 - `results` — **fixed**: changed from `type: object` to `type: array` with proper `items` schema
@@ -293,6 +298,7 @@ Current changes between [ifpapinball-official-api.yaml](./ifpapinball-official-a
 - `view_id` — added `x-go-type: types.StringInt`
 - `view_results[].player_id`, `wppr_rank`, `event_count`, `position` — added `x-go-type: types.StringInt`
 - `view_results[].wppr_points` — added `x-go-type: types.StringFloat64`
+- `tournaments[].event_date` — added `x-go-type: types.Date`
 
 ### Spec changes
 - Parameters (`start_pos`, `count`) — marked `required: false`
@@ -333,6 +339,7 @@ Current changes between [ifpapinball-official-api.yaml](./ifpapinball-official-a
 - `player_id` — added `x-go-type: types.StringInt`
 - `player_card[].tournament_id`, `region_event_rank` — added `x-go-type: types.StringInt`
 - `player_card[].wppr_points` — added `x-go-type: types.StringFloat64`
+- `player_card[].event_end_date` — added `x-go-type: types.Date`
 
 ### Spec changes
 - Parameter `year` — marked `required: false`
@@ -401,6 +408,7 @@ Current changes between [ifpapinball-official-api.yaml](./ifpapinball-official-a
 
 ### x-go-type annotations
 - `submitted_tournaments[].tournament_id`, `player_count` — added `x-go-type: types.StringInt`
+- `event_end_date` on submitted, unsubmitted and future tournaments — added `x-go-type: types.Date`
 
 ### Spec changes
 - Parameter `year` — marked `required: false`
@@ -470,6 +478,7 @@ Current changes between [ifpapinball-official-api.yaml](./ifpapinball-official-a
 
 ### x-go-type annotations
 - `stats[].player_count`, `tournament_id` — added `x-go-type: types.StringInt`
+- `stats[].tournament_date` — added `x-go-type: types.Date`
 
 ### Spec changes
 - Parameters (`start_pos`, `count`) — marked `required: false`
@@ -481,6 +490,7 @@ Current changes between [ifpapinball-official-api.yaml](./ifpapinball-official-a
 
 ### x-go-type annotations
 - `stats[].tournament_id` — added `x-go-type: types.StringInt`
+- `stats[].tournament_date` — added `x-go-type: types.Date`
 
 ### Spec changes
 - Parameters (`start_pos`, `count`, `year`) — marked `required: false`
@@ -493,6 +503,7 @@ Current changes between [ifpapinball-official-api.yaml](./ifpapinball-official-a
 ### x-go-type annotations
 - `stats[].player_id` — added `x-go-type: types.StringInt`
 - `stats[].wppr_points` — added `x-go-type: types.StringFloat64`
+- `start_date`, `end_date` (previously `format: date`) — added `x-go-type: types.Date`
 
 ### Spec changes
 - Parameters (`start_date`, `end_date`, `country`, `stateprov`, `count`) — marked `required: false`
@@ -504,6 +515,7 @@ Current changes between [ifpapinball-official-api.yaml](./ifpapinball-official-a
 
 ### x-go-type annotations
 - `stats[].player_id`, `tournament_count` — added `x-go-type: types.StringInt`
+- `start_date`, `end_date` (previously `format: date`) — added `x-go-type: types.Date`
 
 ### Spec changes
 - Parameters (`start_date`, `end_date`, `country`, `stateprov`, `count`) — marked `required: false`
@@ -542,6 +554,8 @@ Current changes between [ifpapinball-official-api.yaml](./ifpapinball-official-a
 - `registration_cost` — added `x-go-type: types.StringFloat64` *(2026-10-03)*
 - `private_flag`, `qualify_flag`, `prestige_flag`, `unlimited_qualifying_flag` — added `x-go-type: types.StringBool`
 - `latitude`, `longitude`, `ratings_strength`, `rankings_strength`, `base_value`, `tournament_percentage_grade`, `tournament_value`, `event_weight` — added `x-go-type: types.StringFloat64`
+- `event_start_date`, `event_end_date`, `registration_date` — added `x-go-type: types.Date`
+- `start_time` — added `x-go-type: types.TimeOfDay`
 
 ### Spec changes
 - **Added** new fields: `prestige_flag`, `event_weight`, `games_to_win`, `unlimited_qualifying_flag`
@@ -558,6 +572,7 @@ Current changes between [ifpapinball-official-api.yaml](./ifpapinball-official-a
 ### x-go-type annotations
 - `tournament[].tournament_id` — added `x-go-type: types.StringInt`
 - `tournament[].winner` — added `x-go-type: types.TourRelatedWinner`
+- `tournament[].event_start_date`, `event_end_date` — added `x-go-type: types.Date`
 
 ### Spec changes
 - `tournament` — **fixed**: changed from `type: object` to `type: array` with proper `items` schema
@@ -589,6 +604,7 @@ Current changes between [ifpapinball-official-api.yaml](./ifpapinball-official-a
 ### x-go-type annotations
 - `leagues[].private_flag` — added `x-go-type: types.StringBool`
 - `leagues[].director_id` — added `x-go-type: types.StringInt`
+- `leagues[].event_start_date`, `event_end_date`, `preregistration_date` — added `x-go-type: types.Date`
 
 ### Spec changes
 - **Added** new response field: `league_status` (string)
@@ -604,6 +620,7 @@ Current changes between [ifpapinball-official-api.yaml](./ifpapinball-official-a
 - `tournaments[].tournament_id`, `player_count`, `director_id` — added `x-go-type: types.StringInt`
 - `tournaments[].private_flag`, `winner.excluded_flag` — added `x-go-type: types.StringBool`
 - `tournaments[].winner.wppr_points` — added `x-go-type: types.StringFloat64`
+- `search_filter.start_date`, `end_date`; `tournaments[].event_start_date`, `event_end_date`, `preregistration_date` — added `x-go-type: types.Date`
 
 ### Spec changes
 - All 19 query parameters — marked `required: false`
@@ -631,3 +648,11 @@ Official spec refreshed (`make get-ifpa-api`). Test data under `client/testdata`
 - `/tournament/{id}`: official spec added `location_name`, `tiebreaker_format`, `registration_cost`, `registration_website`, `tournament_system`, `tournament_system_url`. Overlay adds fields the spec still lacks (`start_time`, `event_class`, `reserved_spots`), types `registration_cost` as `types.StringFloat64` and `reserved_spots` as `types.StringInt`, and fixes `tournament_system_url` from `type: url` to `string`.
 - `/tournament/search`: official spec added `location_name`; overlay now keeps it as a nullable string.
 - Generated client (`client/client.gen.go`): new fields `HasRegionsFlag`, `LocationName`, `TiebreakerFormat`, `RegistrationCost`, `RegistrationWebsite`, `TournamentSystem`, `TournamentSystemUrl`, `StartTime`, `EventClass`, `ReservedSpots`.
+
+### 2026-11-07
+
+Date and time fields are no longer plain strings.
+
+- New `types.Date` (accepts `YYYY-MM-DD`, RFC 3339, `YYYY-MM-DD HH:MM:SS`, `""`, `0000-00-00` and `null`; the last three become the zero value) and `types.TimeOfDay` (`HH:MM:SS`, nullable).
+- Overlay now annotates all `*_date` fields (`event_date`, `event_start_date`, `event_end_date`, `tournament_date`, `last_event_date`, `highest_rank_date`, `rank_date`, `rating_date`, `preregistration_date`, `registration_date`, `start_date`, `end_date`) with `x-go-type: types.Date`, and `/tournament/{id}` `start_time` with `types.TimeOfDay`. Fields that used `format: date` (generated as `openapi_types.Date`) now use `types.Date` as well.
+- Generated client: these fields change from `*string` / `*openapi_types.Date` to `*types.Date` / `*types.TimeOfDay` (**breaking** for library users, but since no v1 has been released yet this is not considered an issue).

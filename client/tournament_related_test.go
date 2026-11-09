@@ -53,7 +53,7 @@ func TestTournamentRelated(t *testing.T) {
 	if first.RankingSystem == nil || *first.RankingSystem != "MAIN" {
 		t.Errorf("expected first ranking_system 'MAIN', got %v", first.RankingSystem)
 	}
-	if first.EventStartDate == nil || *first.EventStartDate != "2026-06-20" {
+	if first.EventStartDate == nil || (*first.EventStartDate).String() != "2026-06-20" {
 		t.Errorf("expected first event_start_date '2026-06-20', got %v", first.EventStartDate)
 	}
 

@@ -74,7 +74,7 @@ func TestSeriesPlayersCard(t *testing.T) {
 	if first.TournamentName == nil || *first.TournamentName != "Pinawarra 31" {
 		t.Errorf("expected first tournament_name 'Pinawarra 31', got %v", first.TournamentName)
 	}
-	if first.EventEndDate == nil || *first.EventEndDate != "2025-12-13" {
+	if first.EventEndDate == nil || (*first.EventEndDate).String() != "2025-12-13" {
 		t.Errorf("expected first event_end_date '2025-12-13', got %v", first.EventEndDate)
 	}
 	if first.WpprPoints == nil || *first.WpprPoints != types.StringFloat64(18.28) {

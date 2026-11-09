@@ -92,10 +92,10 @@ func TestTourInfoWithResponse(t *testing.T) {
 	if info.EventName == nil || *info.EventName != "Main Tournament" {
 		t.Errorf("expected event_name 'Main Tournament', got %v", info.EventName)
 	}
-	if info.EventStartDate == nil || *info.EventStartDate != "2026-04-23" {
+	if info.EventStartDate == nil || (*info.EventStartDate).String() != "2026-04-23" {
 		t.Errorf("expected event_start_date '2026-04-23', got %v", info.EventStartDate)
 	}
-	if info.EventEndDate == nil || *info.EventEndDate != "2026-04-23" {
+	if info.EventEndDate == nil || (*info.EventEndDate).String() != "2026-04-23" {
 		t.Errorf("expected event_end_date '2026-04-23', got %v", info.EventEndDate)
 	}
 
@@ -271,13 +271,13 @@ func TestTourInfoFutureWithResponse(t *testing.T) {
 				t.Errorf("expected event_class NORMAL, got %v", info.EventClass)
 			}
 
-			if (tc.startTime == "") != (info.StartTime == nil) || (tc.startTime != "" && *info.StartTime != tc.startTime) {
+			if (tc.startTime == "") != (info.StartTime == nil) || (tc.startTime != "" && (*info.StartTime).String() != tc.startTime) {
 				t.Errorf("expected start_time %q, got %v", tc.startTime, info.StartTime)
 			}
 			if (tc.tiebreaker == "") != (info.TiebreakerFormat == nil) || (tc.tiebreaker != "" && *info.TiebreakerFormat != tc.tiebreaker) {
 				t.Errorf("expected tiebreaker_format %q, got %v", tc.tiebreaker, info.TiebreakerFormat)
 			}
-			if info.RegistrationDate == nil || *info.RegistrationDate != tc.regDate {
+			if info.RegistrationDate == nil || (*info.RegistrationDate).String() != tc.regDate {
 				t.Errorf("expected registration_date %q, got %v", tc.regDate, info.RegistrationDate)
 			}
 			if tc.costPresent {

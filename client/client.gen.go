@@ -14,7 +14,6 @@ import (
 
 	"github.com/dgolja/ifpapinballgo/types"
 	"github.com/oapi-codegen/runtime"
-	openapi_types "github.com/oapi-codegen/runtime/types"
 )
 
 // RequestEditorFn  is the function signature for the RequestEditor callback function
@@ -3698,7 +3697,7 @@ type SearchDirectorsResponse struct {
 			Stats        *struct {
 				EventCount        *types.StringInt `json:"event_count,omitempty"`
 				FutureEventCount  *types.StringInt `json:"future_event_count,omitempty"`
-				LastEventDate     *string          `json:"last_event_date,omitempty"`
+				LastEventDate     *types.Date      `json:"last_event_date,omitempty"`
 				TotalPlayerCount  *types.StringInt `json:"total_player_count,omitempty"`
 				UniquePlayerCount *types.StringInt `json:"unique_player_count,omitempty"`
 			} `json:"stats,omitempty"`
@@ -3787,9 +3786,9 @@ type ViewDirectorToursResponse struct {
 			City             *string          `json:"city,omitempty"`
 			CountryCode      *string          `json:"country_code,omitempty"`
 			CountryName      *string          `json:"country_name,omitempty"`
-			EventEndDate     *string          `json:"event_end_date,omitempty"`
+			EventEndDate     *types.Date      `json:"event_end_date,omitempty"`
 			EventName        *string          `json:"event_name,omitempty"`
-			EventStartDate   *string          `json:"event_start_date,omitempty"`
+			EventStartDate   *types.Date      `json:"event_start_date,omitempty"`
 			FinalsFormat     *string          `json:"finals_format,omitempty"`
 			PlayerCount      *types.StringInt `json:"player_count,omitempty"`
 			QualifyingFormat *string          `json:"qualifying_format,omitempty"`
@@ -3913,7 +3912,7 @@ type ViewPlayerMultiResponse struct {
 						EfficiencyRank        *types.StringInt     `json:"efficiency_rank,omitempty"`
 						EfficiencyValue       *types.StringFloat64 `json:"efficiency_value,omitempty"`
 						HighestRank           *types.StringInt     `json:"highest_rank,omitempty"`
-						HighestRankDate       *string              `json:"highest_rank_date,omitempty"`
+						HighestRankDate       *types.Date          `json:"highest_rank_date,omitempty"`
 						InactivePoints        *types.StringFloat64 `json:"inactive_points,omitempty"`
 						LastMonthRank         *types.StringInt     `json:"last_month_rank,omitempty"`
 						LastYearRank          *types.StringInt     `json:"last_year_rank,omitempty"`
@@ -3939,7 +3938,7 @@ type ViewPlayerMultiResponse struct {
 						EfficiencyRank        *types.StringInt     `json:"efficiency_rank,omitempty"`
 						EfficiencyValue       *types.StringFloat64 `json:"efficiency_value,omitempty"`
 						HighestRank           *types.StringInt     `json:"highest_rank,omitempty"`
-						HighestRankDate       *string              `json:"highest_rank_date,omitempty"`
+						HighestRankDate       *types.Date          `json:"highest_rank_date,omitempty"`
 						InactivePoints        *types.StringFloat64 `json:"inactive_points,omitempty"`
 						LastMonthRank         *types.StringInt     `json:"last_month_rank,omitempty"`
 						LastYearRank          *types.StringInt     `json:"last_year_rank,omitempty"`
@@ -4068,7 +4067,7 @@ type ViewPlayerResponse struct {
 						EfficiencyRank        *types.StringInt     `json:"efficiency_rank,omitempty"`
 						EfficiencyValue       *types.StringFloat64 `json:"efficiency_value,omitempty"`
 						HighestRank           *types.StringInt     `json:"highest_rank,omitempty"`
-						HighestRankDate       *string              `json:"highest_rank_date,omitempty"`
+						HighestRankDate       *types.Date          `json:"highest_rank_date,omitempty"`
 						InactivePoints        *types.StringFloat64 `json:"inactive_points,omitempty"`
 						LastMonthRank         *types.StringInt     `json:"last_month_rank,omitempty"`
 						LastYearRank          *types.StringInt     `json:"last_year_rank,omitempty"`
@@ -4094,7 +4093,7 @@ type ViewPlayerResponse struct {
 						EfficiencyRank        *types.StringInt     `json:"efficiency_rank,omitempty"`
 						EfficiencyValue       *types.StringFloat64 `json:"efficiency_value,omitempty"`
 						HighestRank           *types.StringInt     `json:"highest_rank,omitempty"`
-						HighestRankDate       *string              `json:"highest_rank_date,omitempty"`
+						HighestRankDate       *types.Date          `json:"highest_rank_date,omitempty"`
 						InactivePoints        *types.StringFloat64 `json:"inactive_points,omitempty"`
 						LastMonthRank         *types.StringInt     `json:"last_month_rank,omitempty"`
 						LastYearRank          *types.StringInt     `json:"last_year_rank,omitempty"`
@@ -4235,14 +4234,14 @@ type ViewPlayerRankHistoryResponse struct {
 		ActiveFlag  *types.StringBool `json:"active_flag,omitempty"`
 		PlayerId    *float32          `json:"player_id,omitempty"`
 		RankHistory *[]struct {
-			RankDate               *string              `json:"rank_date,omitempty"`
+			RankDate               *types.Date          `json:"rank_date,omitempty"`
 			RankPosition           *types.StringInt     `json:"rank_position,omitempty"`
 			TournamentsPlayedCount *types.StringInt     `json:"tournaments_played_count,omitempty"`
 			WpprPoints             *types.StringFloat64 `json:"wppr_points,omitempty"`
 		} `json:"rank_history,omitempty"`
 		RatingHistory *[]struct {
 			Rating     *types.StringFloat64 `json:"rating,omitempty"`
-			RatingDate *string              `json:"rating_date,omitempty"`
+			RatingDate *types.Date          `json:"rating_date,omitempty"`
 		} `json:"rating_history,omitempty"`
 		System *string `json:"system,omitempty"`
 	}
@@ -4274,7 +4273,7 @@ type ViewPlayerActiveResultsResponse struct {
 			CountryCode    *string              `json:"country_code,omitempty"`
 			CountryName    *string              `json:"country_name,omitempty"`
 			CurrentPoints  *types.StringFloat64 `json:"current_points,omitempty"`
-			EventDate      *string              `json:"event_date,omitempty"`
+			EventDate      *types.Date          `json:"event_date,omitempty"`
 			EventName      *string              `json:"event_name,omitempty"`
 			OriginalPoints *types.StringFloat64 `json:"original_points,omitempty"`
 			Position       *types.StringInt     `json:"position,omitempty"`
@@ -4422,7 +4421,7 @@ type RankingCustomIDResponse struct {
 		TotalCount    *float32 `json:"total_count,omitempty"`
 		Tournaments   *[]struct {
 			City           *string          `json:"city,omitempty"`
-			EventDate      *string          `json:"event_date,omitempty"`
+			EventDate      *types.Date      `json:"event_date,omitempty"`
 			EventName      *string          `json:"event_name,omitempty"`
 			TournamentId   *types.StringInt `json:"tournament_id,omitempty"`
 			TournamentName *string          `json:"tournament_name,omitempty"`
@@ -4776,7 +4775,7 @@ type SeriesPlayersCardResponse struct {
 	HTTPResponse *http.Response
 	JSON200      *struct {
 		PlayerCard *[]struct {
-			EventEndDate    *string              `json:"event_end_date,omitempty"`
+			EventEndDate    *types.Date          `json:"event_end_date,omitempty"`
 			EventName       *string              `json:"event_name,omitempty"`
 			RegionEventRank *types.StringInt     `json:"region_event_rank,omitempty"`
 			TournamentId    *types.StringInt     `json:"tournament_id,omitempty"`
@@ -4959,16 +4958,16 @@ type SeriesRegionTourResponse struct {
 		FutureTournament *[]struct {
 			City           *string          `json:"city,omitempty"`
 			DirectorName   *string          `json:"director_name,omitempty"`
-			EventEndDate   *string          `json:"event_end_date,omitempty"`
+			EventEndDate   *types.Date      `json:"event_end_date,omitempty"`
 			EventName      *string          `json:"event_name,omitempty"`
-			EventStartDate *string          `json:"event_start_date,omitempty"`
+			EventStartDate *types.Date      `json:"event_start_date,omitempty"`
 			TournamentId   *types.StringInt `json:"tournament_id,omitempty"`
 			TournamentName *string          `json:"tournament_name,omitempty"`
 		} `json:"future_tournament,omitempty"`
 		RegionCode           *string `json:"region_code,omitempty"`
 		SeriesCode           *string `json:"series_code,omitempty"`
 		SubmittedTournaments *[]struct {
-			EventEndDate   *string          `json:"event_end_date,omitempty"`
+			EventEndDate   *types.Date      `json:"event_end_date,omitempty"`
 			EventName      *string          `json:"event_name,omitempty"`
 			PlayerCount    *types.StringInt `json:"player_count,omitempty"`
 			TournamentId   *types.StringInt `json:"tournament_id,omitempty"`
@@ -4981,7 +4980,7 @@ type SeriesRegionTourResponse struct {
 		} `json:"submitted_tournaments,omitempty"`
 		UnsubmittedTournaments *[]struct {
 			DirectorName   *string          `json:"director_name,omitempty"`
-			EventEndDate   *string          `json:"event_end_date,omitempty"`
+			EventEndDate   *types.Date      `json:"event_end_date,omitempty"`
 			EventName      *string          `json:"event_name,omitempty"`
 			Status         *string          `json:"status,omitempty"`
 			TournamentId   *types.StringInt `json:"tournament_id,omitempty"`
@@ -5042,9 +5041,9 @@ type StatsEventPeriodResponse struct {
 	Body         []byte
 	HTTPResponse *http.Response
 	JSON200      *struct {
-		EndDate     *openapi_types.Date `json:"end_date,omitempty"`
-		ReturnCount *int                `json:"return_count,omitempty"`
-		StartDate   *openapi_types.Date `json:"start_date,omitempty"`
+		EndDate     *types.Date `json:"end_date,omitempty"`
+		ReturnCount *int        `json:"return_count,omitempty"`
+		StartDate   *types.Date `json:"start_date,omitempty"`
 		Stats       *[]struct {
 			CountryCode     *string          `json:"country_code,omitempty"`
 			CountryName     *string          `json:"country_name,omitempty"`
@@ -5113,14 +5112,14 @@ type StatsLargestTournamentsResponse struct {
 	JSON200      *struct {
 		RankType *string `json:"rank_type,omitempty"`
 		Stats    *[]struct {
-			CountryCode    *string             `json:"country_code,omitempty"`
-			CountryName    *string             `json:"country_name,omitempty"`
-			EventName      *string             `json:"event_name,omitempty"`
-			PlayerCount    *types.StringInt    `json:"player_count,omitempty"`
-			StatsRank      *int                `json:"stats_rank,omitempty"`
-			TournamentDate *openapi_types.Date `json:"tournament_date,omitempty"`
-			TournamentId   *types.StringInt    `json:"tournament_id,omitempty"`
-			TournamentName *string             `json:"tournament_name,omitempty"`
+			CountryCode    *string          `json:"country_code,omitempty"`
+			CountryName    *string          `json:"country_name,omitempty"`
+			EventName      *string          `json:"event_name,omitempty"`
+			PlayerCount    *types.StringInt `json:"player_count,omitempty"`
+			StatsRank      *int             `json:"stats_rank,omitempty"`
+			TournamentDate *types.Date      `json:"tournament_date,omitempty"`
+			TournamentId   *types.StringInt `json:"tournament_id,omitempty"`
+			TournamentName *string          `json:"tournament_name,omitempty"`
 		} `json:"stats,omitempty"`
 		Type *string `json:"type,omitempty"`
 	}
@@ -5148,14 +5147,14 @@ type StatsLucrativeToursResponse struct {
 	JSON200      *struct {
 		RankType *string `json:"rank_type,omitempty"`
 		Stats    *[]struct {
-			CountryCode     *string             `json:"country_code,omitempty"`
-			CountryName     *string             `json:"country_name,omitempty"`
-			EventName       *string             `json:"event_name,omitempty"`
-			StatsRank       *int                `json:"stats_rank,omitempty"`
-			TournamentDate  *openapi_types.Date `json:"tournament_date,omitempty"`
-			TournamentId    *types.StringInt    `json:"tournament_id,omitempty"`
-			TournamentName  *string             `json:"tournament_name,omitempty"`
-			TournamentValue *float32            `json:"tournament_value,omitempty"`
+			CountryCode     *string          `json:"country_code,omitempty"`
+			CountryName     *string          `json:"country_name,omitempty"`
+			EventName       *string          `json:"event_name,omitempty"`
+			StatsRank       *int             `json:"stats_rank,omitempty"`
+			TournamentDate  *types.Date      `json:"tournament_date,omitempty"`
+			TournamentId    *types.StringInt `json:"tournament_id,omitempty"`
+			TournamentName  *string          `json:"tournament_name,omitempty"`
+			TournamentValue *float32         `json:"tournament_value,omitempty"`
 		} `json:"stats,omitempty"`
 		Type *string `json:"type,omitempty"`
 	}
@@ -5254,10 +5253,10 @@ type StatsPointsPeriodResponse struct {
 	Body         []byte
 	HTTPResponse *http.Response
 	JSON200      *struct {
-		EndDate     *openapi_types.Date `json:"end_date,omitempty"`
-		RankType    *string             `json:"rank_type,omitempty"`
-		ReturnCount *int                `json:"return_count,omitempty"`
-		StartDate   *openapi_types.Date `json:"start_date,omitempty"`
+		EndDate     *types.Date `json:"end_date,omitempty"`
+		RankType    *string     `json:"rank_type,omitempty"`
+		ReturnCount *int        `json:"return_count,omitempty"`
+		StartDate   *types.Date `json:"start_date,omitempty"`
 		Stats       *[]struct {
 			CountryCode *string              `json:"country_code,omitempty"`
 			CountryName *string              `json:"country_name,omitempty"`
@@ -5393,9 +5392,9 @@ type ViewLeagueInfoResponse struct {
 			CountryName    *string           `json:"country_name,omitempty"`
 			DirectorId     *types.StringInt  `json:"director_id,omitempty"`
 			DirectorName   *string           `json:"director_name,omitempty"`
-			EventEndDate   *string           `json:"event_end_date,omitempty"`
+			EventEndDate   *types.Date       `json:"event_end_date,omitempty"`
 			EventName      *string           `json:"event_name,omitempty"`
-			EventStartDate *string           `json:"event_start_date,omitempty"`
+			EventStartDate *types.Date       `json:"event_start_date,omitempty"`
 			Latitude       *string           `json:"latitude,omitempty"`
 			Longitude      *string           `json:"longitude,omitempty"`
 			PrivateFlag    *types.StringBool `json:"private_flag,omitempty"`
@@ -5429,20 +5428,20 @@ type TourSearchResponse struct {
 	HTTPResponse *http.Response
 	JSON200      *struct {
 		SearchFilter *struct {
-			Country      *string  `json:"country,omitempty"`
-			DirectorName *string  `json:"director_name,omitempty"`
-			DistanceUnit *float32 `json:"distance_unit,omitempty"`
-			EndDate      *string  `json:"end_date,omitempty"`
-			EventType    *string  `json:"event_type,omitempty"`
-			Latitude     *string  `json:"latitude,omitempty"`
-			Longitude    *string  `json:"longitude,omitempty"`
-			Name         *string  `json:"name,omitempty"`
-			Radius       *float32 `json:"radius,omitempty"`
-			RankType     *string  `json:"rank_type,omitempty"`
-			SortMode     *string  `json:"sort_mode,omitempty"`
-			SortOrder    *string  `json:"sort_order,omitempty"`
-			StartDate    *string  `json:"start_date,omitempty"`
-			Stateprov    *string  `json:"stateprov,omitempty"`
+			Country      *string     `json:"country,omitempty"`
+			DirectorName *string     `json:"director_name,omitempty"`
+			DistanceUnit *float32    `json:"distance_unit,omitempty"`
+			EndDate      *types.Date `json:"end_date,omitempty"`
+			EventType    *string     `json:"event_type,omitempty"`
+			Latitude     *string     `json:"latitude,omitempty"`
+			Longitude    *string     `json:"longitude,omitempty"`
+			Name         *string     `json:"name,omitempty"`
+			Radius       *float32    `json:"radius,omitempty"`
+			RankType     *string     `json:"rank_type,omitempty"`
+			SortMode     *string     `json:"sort_mode,omitempty"`
+			SortOrder    *string     `json:"sort_order,omitempty"`
+			StartDate    *types.Date `json:"start_date,omitempty"`
+			Stateprov    *string     `json:"stateprov,omitempty"`
 		} `json:"search_filter,omitempty"`
 		TotalResults *types.StringInt `json:"total_results,omitempty"`
 		Tournaments  *[]struct {
@@ -5455,9 +5454,9 @@ type TourSearchResponse struct {
 			Details             *string           `json:"details,omitempty"`
 			DirectorId          *types.StringInt  `json:"director_id,omitempty"`
 			DirectorName        *string           `json:"director_name,omitempty"`
-			EventEndDate        *string           `json:"event_end_date,omitempty"`
+			EventEndDate        *types.Date       `json:"event_end_date,omitempty"`
 			EventName           *string           `json:"event_name,omitempty"`
-			EventStartDate      *string           `json:"event_start_date,omitempty"`
+			EventStartDate      *types.Date       `json:"event_start_date,omitempty"`
 			EventType           *string           `json:"event_type,omitempty"`
 			FinalsFormat        *string           `json:"finals_format,omitempty"`
 			Latitude            *string           `json:"latitude,omitempty"`
@@ -5465,7 +5464,7 @@ type TourSearchResponse struct {
 			Longitude           *string           `json:"longitude,omitempty"`
 			PlayerCount         *types.StringInt  `json:"player_count,omitempty"`
 			PostalCode          *string           `json:"postal_code,omitempty"`
-			PreregistrationDate *string           `json:"preregistration_date,omitempty"`
+			PreregistrationDate *types.Date       `json:"preregistration_date,omitempty"`
 			PrivateFlag         *types.StringBool `json:"private_flag,omitempty"`
 			ProfilePhoto        *string           `json:"profile_photo,omitempty"`
 			QualifyingFormat    *string           `json:"qualifying_format,omitempty"`
@@ -5518,9 +5517,9 @@ type TourInfoResponse struct {
 		DirectorName              *string              `json:"director_name,omitempty"`
 		EligiblePlayerCount       *types.StringInt     `json:"eligible_player_count,omitempty"`
 		EventClass                *string              `json:"event_class,omitempty"`
-		EventEndDate              *string              `json:"event_end_date,omitempty"`
+		EventEndDate              *types.Date          `json:"event_end_date,omitempty"`
 		EventName                 *string              `json:"event_name,omitempty"`
-		EventStartDate            *string              `json:"event_start_date,omitempty"`
+		EventStartDate            *types.Date          `json:"event_start_date,omitempty"`
 		EventWeight               *types.StringFloat64 `json:"event_weight,omitempty"`
 		FinalsFormat              *string              `json:"finals_format,omitempty"`
 		GamesToWin                *types.StringInt     `json:"games_to_win,omitempty"`
@@ -5542,10 +5541,10 @@ type TourInfoResponse struct {
 		RatingsStrength           *types.StringFloat64 `json:"ratings_strength,omitempty"`
 		RawAddress                *string              `json:"raw_address,omitempty"`
 		RegistrationCost          *types.StringFloat64 `json:"registration_cost,omitempty"`
-		RegistrationDate          *string              `json:"registration_date,omitempty"`
+		RegistrationDate          *types.Date          `json:"registration_date,omitempty"`
 		RegistrationWebsite       *string              `json:"registration_website,omitempty"`
 		ReservedSpots             *types.StringInt     `json:"reserved_spots,omitempty"`
-		StartTime                 *string              `json:"start_time,omitempty"`
+		StartTime                 *types.TimeOfDay     `json:"start_time,omitempty"`
 		Stateprov                 *string              `json:"stateprov,omitempty"`
 		TiebreakerFormat          *string              `json:"tiebreaker_format,omitempty"`
 		TournamentId              *types.StringInt     `json:"tournament_id,omitempty"`
@@ -5581,9 +5580,9 @@ type TourRelatedResponse struct {
 	HTTPResponse *http.Response
 	JSON200      *struct {
 		Tournament *[]struct {
-			EventEndDate   *string                  `json:"event_end_date,omitempty"`
+			EventEndDate   *types.Date              `json:"event_end_date,omitempty"`
 			EventName      *string                  `json:"event_name,omitempty"`
-			EventStartDate *string                  `json:"event_start_date,omitempty"`
+			EventStartDate *types.Date              `json:"event_start_date,omitempty"`
 			RankingSystem  *string                  `json:"ranking_system,omitempty"`
 			TournamentId   *types.StringInt         `json:"tournament_id,omitempty"`
 			TournamentName *string                  `json:"tournament_name,omitempty"`
@@ -6133,7 +6132,7 @@ func ParseSearchDirectorsResponse(rsp *http.Response) (*SearchDirectorsResponse,
 				Stats        *struct {
 					EventCount        *types.StringInt `json:"event_count,omitempty"`
 					FutureEventCount  *types.StringInt `json:"future_event_count,omitempty"`
-					LastEventDate     *string          `json:"last_event_date,omitempty"`
+					LastEventDate     *types.Date      `json:"last_event_date,omitempty"`
 					TotalPlayerCount  *types.StringInt `json:"total_player_count,omitempty"`
 					UniquePlayerCount *types.StringInt `json:"unique_player_count,omitempty"`
 				} `json:"stats,omitempty"`
@@ -6230,9 +6229,9 @@ func ParseViewDirectorToursResponse(rsp *http.Response) (*ViewDirectorToursRespo
 				City             *string          `json:"city,omitempty"`
 				CountryCode      *string          `json:"country_code,omitempty"`
 				CountryName      *string          `json:"country_name,omitempty"`
-				EventEndDate     *string          `json:"event_end_date,omitempty"`
+				EventEndDate     *types.Date      `json:"event_end_date,omitempty"`
 				EventName        *string          `json:"event_name,omitempty"`
-				EventStartDate   *string          `json:"event_start_date,omitempty"`
+				EventStartDate   *types.Date      `json:"event_start_date,omitempty"`
 				FinalsFormat     *string          `json:"finals_format,omitempty"`
 				PlayerCount      *types.StringInt `json:"player_count,omitempty"`
 				QualifyingFormat *string          `json:"qualifying_format,omitempty"`
@@ -6368,7 +6367,7 @@ func ParseViewPlayerMultiResponse(rsp *http.Response) (*ViewPlayerMultiResponse,
 							EfficiencyRank        *types.StringInt     `json:"efficiency_rank,omitempty"`
 							EfficiencyValue       *types.StringFloat64 `json:"efficiency_value,omitempty"`
 							HighestRank           *types.StringInt     `json:"highest_rank,omitempty"`
-							HighestRankDate       *string              `json:"highest_rank_date,omitempty"`
+							HighestRankDate       *types.Date          `json:"highest_rank_date,omitempty"`
 							InactivePoints        *types.StringFloat64 `json:"inactive_points,omitempty"`
 							LastMonthRank         *types.StringInt     `json:"last_month_rank,omitempty"`
 							LastYearRank          *types.StringInt     `json:"last_year_rank,omitempty"`
@@ -6394,7 +6393,7 @@ func ParseViewPlayerMultiResponse(rsp *http.Response) (*ViewPlayerMultiResponse,
 							EfficiencyRank        *types.StringInt     `json:"efficiency_rank,omitempty"`
 							EfficiencyValue       *types.StringFloat64 `json:"efficiency_value,omitempty"`
 							HighestRank           *types.StringInt     `json:"highest_rank,omitempty"`
-							HighestRankDate       *string              `json:"highest_rank_date,omitempty"`
+							HighestRankDate       *types.Date          `json:"highest_rank_date,omitempty"`
 							InactivePoints        *types.StringFloat64 `json:"inactive_points,omitempty"`
 							LastMonthRank         *types.StringInt     `json:"last_month_rank,omitempty"`
 							LastYearRank          *types.StringInt     `json:"last_year_rank,omitempty"`
@@ -6531,7 +6530,7 @@ func ParseViewPlayerResponse(rsp *http.Response) (*ViewPlayerResponse, error) {
 							EfficiencyRank        *types.StringInt     `json:"efficiency_rank,omitempty"`
 							EfficiencyValue       *types.StringFloat64 `json:"efficiency_value,omitempty"`
 							HighestRank           *types.StringInt     `json:"highest_rank,omitempty"`
-							HighestRankDate       *string              `json:"highest_rank_date,omitempty"`
+							HighestRankDate       *types.Date          `json:"highest_rank_date,omitempty"`
 							InactivePoints        *types.StringFloat64 `json:"inactive_points,omitempty"`
 							LastMonthRank         *types.StringInt     `json:"last_month_rank,omitempty"`
 							LastYearRank          *types.StringInt     `json:"last_year_rank,omitempty"`
@@ -6557,7 +6556,7 @@ func ParseViewPlayerResponse(rsp *http.Response) (*ViewPlayerResponse, error) {
 							EfficiencyRank        *types.StringInt     `json:"efficiency_rank,omitempty"`
 							EfficiencyValue       *types.StringFloat64 `json:"efficiency_value,omitempty"`
 							HighestRank           *types.StringInt     `json:"highest_rank,omitempty"`
-							HighestRankDate       *string              `json:"highest_rank_date,omitempty"`
+							HighestRankDate       *types.Date          `json:"highest_rank_date,omitempty"`
 							InactivePoints        *types.StringFloat64 `json:"inactive_points,omitempty"`
 							LastMonthRank         *types.StringInt     `json:"last_month_rank,omitempty"`
 							LastYearRank          *types.StringInt     `json:"last_year_rank,omitempty"`
@@ -6710,14 +6709,14 @@ func ParseViewPlayerRankHistoryResponse(rsp *http.Response) (*ViewPlayerRankHist
 			ActiveFlag  *types.StringBool `json:"active_flag,omitempty"`
 			PlayerId    *float32          `json:"player_id,omitempty"`
 			RankHistory *[]struct {
-				RankDate               *string              `json:"rank_date,omitempty"`
+				RankDate               *types.Date          `json:"rank_date,omitempty"`
 				RankPosition           *types.StringInt     `json:"rank_position,omitempty"`
 				TournamentsPlayedCount *types.StringInt     `json:"tournaments_played_count,omitempty"`
 				WpprPoints             *types.StringFloat64 `json:"wppr_points,omitempty"`
 			} `json:"rank_history,omitempty"`
 			RatingHistory *[]struct {
 				Rating     *types.StringFloat64 `json:"rating,omitempty"`
-				RatingDate *string              `json:"rating_date,omitempty"`
+				RatingDate *types.Date          `json:"rating_date,omitempty"`
 			} `json:"rating_history,omitempty"`
 			System *string `json:"system,omitempty"`
 		}
@@ -6753,7 +6752,7 @@ func ParseViewPlayerActiveResultsResponse(rsp *http.Response) (*ViewPlayerActive
 				CountryCode    *string              `json:"country_code,omitempty"`
 				CountryName    *string              `json:"country_name,omitempty"`
 				CurrentPoints  *types.StringFloat64 `json:"current_points,omitempty"`
-				EventDate      *string              `json:"event_date,omitempty"`
+				EventDate      *types.Date          `json:"event_date,omitempty"`
 				EventName      *string              `json:"event_name,omitempty"`
 				OriginalPoints *types.StringFloat64 `json:"original_points,omitempty"`
 				Position       *types.StringInt     `json:"position,omitempty"`
@@ -6917,7 +6916,7 @@ func ParseRankingCustomIDResponse(rsp *http.Response) (*RankingCustomIDResponse,
 			TotalCount    *float32 `json:"total_count,omitempty"`
 			Tournaments   *[]struct {
 				City           *string          `json:"city,omitempty"`
-				EventDate      *string          `json:"event_date,omitempty"`
+				EventDate      *types.Date      `json:"event_date,omitempty"`
 				EventName      *string          `json:"event_name,omitempty"`
 				TournamentId   *types.StringInt `json:"tournament_id,omitempty"`
 				TournamentName *string          `json:"tournament_name,omitempty"`
@@ -7303,7 +7302,7 @@ func ParseSeriesPlayersCardResponse(rsp *http.Response) (*SeriesPlayersCardRespo
 	case strings.Contains(rsp.Header.Get("Content-Type"), "json") && rsp.StatusCode == 200:
 		var dest struct {
 			PlayerCard *[]struct {
-				EventEndDate    *string              `json:"event_end_date,omitempty"`
+				EventEndDate    *types.Date          `json:"event_end_date,omitempty"`
 				EventName       *string              `json:"event_name,omitempty"`
 				RegionEventRank *types.StringInt     `json:"region_event_rank,omitempty"`
 				TournamentId    *types.StringInt     `json:"tournament_id,omitempty"`
@@ -7506,16 +7505,16 @@ func ParseSeriesRegionTourResponse(rsp *http.Response) (*SeriesRegionTourRespons
 			FutureTournament *[]struct {
 				City           *string          `json:"city,omitempty"`
 				DirectorName   *string          `json:"director_name,omitempty"`
-				EventEndDate   *string          `json:"event_end_date,omitempty"`
+				EventEndDate   *types.Date      `json:"event_end_date,omitempty"`
 				EventName      *string          `json:"event_name,omitempty"`
-				EventStartDate *string          `json:"event_start_date,omitempty"`
+				EventStartDate *types.Date      `json:"event_start_date,omitempty"`
 				TournamentId   *types.StringInt `json:"tournament_id,omitempty"`
 				TournamentName *string          `json:"tournament_name,omitempty"`
 			} `json:"future_tournament,omitempty"`
 			RegionCode           *string `json:"region_code,omitempty"`
 			SeriesCode           *string `json:"series_code,omitempty"`
 			SubmittedTournaments *[]struct {
-				EventEndDate   *string          `json:"event_end_date,omitempty"`
+				EventEndDate   *types.Date      `json:"event_end_date,omitempty"`
 				EventName      *string          `json:"event_name,omitempty"`
 				PlayerCount    *types.StringInt `json:"player_count,omitempty"`
 				TournamentId   *types.StringInt `json:"tournament_id,omitempty"`
@@ -7528,7 +7527,7 @@ func ParseSeriesRegionTourResponse(rsp *http.Response) (*SeriesRegionTourRespons
 			} `json:"submitted_tournaments,omitempty"`
 			UnsubmittedTournaments *[]struct {
 				DirectorName   *string          `json:"director_name,omitempty"`
-				EventEndDate   *string          `json:"event_end_date,omitempty"`
+				EventEndDate   *types.Date      `json:"event_end_date,omitempty"`
 				EventName      *string          `json:"event_name,omitempty"`
 				Status         *string          `json:"status,omitempty"`
 				TournamentId   *types.StringInt `json:"tournament_id,omitempty"`
@@ -7597,9 +7596,9 @@ func ParseStatsEventPeriodResponse(rsp *http.Response) (*StatsEventPeriodRespons
 	switch {
 	case strings.Contains(rsp.Header.Get("Content-Type"), "json") && rsp.StatusCode == 200:
 		var dest struct {
-			EndDate     *openapi_types.Date `json:"end_date,omitempty"`
-			ReturnCount *int                `json:"return_count,omitempty"`
-			StartDate   *openapi_types.Date `json:"start_date,omitempty"`
+			EndDate     *types.Date `json:"end_date,omitempty"`
+			ReturnCount *int        `json:"return_count,omitempty"`
+			StartDate   *types.Date `json:"start_date,omitempty"`
 			Stats       *[]struct {
 				CountryCode     *string          `json:"country_code,omitempty"`
 				CountryName     *string          `json:"country_name,omitempty"`
@@ -7676,14 +7675,14 @@ func ParseStatsLargestTournamentsResponse(rsp *http.Response) (*StatsLargestTour
 		var dest struct {
 			RankType *string `json:"rank_type,omitempty"`
 			Stats    *[]struct {
-				CountryCode    *string             `json:"country_code,omitempty"`
-				CountryName    *string             `json:"country_name,omitempty"`
-				EventName      *string             `json:"event_name,omitempty"`
-				PlayerCount    *types.StringInt    `json:"player_count,omitempty"`
-				StatsRank      *int                `json:"stats_rank,omitempty"`
-				TournamentDate *openapi_types.Date `json:"tournament_date,omitempty"`
-				TournamentId   *types.StringInt    `json:"tournament_id,omitempty"`
-				TournamentName *string             `json:"tournament_name,omitempty"`
+				CountryCode    *string          `json:"country_code,omitempty"`
+				CountryName    *string          `json:"country_name,omitempty"`
+				EventName      *string          `json:"event_name,omitempty"`
+				PlayerCount    *types.StringInt `json:"player_count,omitempty"`
+				StatsRank      *int             `json:"stats_rank,omitempty"`
+				TournamentDate *types.Date      `json:"tournament_date,omitempty"`
+				TournamentId   *types.StringInt `json:"tournament_id,omitempty"`
+				TournamentName *string          `json:"tournament_name,omitempty"`
 			} `json:"stats,omitempty"`
 			Type *string `json:"type,omitempty"`
 		}
@@ -7715,14 +7714,14 @@ func ParseStatsLucrativeToursResponse(rsp *http.Response) (*StatsLucrativeToursR
 		var dest struct {
 			RankType *string `json:"rank_type,omitempty"`
 			Stats    *[]struct {
-				CountryCode     *string             `json:"country_code,omitempty"`
-				CountryName     *string             `json:"country_name,omitempty"`
-				EventName       *string             `json:"event_name,omitempty"`
-				StatsRank       *int                `json:"stats_rank,omitempty"`
-				TournamentDate  *openapi_types.Date `json:"tournament_date,omitempty"`
-				TournamentId    *types.StringInt    `json:"tournament_id,omitempty"`
-				TournamentName  *string             `json:"tournament_name,omitempty"`
-				TournamentValue *float32            `json:"tournament_value,omitempty"`
+				CountryCode     *string          `json:"country_code,omitempty"`
+				CountryName     *string          `json:"country_name,omitempty"`
+				EventName       *string          `json:"event_name,omitempty"`
+				StatsRank       *int             `json:"stats_rank,omitempty"`
+				TournamentDate  *types.Date      `json:"tournament_date,omitempty"`
+				TournamentId    *types.StringInt `json:"tournament_id,omitempty"`
+				TournamentName  *string          `json:"tournament_name,omitempty"`
+				TournamentValue *float32         `json:"tournament_value,omitempty"`
 			} `json:"stats,omitempty"`
 			Type *string `json:"type,omitempty"`
 		}
@@ -7833,10 +7832,10 @@ func ParseStatsPointsPeriodResponse(rsp *http.Response) (*StatsPointsPeriodRespo
 	switch {
 	case strings.Contains(rsp.Header.Get("Content-Type"), "json") && rsp.StatusCode == 200:
 		var dest struct {
-			EndDate     *openapi_types.Date `json:"end_date,omitempty"`
-			RankType    *string             `json:"rank_type,omitempty"`
-			ReturnCount *int                `json:"return_count,omitempty"`
-			StartDate   *openapi_types.Date `json:"start_date,omitempty"`
+			EndDate     *types.Date `json:"end_date,omitempty"`
+			RankType    *string     `json:"rank_type,omitempty"`
+			ReturnCount *int        `json:"return_count,omitempty"`
+			StartDate   *types.Date `json:"start_date,omitempty"`
 			Stats       *[]struct {
 				CountryCode *string              `json:"country_code,omitempty"`
 				CountryName *string              `json:"country_name,omitempty"`
@@ -7988,9 +7987,9 @@ func ParseViewLeagueInfoResponse(rsp *http.Response) (*ViewLeagueInfoResponse, e
 				CountryName    *string           `json:"country_name,omitempty"`
 				DirectorId     *types.StringInt  `json:"director_id,omitempty"`
 				DirectorName   *string           `json:"director_name,omitempty"`
-				EventEndDate   *string           `json:"event_end_date,omitempty"`
+				EventEndDate   *types.Date       `json:"event_end_date,omitempty"`
 				EventName      *string           `json:"event_name,omitempty"`
-				EventStartDate *string           `json:"event_start_date,omitempty"`
+				EventStartDate *types.Date       `json:"event_start_date,omitempty"`
 				Latitude       *string           `json:"latitude,omitempty"`
 				Longitude      *string           `json:"longitude,omitempty"`
 				PrivateFlag    *types.StringBool `json:"private_flag,omitempty"`
@@ -8028,20 +8027,20 @@ func ParseTourSearchResponse(rsp *http.Response) (*TourSearchResponse, error) {
 	case strings.Contains(rsp.Header.Get("Content-Type"), "json") && rsp.StatusCode == 200:
 		var dest struct {
 			SearchFilter *struct {
-				Country      *string  `json:"country,omitempty"`
-				DirectorName *string  `json:"director_name,omitempty"`
-				DistanceUnit *float32 `json:"distance_unit,omitempty"`
-				EndDate      *string  `json:"end_date,omitempty"`
-				EventType    *string  `json:"event_type,omitempty"`
-				Latitude     *string  `json:"latitude,omitempty"`
-				Longitude    *string  `json:"longitude,omitempty"`
-				Name         *string  `json:"name,omitempty"`
-				Radius       *float32 `json:"radius,omitempty"`
-				RankType     *string  `json:"rank_type,omitempty"`
-				SortMode     *string  `json:"sort_mode,omitempty"`
-				SortOrder    *string  `json:"sort_order,omitempty"`
-				StartDate    *string  `json:"start_date,omitempty"`
-				Stateprov    *string  `json:"stateprov,omitempty"`
+				Country      *string     `json:"country,omitempty"`
+				DirectorName *string     `json:"director_name,omitempty"`
+				DistanceUnit *float32    `json:"distance_unit,omitempty"`
+				EndDate      *types.Date `json:"end_date,omitempty"`
+				EventType    *string     `json:"event_type,omitempty"`
+				Latitude     *string     `json:"latitude,omitempty"`
+				Longitude    *string     `json:"longitude,omitempty"`
+				Name         *string     `json:"name,omitempty"`
+				Radius       *float32    `json:"radius,omitempty"`
+				RankType     *string     `json:"rank_type,omitempty"`
+				SortMode     *string     `json:"sort_mode,omitempty"`
+				SortOrder    *string     `json:"sort_order,omitempty"`
+				StartDate    *types.Date `json:"start_date,omitempty"`
+				Stateprov    *string     `json:"stateprov,omitempty"`
 			} `json:"search_filter,omitempty"`
 			TotalResults *types.StringInt `json:"total_results,omitempty"`
 			Tournaments  *[]struct {
@@ -8054,9 +8053,9 @@ func ParseTourSearchResponse(rsp *http.Response) (*TourSearchResponse, error) {
 				Details             *string           `json:"details,omitempty"`
 				DirectorId          *types.StringInt  `json:"director_id,omitempty"`
 				DirectorName        *string           `json:"director_name,omitempty"`
-				EventEndDate        *string           `json:"event_end_date,omitempty"`
+				EventEndDate        *types.Date       `json:"event_end_date,omitempty"`
 				EventName           *string           `json:"event_name,omitempty"`
-				EventStartDate      *string           `json:"event_start_date,omitempty"`
+				EventStartDate      *types.Date       `json:"event_start_date,omitempty"`
 				EventType           *string           `json:"event_type,omitempty"`
 				FinalsFormat        *string           `json:"finals_format,omitempty"`
 				Latitude            *string           `json:"latitude,omitempty"`
@@ -8064,7 +8063,7 @@ func ParseTourSearchResponse(rsp *http.Response) (*TourSearchResponse, error) {
 				Longitude           *string           `json:"longitude,omitempty"`
 				PlayerCount         *types.StringInt  `json:"player_count,omitempty"`
 				PostalCode          *string           `json:"postal_code,omitempty"`
-				PreregistrationDate *string           `json:"preregistration_date,omitempty"`
+				PreregistrationDate *types.Date       `json:"preregistration_date,omitempty"`
 				PrivateFlag         *types.StringBool `json:"private_flag,omitempty"`
 				ProfilePhoto        *string           `json:"profile_photo,omitempty"`
 				QualifyingFormat    *string           `json:"qualifying_format,omitempty"`
@@ -8121,9 +8120,9 @@ func ParseTourInfoResponse(rsp *http.Response) (*TourInfoResponse, error) {
 			DirectorName              *string              `json:"director_name,omitempty"`
 			EligiblePlayerCount       *types.StringInt     `json:"eligible_player_count,omitempty"`
 			EventClass                *string              `json:"event_class,omitempty"`
-			EventEndDate              *string              `json:"event_end_date,omitempty"`
+			EventEndDate              *types.Date          `json:"event_end_date,omitempty"`
 			EventName                 *string              `json:"event_name,omitempty"`
-			EventStartDate            *string              `json:"event_start_date,omitempty"`
+			EventStartDate            *types.Date          `json:"event_start_date,omitempty"`
 			EventWeight               *types.StringFloat64 `json:"event_weight,omitempty"`
 			FinalsFormat              *string              `json:"finals_format,omitempty"`
 			GamesToWin                *types.StringInt     `json:"games_to_win,omitempty"`
@@ -8145,10 +8144,10 @@ func ParseTourInfoResponse(rsp *http.Response) (*TourInfoResponse, error) {
 			RatingsStrength           *types.StringFloat64 `json:"ratings_strength,omitempty"`
 			RawAddress                *string              `json:"raw_address,omitempty"`
 			RegistrationCost          *types.StringFloat64 `json:"registration_cost,omitempty"`
-			RegistrationDate          *string              `json:"registration_date,omitempty"`
+			RegistrationDate          *types.Date          `json:"registration_date,omitempty"`
 			RegistrationWebsite       *string              `json:"registration_website,omitempty"`
 			ReservedSpots             *types.StringInt     `json:"reserved_spots,omitempty"`
-			StartTime                 *string              `json:"start_time,omitempty"`
+			StartTime                 *types.TimeOfDay     `json:"start_time,omitempty"`
 			Stateprov                 *string              `json:"stateprov,omitempty"`
 			TiebreakerFormat          *string              `json:"tiebreaker_format,omitempty"`
 			TournamentId              *types.StringInt     `json:"tournament_id,omitempty"`
@@ -8188,9 +8187,9 @@ func ParseTourRelatedResponse(rsp *http.Response) (*TourRelatedResponse, error) 
 	case strings.Contains(rsp.Header.Get("Content-Type"), "json") && rsp.StatusCode == 200:
 		var dest struct {
 			Tournament *[]struct {
-				EventEndDate   *string                  `json:"event_end_date,omitempty"`
+				EventEndDate   *types.Date              `json:"event_end_date,omitempty"`
 				EventName      *string                  `json:"event_name,omitempty"`
-				EventStartDate *string                  `json:"event_start_date,omitempty"`
+				EventStartDate *types.Date              `json:"event_start_date,omitempty"`
 				RankingSystem  *string                  `json:"ranking_system,omitempty"`
 				TournamentId   *types.StringInt         `json:"tournament_id,omitempty"`
 				TournamentName *string                  `json:"tournament_name,omitempty"`

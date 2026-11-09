@@ -391,3 +391,49 @@ func TestPlayerExampleUnmarshalEmpty(t *testing.T) {
 		t.Error("expected age to be empty")
 	}
 }
+
+func TestDate(t *testing.T) {
+	tests := []struct {
+		in      string
+		want    string
+		zero    bool
+		wantErr bool
+	}{
+		{`"2026-02-26"`, "2026-02-26", false, false},
+		{`"2024-05-01T00:00:00.000Z"`, "2024-05-01", false, false},
+		{`"2024-05-01 10:11:12"`, "2024-05-01", false, false},
+		{`""`, "", true, false},
+		{`"0000-00-00"`, "", true, false},
+		{`null`, "", true, false},
+		{`"nope"`, "", true, true},
+		{`5`, "", true, true},
+	}
+	for _, tt := range tests {
+		var d Date
+		err := json.Unmarshal([]byte(tt.in), &d)
+		if (err != nil) != tt.wantErr {
+			t.Errorf("%s: err = %v, wantErr %v", tt.in, err, tt.wantErr)
+			continue
+		}
+		if err == nil && (d.String() != tt.want || d.IsZero() != tt.zero) {
+			t.Errorf("%s: got %q zero=%v", tt.in, d.String(), d.IsZero())
+		}
+	}
+	b, _ := json.Marshal(Date{})
+	if string(b) != "null" {
+		t.Errorf("zero marshal = %s", b)
+	}
+}
+
+func TestTimeOfDay(t *testing.T) {
+	var d TimeOfDay
+	if err := json.Unmarshal([]byte(`"13:30:00"`), &d); err != nil || d.String() != "13:30:00" {
+		t.Errorf("got %q err %v", d.String(), err)
+	}
+	if err := json.Unmarshal([]byte(`null`), &d); err != nil || !d.IsZero() {
+		t.Errorf("null: %v", err)
+	}
+	if err := json.Unmarshal([]byte(`"x"`), &d); err == nil {
+		t.Error("expected error")
+	}
+}
