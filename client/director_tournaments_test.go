@@ -65,7 +65,7 @@ func TestDirectorTournamentsFuture(t *testing.T) {
 	if first.CountryCode == nil || *first.CountryCode != "AU" {
 		t.Errorf("expected first country_code 'AU', got %v", first.CountryCode)
 	}
-	if first.EventStartDate == nil || *first.EventStartDate != "2026-03-05" {
+	if first.EventStartDate == nil || (*first.EventStartDate).String() != "2026-03-05" {
 		t.Errorf("expected first event_start_date '2026-03-05', got %v", first.EventStartDate)
 	}
 
@@ -116,7 +116,7 @@ func TestDirectorTournamentsPast(t *testing.T) {
 	if first.TournamentName == nil || *first.TournamentName != "Flipper Fellowship Flip Frenzy" {
 		t.Errorf("expected first tournament_name 'Flipper Fellowship Flip Frenzy', got %v", first.TournamentName)
 	}
-	if first.EventEndDate == nil || *first.EventEndDate != "2026-02-26" {
+	if first.EventEndDate == nil || (*first.EventEndDate).String() != "2026-02-26" {
 		t.Errorf("expected first event_end_date '2026-02-26', got %v", first.EventEndDate)
 	}
 

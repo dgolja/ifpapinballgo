@@ -64,7 +64,7 @@ func TestSeriesRegionTourACSQLD(t *testing.T) {
 	if first.TournamentId == nil || int(*first.TournamentId) != 88669 {
 		t.Errorf("expected first tournament_id 88669, got %v", first.TournamentId)
 	}
-	if first.EventEndDate == nil || *first.EventEndDate != "2025-12-29" {
+	if first.EventEndDate == nil || (*first.EventEndDate).String() != "2025-12-29" {
 		t.Errorf("expected first event_end_date '2025-12-29', got %v", first.EventEndDate)
 	}
 	if first.TournamentName == nil || *first.TournamentName != "Empire Cairns Pizza + Pinball Strikes" {
@@ -143,7 +143,7 @@ func TestSeriesRegionTourWNACSOIL(t *testing.T) {
 	if first.TournamentId == nil || int(*first.TournamentId) != 106024 {
 		t.Errorf("expected first tournament_id 106024, got %v", first.TournamentId)
 	}
-	if first.EventEndDate == nil || *first.EventEndDate != "2025-12-31" {
+	if first.EventEndDate == nil || (*first.EventEndDate).String() != "2025-12-31" {
 		t.Errorf("expected first event_end_date '2025-12-31', got %v", first.EventEndDate)
 	}
 	if first.WpprPoints == nil || *first.WpprPoints != types.StringFloat64(0.0) {

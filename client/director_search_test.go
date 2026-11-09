@@ -80,7 +80,7 @@ func TestDirectorSearch(t *testing.T) {
 	if first.Stats.UniquePlayerCount == nil || int(*first.Stats.UniquePlayerCount) != 149 {
 		t.Errorf("expected first stats.unique_player_count 149, got %v", first.Stats.UniquePlayerCount)
 	}
-	if first.Stats.LastEventDate == nil || *first.Stats.LastEventDate != "2026-02-26" {
+	if first.Stats.LastEventDate == nil || (*first.Stats.LastEventDate).String() != "2026-02-26" {
 		t.Errorf("expected first stats.last_event_date '2026-02-26', got %v", first.Stats.LastEventDate)
 	}
 }

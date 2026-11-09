@@ -113,7 +113,7 @@ func TestTournamentSearchPastMainAU(t *testing.T) {
 	if first.PrivateFlag == nil || bool(*first.PrivateFlag) != false {
 		t.Errorf("expected first private_flag false, got %v", first.PrivateFlag)
 	}
-	if first.EventStartDate == nil || *first.EventStartDate != "2026-01-03" {
+	if first.EventStartDate == nil || (*first.EventStartDate).String() != "2026-01-03" {
 		t.Errorf("expected first event_start_date '2026-01-03', got %v", first.EventStartDate)
 	}
 
@@ -184,7 +184,7 @@ func TestTournamentSearchFutureMainAU(t *testing.T) {
 	if first.TournamentName == nil || *first.TournamentName != "Tower Tuesdays" {
 		t.Errorf("expected first tournament_name 'Tower Tuesdays', got %v", first.TournamentName)
 	}
-	if first.EventStartDate == nil || *first.EventStartDate != "2026-11-03" {
+	if first.EventStartDate == nil || (*first.EventStartDate).String() != "2026-11-03" {
 		t.Errorf("expected first event_start_date '2026-11-03', got %v", first.EventStartDate)
 	}
 

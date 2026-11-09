@@ -130,9 +130,11 @@ actions:
           event_start_date:
             type: string
             example: 2024-05-01T00:00:00.000Z
+            x-go-type: types.Date
           event_end_date:
             type: string
             example: 2024-05-01T00:00:00.000Z
+            x-go-type: types.Date
           qualifying_format:
             type: string
             example: Matchplay
@@ -232,6 +234,7 @@ actions:
               last_event_date:
                 type: string
                 example: 2024-01-01T00:00:00.000Z
+                x-go-type: types.Date
   - target: $["paths"]["/director/search"]["get"]["responses"]["200"]["content"]["application/json"]["schema"]["properties"]["directors"]["properties"]
     remove: true
   - target: $["paths"]["/director/search"]["get"]["responses"]["200"]["content"]["application/json"]["schema"]["type"]
@@ -403,6 +406,7 @@ actions:
                       highest_rank_date:
                         type: string
                         example: "2017-12-01"
+                        x-go-type: types.Date
                       pro_rank:
                         type: number
                         x-go-type: types.StringInt
@@ -500,6 +504,7 @@ actions:
                       highest_rank_date:
                         type: string
                         example: "2017-12-01"
+                        x-go-type: types.Date
                       pro_rank:
                         type: number
                         x-go-type: types.StringInt
@@ -709,6 +714,7 @@ actions:
                       highest_rank_date:
                         type: string
                         example: "2017-12-01"
+                        x-go-type: types.Date
                       pro_rank:
                         type: number
                         x-go-type: types.StringInt
@@ -806,6 +812,7 @@ actions:
                       highest_rank_date:
                         type: string
                         example: "2017-12-01"
+                        x-go-type: types.Date
                       pro_rank:
                         type: number
                         x-go-type: types.StringInt
@@ -1016,6 +1023,7 @@ actions:
           rank_date:
             type: string
             example: 2024-01-01T00:00:00.000Z
+            x-go-type: types.Date
           rank_position:
             type: number
             example: 15
@@ -1040,6 +1048,7 @@ actions:
           rating_date:
             type: string
             example: 2024-01-01T00:00:00.000Z
+            x-go-type: types.Date
           rating:
             type: number
             example: 1561.55
@@ -1073,6 +1082,7 @@ actions:
           event_date:
             type: string
             example: 2024-01-01T00:00:00.000Z
+            x-go-type: types.Date
           country_name:
             type: string
             example: United States
@@ -1816,6 +1826,7 @@ actions:
             event_date:
               type: string
               example: 2024-01-01
+              x-go-type: types.Date
             city:
               type: string
               example: Chicago
@@ -1917,6 +1928,7 @@ actions:
           event_end_date:
             type: string
             example: 2024-05-01T00:00:00.000Z
+            x-go-type: types.Date
           wppr_points:
             type: number
             example: 1711.11
@@ -2138,6 +2150,7 @@ actions:
           event_end_date:
             type: string
             example: 2024-01-01T00:00:00.000Z
+            x-go-type: types.Date
           tournament_name:
             type: string
             example: IFPA World Championships
@@ -2178,6 +2191,7 @@ actions:
           event_end_date:
             type: string
             example: 2024-01-01T00:00:00.000Z
+            x-go-type: types.Date
           tournament_name:
             type: string
             example: IFPA World Championships
@@ -2206,9 +2220,11 @@ actions:
           event_start_date:
             type: string
             example: 2024-01-01T00:00:00.000Z
+            x-go-type: types.Date
           event_end_date:
             type: string
             example: 2024-01-01T00:00:00.000Z
+            x-go-type: types.Date
           tournament_name:
             type: string
             example: IFPA World Championships
@@ -2399,8 +2415,8 @@ actions:
             example: Main Tournament
           tournament_date:
             type: string
-            format: date
             example: 2024-01-01T00:00:00.000Z
+            x-go-type: types.Date
           stats_rank:
             type: integer
             example: 1
@@ -2440,8 +2456,8 @@ actions:
             example: Main Tournament
           tournament_date:
             type: string
-            format: date
             example: 2024-01-01T00:00:00.000Z
+            x-go-type: types.Date
           tournament_value:
             type: number
             example: 451.11
@@ -2718,6 +2734,7 @@ actions:
       start_time:
         type: string
         nullable: true
+        x-go-type: types.TimeOfDay
         example: "19:00:00"
       event_class:
         type: string
@@ -2751,9 +2768,11 @@ actions:
           event_start_date:
             type: string
             example: 2024-01-01
+            x-go-type: types.Date
           event_end_date:
             type: string
             example: 2024-01-01
+            x-go-type: types.Date
           ranking_system:
             type: string
             example: MAIN
@@ -2885,9 +2904,11 @@ actions:
             event_start_date:
               type: string
               example: 2024-01-01
+              x-go-type: types.Date
             event_end_date:
               type: string
               example: 2024-01-01
+              x-go-type: types.Date
             private_flag:
               type: boolean
               example: false
@@ -3030,9 +3051,11 @@ actions:
           event_start_date:
             type: string
             example: 2024-01-01
+            x-go-type: types.Date
           event_end_date:
             type: string
             example: 2024-01-01
+            x-go-type: types.Date
           latitude:
             type: string
             example: -17.151
@@ -3052,6 +3075,7 @@ actions:
           preregistration_date:
             type: string
             example: 2024-01-01
+            x-go-type: types.Date
           player_count:
             type: number
             example: 100
@@ -3107,3 +3131,30 @@ actions:
                 example: US
   - target: $["paths"]["/tournament/search"]["get"]["responses"]["200"]["content"]["application/json"]["schema"]["properties"]["tournaments"]["properties"]
     remove: true
+  - target: $["paths"]["/stats/points_given_period"]["get"]["responses"]["200"]["content"]["application/json"]["schema"]["properties"]["start_date"]
+    update:
+      x-go-type: types.Date
+  - target: $["paths"]["/stats/points_given_period"]["get"]["responses"]["200"]["content"]["application/json"]["schema"]["properties"]["end_date"]
+    update:
+      x-go-type: types.Date
+  - target: $["paths"]["/stats/events_attended_period"]["get"]["responses"]["200"]["content"]["application/json"]["schema"]["properties"]["start_date"]
+    update:
+      x-go-type: types.Date
+  - target: $["paths"]["/stats/events_attended_period"]["get"]["responses"]["200"]["content"]["application/json"]["schema"]["properties"]["end_date"]
+    update:
+      x-go-type: types.Date
+  - target: $["paths"]["/tournament/{id}"]["get"]["responses"]["200"]["content"]["application/json"]["schema"]["properties"]["event_start_date"]
+    update:
+      x-go-type: types.Date
+  - target: $["paths"]["/tournament/{id}"]["get"]["responses"]["200"]["content"]["application/json"]["schema"]["properties"]["event_end_date"]
+    update:
+      x-go-type: types.Date
+  - target: $["paths"]["/tournament/{id}"]["get"]["responses"]["200"]["content"]["application/json"]["schema"]["properties"]["registration_date"]
+    update:
+      x-go-type: types.Date
+  - target: $["paths"]["/tournament/search"]["get"]["responses"]["200"]["content"]["application/json"]["schema"]["properties"]["search_filter"]["properties"]["start_date"]
+    update:
+      x-go-type: types.Date
+  - target: $["paths"]["/tournament/search"]["get"]["responses"]["200"]["content"]["application/json"]["schema"]["properties"]["search_filter"]["properties"]["end_date"]
+    update:
+      x-go-type: types.Date
